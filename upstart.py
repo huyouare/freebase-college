@@ -35,7 +35,7 @@ for college in collegeList:
   params = {
           'name': college.name,
           'kind': '/education/university',
-          'prop': '/location/location/containedby' + college.city,
+          'prop': '/location/location/containedby:' + college.city,
           'key': api_key
   }
   url = service_url + '?' + urllib.urlencode(params)
