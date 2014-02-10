@@ -36,12 +36,34 @@ api_key = open(".freebase_api_key").read()
 service_url = 'https://www.googleapis.com/freebase/v1/reconcile'   
 for college in collegeList:
   params = {
-          'name': college.name,
-          'kind': '/education/university',
-          'prop': '/location/location/containedby:' + college.city,
-          'prop': '/location/location/containedby:' + college.state,
-          'key': api_key
+    'name': college.name,
+    'kind': '/education/university',
+    'prop': '/location/location/containedby:' + college.city ,
+     # + '" ' + '/location/location/containedby:"' + college.state + '")',
+    'key': api_key
   }
+  print(params)
+  url = service_url + '?' + urllib.urlencode(params)
+  response = json.loads(urllib.urlopen(url).read())
+  # if 'match' in response:
+  #   print response['match']
+  #   college.confidence = response['match'].confidence
+  if response['candidate'] is None:
+    print("ERROR NO CANDIDATE")
+    continue
+  college.freebase_id = response['candidate'][0]['mid']
+  college.confidence = response['candidate'][0]['confidence']
+  for candidate in response['candidate']:
+    print candidate['mid'] + ' (' + str(candidate['confidence']) + ')'
+
+service_url = 'https://www.googleapis.com/freebase/v1/search'
+for college in collegeList:
+  query = college.name
+  params = {
+    'query': query,
+    'key': api_key
+  }
+  print(params)
   url = service_url + '?' + urllib.urlencode(params)
   response = json.loads(urllib.urlopen(url).read())
   # if 'match' in response:
