@@ -38,11 +38,9 @@ for college in collegeList:
   params = {
     'name': college.name,
     'kind': '/education/university',
-    'prop': '/location/location/containedby:' + college.city ,
-     # + '" ' + '/location/location/containedby:"' + college.state + '")',
+    'prop': [ "/location/location/containedby:" + college.city, "/location/location/containedby:" + college.state],
     'key': api_key
   }
-  print(params)
   url = service_url + '?' + urllib.urlencode(params)
   response = json.loads(urllib.urlopen(url).read())
   # if 'match' in response:
@@ -61,21 +59,17 @@ for college in collegeList:
   query = college.name
   params = {
     'query': query,
+    'type': '/education/university',
+    'filter': "(all type:/education/university /location/location/containedby:\"" + college.state + "\")",
     'key': api_key
   }
   print(params)
   url = service_url + '?' + urllib.urlencode(params)
   response = json.loads(urllib.urlopen(url).read())
-  # if 'match' in response:
-  #   print response['match']
-  #   college.confidence = response['match'].confidence
-  if response['candidate'] is None:
-    print("ERROR NO CANDIDATE")
-    continue
-  college.freebase_id = response['candidate'][0]['mid']
-  college.confidence = response['candidate'][0]['confidence']
-  for candidate in response['candidate']:
-    print candidate['mid'] + ' (' + str(candidate['confidence']) + ')'
+  for result in response['result']:
+    print result['mid'] + ' (' + str(result['score']) + ')'
+  college.freebase_id = response['result'][0]['mid']
+  college.confidence = response['result'][0]['score']
 
 
 with open('output.csv', 'wb') as f:
