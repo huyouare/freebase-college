@@ -39,6 +39,7 @@ for college in collegeList:
           'name': college.name,
           'kind': '/education/university',
           'prop': '/location/location/containedby:' + college.city,
+          'prop': '/location/location/containedby:' + college.state,
           'key': api_key
   }
   url = service_url + '?' + urllib.urlencode(params)
