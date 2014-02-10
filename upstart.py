@@ -5,7 +5,6 @@ import urllib
 class College(object):
     collegeCount = 0
 
-    # The class "constructor" - It's actually an initializer 
     def __init__(self, name, upstart_id, city):
         self.name = name
         self.upstart_id = upstart_id
@@ -44,3 +43,8 @@ for college in collegeList:
     print response['match']
   for candidate in response['candidate']:
       print candidate['mid'] + ' (' + str(candidate['confidence']) + ')'
+
+with open('output.csv', 'wb') as f:
+  writer = csv.writer(file, delimiter=',')
+  for college in collegeList:
+      writer.writerow(college)
