@@ -36,9 +36,9 @@ api_key = open(".freebase_api_key").read()
 service_url = 'https://www.googleapis.com/freebase/v1/reconcile'   
 for college in collegeList:
   params = {
-    'name': college.name,
+    'name': 'college',
     'kind': '/education/university',
-    'prop': [ "/location/location/containedby:" + college.city, "/location/location/containedby:" + college.state],
+    'prop': ["/location/location/containedby:" + college.city, " /location/location/containedby:" + college.state],
     'key': api_key
   }
   url = service_url + '?' + urllib.urlencode(params)
@@ -58,9 +58,11 @@ service_url = 'https://www.googleapis.com/freebase/v1/search'
 for college in collegeList:
   query = college.name
   params = {
-    'query': query,
+    'query': "college",
     'type': '/education/university',
-    'filter': "(all type:/education/university /location/location/containedby:\"" + college.state + "\")",
+    'filter': "(all type:/education/university " + \
+      "/location/location/containedby:\"" + college.city + "\" " + \
+      "/location/location/containedby:\"" + college.state + "\""+ ")",
     'key': api_key
   }
   print(params)
