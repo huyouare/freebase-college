@@ -59,7 +59,7 @@ for college in collegeList:
   query = college.name
   params = {
     'query': "college",
-    'type': '/education/university',
+    'type': '/education/university', 
     'filter': "(all type:/education/university " + \
       "/location/location/containedby:\"" + college.city + "\" " + \
       "/location/location/containedby:\"" + college.state + "\""+ ")",
