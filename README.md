@@ -18,16 +18,16 @@ Freebase search did not produce results. Correct results came from "Aquinas Coll
 
 ### Getting Started
 ######Install dependencies:  
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 ###### Using the script:  
-'python upstart.py TSV_FILE'
+`python upstart.py TSV_FILE`
 
 ###### Example:  
-'python upstart.py colleges_for_jesse.tsv'
+`python upstart.py colleges_for_jesse.tsv`
 
 ###### Output:  
 
 
 ###### Testing (100 random trials):  
-'python test.py'
+`python test.py`
