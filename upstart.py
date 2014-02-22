@@ -34,7 +34,7 @@ def read_file(f):
     next(reader)
     for row in reader:
       print(row)
-      newCollege = College(row[0], row[1], (row[2] if len(row)>2 else None), (row[3] if len(row)>3 else None), (row[4] if len(row)>4 else None))
+      newCollege = College(row[0].replace('--', ' '), row[1], (row[2] if len(row)>2 else None), (row[3] if len(row)>3 else None), (row[4] if len(row)>4 else None))
       collegeList.append(newCollege)
 
   print(College.collegeCount)
@@ -49,7 +49,7 @@ def reconcile(college):
   }
   url = service_url + '?' + urllib.urlencode(params)
   response = json.loads(urllib.urlopen(url).read())
-  with open('error.log', 'wb') as f:
+  with open('error.log', 'a') as f: # Simple logging, only for reconciliation
     if response is None:
       f.write("ERROR NO RESPONSE")
       return
