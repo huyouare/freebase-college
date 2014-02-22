@@ -2,6 +2,7 @@ import csv
 import json
 import urllib
 import sys
+import us
 # import requests, re
 # from bs4 import BeautifulSoup
 
@@ -144,6 +145,9 @@ def search_test():
 
       if len(response['result'])==0:
         print("Reconciling: " + college.name)
+        with open('reconcile.tsv', 'a') as rec:
+          w = csv.writer(rec, delimter = '\t')
+          w.writerow([college.upstart_id] + [college.name] + [college.sat_score] + [college.retention_rate] + [college.graduatation_rate])
         reconcile(college)
         writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence] + [college.name] + [college.result_name])
         if college.name != college.result_name:
