@@ -2,11 +2,15 @@ import csv
 import json
 import urllib
 import sys
-import us
-# import requests, re
+import re
+# import us
 # from bs4 import BeautifulSoup
 
 #TODO: Add state support without dragging confidence down
+
+states = { 'AK': 'Alaska', 'AL': 'Alabama', 'AR': 'Arkansas', 'AS': 'American Samoa', 'AZ': 'Arizona', 'CA': 'California', 'CO': 'Colorado', 'CT': 'Connecticut', 'DC': 'District of Columbia', 'DE': 'Delaware', 'FL': 'Florida', 'GA': 'Georgia', 'GU': 'Guam', 'HI': 'Hawaii', 'IA': 'Iowa', 'ID': 'Idaho', 'IL': 'Illinois', 'IN': 'Indiana', 'KS': 'Kansas', 'KY': 'Kentucky', 'LA': 'Louisiana', 'MA': 'Massachusetts', 'MD': 'Maryland', 'ME': 'Maine', 'MI': 'Michigan', 'MN': 'Minnesota', 'MO': 'Missouri', 'MP': 'Northern Mariana Islands', 'MS': 'Mississippi', 'MT': 'Montana', 'NA': 'National', 'NC': 'North Carolina', 'ND': 'North Dakota', 'NE': 'Nebraska', 'NH': 'New Hampshire', 'NJ': 'New Jersey', 'NM': 'New Mexico', 'NV': 'Nevada', 'NY': 'New York', 'OH': 'Ohio', 'OK': 'Oklahoma', 'OR': 'Oregon', 'PA': 'Pennsylvania', 'PR': 'Puerto Rico', 'RI': 'Rhode Island', 'SC': 'South Carolina', 'SD': 'South Dakota', 'TN': 'Tennessee', 'TX': 'Texas', 'UT': 'Utah', 'VA': 'Virginia', 'VI': 'Virgin Islands', 'VT': 'Vermont', 'WA': 'Washington', 'WI': 'Wisconsin', 'WV': 'West Virginia', 'WY': 'Wyoming'
+}
+
 
 class College(object):
   collegeCount = 0
@@ -34,8 +38,17 @@ def read_file(f):
     reader = csv.reader(f, delimiter='\t')
     next(reader)
     for row in reader:
-      print(row)
-      newCollege = College(row[0].replace('--', ' '), row[1], (row[2] if len(row)>2 else None), (row[3] if len(row)>3 else None), (row[4] if len(row)>4 else None))
+
+      # college_name = row[1].replace('--', ' ')
+      college_name = row[1]
+      regex = re.compile(r'\b(' + '|'.join(states) + r')\b')
+      abbr = regex.search(college_name)
+      if abbr:
+        abbr = abbr.group(0)
+        print(abbr)
+        college_name = college_name.replace(abbr, states[abbr])
+        print(college_name)
+      newCollege = College(row[0], college_name, (row[2] if len(row)>2 else None), (row[3] if len(row)>3 else None), (row[4] if len(row)>4 else None))
       collegeList.append(newCollege)
 
   print(College.collegeCount)
@@ -146,7 +159,7 @@ def search_test():
       if len(response['result'])==0:
         print("Reconciling: " + college.name)
         with open('reconcile.tsv', 'a') as rec:
-          w = csv.writer(rec, delimter = '\t')
+          w = csv.writer(rec, delimiter = '\t')
           w.writerow([college.upstart_id] + [college.name] + [college.sat_score] + [college.retention_rate] + [college.graduatation_rate])
         reconcile(college)
         writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence] + [college.name] + [college.result_name])

@@ -14,7 +14,17 @@ Goal:
 * Rutgers, the State University of New Jersey--Newark:
 Freebase Search could not provide results for "Rutgers the State University of New Jersey Newark". "Rutgers, the State University of New Jersey" returns Rutgers University (/m/0ks67). "Rutgers Newark" provides Rutgers-Newark (/m/074p0t).
 * Aquinas College - Grand Rapids, MI:
+Aquinas College - Nashville, TN
+etc.
 Freebase search did not produce results. Correct results came from "Aquinas College Grand Rapids". Freebase Search does not cooperate with two-letter state abbreviations in search query.
+http://code.activestate.com/recipes/577305-python-dictionary-of-us-states-and-territories/
+http://stackoverflow.com/questions/2313032/regex-for-state-abbreviations-python
+
+Berkeley College - Woodland Park, NJ
+Berkeley College - New York, NY 
+
+Bethel College - Mishawaka, IN
+Sometimes results appear with abbreviations rather than full state name (IN over Indiana). We must try both.
 
 ### Getting Started
 ######Install dependencies:  
