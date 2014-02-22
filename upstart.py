@@ -49,19 +49,23 @@ def reconcile(college):
   }
   url = service_url + '?' + urllib.urlencode(params)
   response = json.loads(urllib.urlopen(url).read())
-
-  if 'match' in response:
-    print(response['match'])
+  if response is None:
+    print("ERROR NO RESPONSE")
+    return
+  if 'match' in response.keys():
+    print("Match: " + response['match'])
     college.freebase_id = response['match']['mid']
-    college.result_name = response['match']['name']
+    college.result_name = response['match']['name'].encode('utf-8')
     college.confidence = response['match']['confidence']
-  if response['candidate'] is None:
-    print("ERROR NO CANDIDATE")
-  else:
+  elif 'candidate' in response.keys():
     college.freebase_id = response['candidate'][0]['mid']
+    college.result_name = response['candidate'][0]['name'].encode('utf-8')
     college.confidence = response['candidate'][0]['confidence']
     for candidate in response['candidate']:
-      print(candidate['mid'] + ' (' + str(candidate['confidence']) + ')')
+      print(candidate['mid'] + ' (' + candidate['confidence'].encode('utf-8') + ')')
+  else:
+    college.result_name = "No result found for " + college.name
+    print("No candidates for: " + college.name)
 
 def reconcile_all():
   service_url = 'https://www.googleapis.com/freebase/v1/reconcile'   
@@ -82,8 +86,8 @@ def reconcile_all():
       continue
     college.freebase_id = response['candidate'][0]['mid']
     college.confidence = response['candidate'][0]['confidence']
-    for candidate in response['candidate']:
-      print(candidate['mid'] + ' (' + str(candidate['confidence']) + ')')
+    # for candidate in response['candidate']:
+    #   print(candidate['mid'] + ' (' + str(candidate['confidence']) + ')')
 
   with open('output.csv', 'wb') as f:
     writer = csv.writer(f, delimiter='\t')
@@ -109,7 +113,7 @@ def search():
     url = service_url + '?' + urllib.urlencode(params)
     response = json.loads(urllib.urlopen(url).read())
     for result in response['result']:
-      print(result['mid'] + ' (' + str(result['score']) + ')')
+      print(result['mid'] + ' (' + result['score'].encode('utf-8') + ')')
     college.freebase_id = response['result'][0]['mid']
     college.result_name = response['result'][0]['name']
     college.score = response['result'][0]['score']
@@ -138,20 +142,20 @@ def search_test():
       response = json.loads(urllib.urlopen(url).read())
 
       if len(response['result'])==0:
-        print("Error: " + college.name)
+        print("Reconciling: " + college.name)
         reconcile(college)
         writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence] + [college.name] + [college.result_name])
         if college.name != college.result_name:
-          print(college.name + " " + college.result_name);
+          print("Reconciled: " + college.name + " VS \n" + college.result_name);
       
       else:
         college.freebase_id = response['result'][0]['mid']
-        college.result_name = response['result'][0]['name']
+        college.result_name = response['result'][0]['name'].encode('utf-8')
         college.score = response['result'][0]['score']
     
       writer.writerow([college.upstart_id] + [college.freebase_id] + [college.score] + [college.name] + [college.result_name])
-      if college.name != college.result_name:
-      	print(college.name + " " + college.result_name);
+      # if college.name != college.result_name:
+      	# print(college.name + " VS \n" + college.result_name);
 
 if __name__ == '__main__':
   api_key = open(".freebase_api_key").read()
