@@ -93,39 +93,40 @@ def reconcile(college, params):
       # f.write("No candidates for: " + college.name)
 
 def search_all():
-  service_url = 'https://www.googleapis.com/freebase/v1/search'  
-  for college in collegeList:
-    params = {
-      'query': college.name,
-      'type': '/education/university', 
-      'key': api_key
-    }
-
-    url = service_url + '?' + urllib.urlencode(params)
-    response = json.loads(urllib.urlopen(url).read())
-
-    if len(response['result'])==0:
-      print("Reconciling: " + college.name)
-      process_reconcile(college)
-    elif response['result'][0]['score']<200:
-      print("Score is: " + str(response['result'][0]['score']))
-      process_reconcile(college)
-    else:
-      college.freebase_id = response['result'][0]['mid']
-      college.result_name = response['result'][0]['name'].encode('utf-8')
-      college.score = response['result'][0]['score']
-    
-def write_file():
+  service_url = 'https://www.googleapis.com/freebase/v1/search'
   with open('output.tsv', 'wb') as f:
     writer = csv.writer(f, delimiter='\t')
-    writer.writerow(["u_id"] + ["f_id"] + ["score"] + ["actual name"] + ["result name"])
+    writer.writerow(["u_id"] + ["f_id"] + ["score"] + ["actual name"] + ["result name"])  
     for college in collegeList:
+      params = {
+        'query': college.name,
+        'type': '/education/university', 
+        'key': api_key
+      }
+
+      url = service_url + '?' + urllib.urlencode(params)
+      response = json.loads(urllib.urlopen(url).read())
+
+      if len(response['result'])==0:
+        print("Reconciling: " + college.name)
+        process_reconcile(college)
+      elif response['result'][0]['score']<200:
+        print("Score is: " + str(response['result'][0]['score']))
+        process_reconcile(college)
+      else:
+        college.freebase_id = response['result'][0]['mid']
+        college.result_name = response['result'][0]['name'].encode('utf-8')
+        college.score = response['result'][0]['score']
+
       if college.score:
         writer.writerow([college.upstart_id] + [college.freebase_id] + [college.score] + [college.name] + [college.result_name])
       elif college.confidence:
         writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence] + [college.name] + [college.result_name])
       else:
-        writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence] + [college.name] + "No result")
+        writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence] + [college.name] + ["No result"])
+      
+def write_file():
+  return
 # if college.name != college.result_name:
     # print(college.name + " VS \n" + college.result_name);
 
