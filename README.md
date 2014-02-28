@@ -1,12 +1,15 @@
 Upstart & Freebase College Reconciliation
 =========================================
 
-###Goal: Write some code (an app, a script, etc.) that takes existing colleges and reconciles them to Google's Freebase.com database. Use whatever technologies and heuristics you can to make this as comprehensive and accurate as possible.
+###Goal
+Write some code (an app, a script, etc.) that takes existing colleges and reconciles them to Google's Freebase.com database. Use whatever technologies and heuristics you can to make this as comprehensive and accurate as possible.
 
-####A spreadsheet of school information as a CSV or TSV. Format: 
+####Input
+A spreadsheet of school information as a CSV or TSV. Format: 
 ID  Name  Median SAT score  Graduation rate Retention rate
 
-####Output: Your code, along with its output as a CSV or TSV with the following format:
+####Output
+Your code, along with its output as a CSV or TSV with the following format:
 Upstart ID*, Freebase ID, Confidence %
 
 This file should contain all of the schools we gave you in the initial file, and an English (not code) explanation of the methodology you used to generate the Confidence %. (*Upstart ID is just an arbitrary number we assign to schools, to give them a unique ID in our database.)
@@ -26,7 +29,6 @@ http://stackoverflow.com/questions/2313032/regex-for-state-abbreviations-python
 ####Corner Cases:
 * Rutgers, the State University of New Jersey--Newark:
 Freebase Search could not provide results for "Rutgers the State University of New Jersey Newark". "Rutgers, the State University of New Jersey" returns Rutgers University (/m/0ks67). "Rutgers Newark" provides Rutgers-Newark (/m/074p0t).
-
 
 Berkeley College - Woodland Park, NJ
 Berkeley College - New York, NY 
