@@ -53,14 +53,24 @@ def read_file(f):
 
   print(College.collegeCount)
 
-def reconcile(college):
-  service_url = 'https://www.googleapis.com/freebase/v1/reconcile'   
+def process_reconcile(college):
+  with open('reconcile.tsv', 'a') as rec:
+    w = csv.writer(rec, delimiter = '\t')
+    w.writerow([college.upstart_id] + [college.name] + [college.sat_score] + [college.retention_rate] + [college.graduatation_rate])
   params = {
     'name': college.name,
     'kind': '/education/university',
     # 'prop': ["/location/location/containedby:" + college.city, " /location/location/containedby:" + college.state],
     'key': api_key
   }
+  reconcile(college, params)
+
+
+
+def reconcile(college, params):
+
+  service_url = 'https://www.googleapis.com/freebase/v1/reconcile'   
+
   url = service_url + '?' + urllib.urlencode(params)
   response = json.loads(urllib.urlopen(url).read())
   with open('error.log', 'a') as f: # Simple logging, only for reconciliation
@@ -79,109 +89,54 @@ def reconcile(college):
       for candidate in response['candidate']:
         print(candidate['mid'] + ' (' + str(candidate['confidence']) + ')')
     else:
-      college.result_name = "No result found for " + college.name
-      f.write("No candidates for: " + college.name)
+      college.result_name = None
+      # f.write("No candidates for: " + college.name)
 
-# def reconcile_all():
-#   service_url = 'https://www.googleapis.com/freebase/v1/reconcile'   
-#   for college in collegeList:
-#     params = {
-#       'name': 'college',
-#       'kind': '/education/university',
-#       'prop': ["/location/location/containedby:" + college.city, " /location/location/containedby:" + college.state],
-#       'key': api_key
-#     }
-#     url = service_url + '?' + urllib.urlencode(params)
-#     response = json.loads(urllib.urlopen(url).read())
-#     if 'match' in response:
-#       print(response['match'])
-#       college.confidence = response['match'].confidence
-#     if response['candidate'] is None:
-#       print("ERROR NO CANDIDATE")
-#       continue
-#     college.freebase_id = response['candidate'][0]['mid']
-#     college.confidence = response['candidate'][0]['confidence']
-#     # for candidate in response['candidate']:
-#     #   print(candidate['mid'] + ' (' + str(candidate['confidence']) + ')')
+def search_all():
+  service_url = 'https://www.googleapis.com/freebase/v1/search'  
+  for college in collegeList:
+    params = {
+      'query': college.name,
+      'type': '/education/university', 
+      'key': api_key
+    }
 
-#   with open('output.csv', 'wb') as f:
-#     writer = csv.writer(f, delimiter='\t')
-#     for college in collegeList:
-#       writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence])
+    url = service_url + '?' + urllib.urlencode(params)
+    response = json.loads(urllib.urlopen(url).read())
 
-# def search():
-#   api_key = open(".freebase_api_key").read()
-
-#   service_url = 'https://www.googleapis.com/freebase/v1/search'
-#   for college in collegeList:
-#     params = {
-#       'query': college.name,
-#       'type': '/education/university', 
-#       # 'filter': "(all type:/education/university " + \
-
-
-#         # "/location/location/containedby:\"" + college.city + "\" " + \
-#         # "/location/location/containedby:\"" + college.state + "\""+ ")",
-#       'key': api_key
-#     }
-#     # print(params)
-#     url = service_url + '?' + urllib.urlencode(params)
-#     response = json.loads(urllib.urlopen(url).read())
-#     for result in response['result']:
-#       print(result['mid'] + ' (' + result['score'].encode('utf-8') + ')')
-#     college.freebase_id = response['result'][0]['mid']
-#     college.result_name = response['result'][0]['name']
-#     college.score = response['result'][0]['score']
-
-#   with open('output.csv', 'wb') as f:
-#     writer = csv.writer(f, delimiter='\t')
-#     writer.writerow(["u_id"] + ["f_id"] + ["score"] + ["actual name"] + ["result name"])
-#     for college in collegeList:
-#       writer.writerow([college.upstart_id] + [college.freebase_id] + [college.score] + [college.name] + [college.result_name])
-
-def search_test():
-  service_url = 'https://www.googleapis.com/freebase/v1/search'
-  
+    if len(response['result'])==0:
+      print("Reconciling: " + college.name)
+      process_reconcile(college)
+    elif response['result'][0]['score']<200:
+      print("Score is: " + str(response['result'][0]['score']))
+      process_reconcile(college)
+    else:
+      college.freebase_id = response['result'][0]['mid']
+      college.result_name = response['result'][0]['name'].encode('utf-8')
+      college.score = response['result'][0]['score']
+    
+def write_file():
   with open('output.tsv', 'wb') as f:
     writer = csv.writer(f, delimiter='\t')
     writer.writerow(["u_id"] + ["f_id"] + ["score"] + ["actual name"] + ["result name"])
-     
     for college in collegeList:
-      params = {
-        'query': college.name,
-        'type': '/education/university', 
-        'key': api_key
-      }
-
-      url = service_url + '?' + urllib.urlencode(params)
-      response = json.loads(urllib.urlopen(url).read())
-
-      if len(response['result'])==0:
-        print("Reconciling: " + college.name)
-        with open('reconcile.tsv', 'a') as rec:
-          w = csv.writer(rec, delimiter = '\t')
-          w.writerow([college.upstart_id] + [college.name] + [college.sat_score] + [college.retention_rate] + [college.graduatation_rate])
-        reconcile(college)
+      if college.score:
+        writer.writerow([college.upstart_id] + [college.freebase_id] + [college.score] + [college.name] + [college.result_name])
+      elif college.confidence:
         writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence] + [college.name] + [college.result_name])
-        if college.name != college.result_name:
-          print("Reconciled: " + college.name + " VS \n" + college.result_name);
-      
       else:
-        college.freebase_id = response['result'][0]['mid']
-        college.result_name = response['result'][0]['name'].encode('utf-8')
-        college.score = response['result'][0]['score']
-    
-      writer.writerow([college.upstart_id] + [college.freebase_id] + [college.score] + [college.name] + [college.result_name])
-      # if college.name != college.result_name:
-      	# print(college.name + " VS \n" + college.result_name);
+        writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence] + [college.name] + "No result")
+# if college.name != college.result_name:
+    # print(college.name + " VS \n" + college.result_name);
 
 if __name__ == '__main__':
   api_key = open(".freebase_api_key").read()
   # college = College(1, "Rutgers the State University of New Jersey Newark", 0, 0, 0)
   # reconcile(college)
   if len(sys.argv)==1: # if no arguments, use random Wikipedia page
-    input_file = "college-sm.tsv"
+    input_file = "colleges_for_jesse.tsv"
   else:
     input_file = sys.argv[1]
   read_file(input_file)
-  search_test()
+  search_all()
+  write_file()

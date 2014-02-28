@@ -26,6 +26,20 @@ Berkeley College - New York, NY
 Bethel College - Mishawaka, IN
 Sometimes results appear with abbreviations rather than full state name (IN over Indiana). We must try both.
 
+Emmanuel College - Franklin Springs, Georgia  No result found for Emmanuel College - Franklin Springs, Georgia
+
+1623  /m/035g_2 130.999451  Union College - Barbourville, Kentucky  Union College
+1624  /m/035h0h 148.6492  Union College - Lincoln, Nebraska Union College
+1625  /m/02ccqg 387.929993  Union College - Schenectady, New York Union College
+
+633 /m/048nry 131.263626  Aquinas College - Grand Rapids, Michigan  Aquinas College
+634 /m/066pm6 79.031181 Aquinas College - Nashville, Tennessee  Aquinas College
+
+2004  /m/0438f  18.477449 JMU James Madison University
+
+2017  /m/0344bc 42.02314  Derby University of Derby
+
+
 ### Getting Started
 ######Install dependencies:  
 `pip install -r requirements.txt`
