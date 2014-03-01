@@ -6,11 +6,11 @@ Write some code (an app, a script, etc.) that takes existing colleges and reconc
 
 ####Input
 A spreadsheet of school information as a CSV or TSV. Format: 
-ID  Name  Median SAT score  Graduation rate Retention rate
+`ID  Name  Median SAT score  Graduation rate Retention rate`
 
 ####Output
 Your code, along with its output as a CSV or TSV with the following format:
-Upstart ID*, Freebase ID, Confidence %
+`Upstart ID*, Freebase ID, Confidence %`
 
 This file should contain all of the schools we gave you in the initial file, and an English (not code) explanation of the methodology you used to generate the Confidence %. (*Upstart ID is just an arbitrary number we assign to schools, to give them a unique ID in our database.)
 
