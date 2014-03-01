@@ -29,25 +29,15 @@ http://stackoverflow.com/questions/2313032/regex-for-state-abbreviations-python
 ####Corner Cases:
 * Rutgers, the State University of New Jersey--Newark:
 Freebase Search could not provide results for "Rutgers the State University of New Jersey Newark". "Rutgers, the State University of New Jersey" returns Rutgers University (/m/0ks67). "Rutgers Newark" provides Rutgers-Newark (/m/074p0t).
-
-Berkeley College - Woodland Park, NJ
-Berkeley College - New York, NY 
-
-Bethel College - Mishawaka, IN
+*Berkeley College - Woodland Park, NJ did not exist.
+*Bethel College - Mishawaka, IN
 Sometimes results appear with abbreviations rather than full state name (IN over Indiana). We must try both.
-
-Emmanuel College - Franklin Springs, Georgia  No result found for Emmanuel College - Franklin Springs, Georgia
-
-1623  /m/035g_2 130.999451  Union College - Barbourville, Kentucky  Union College
-1624  /m/035h0h 148.6492  Union College - Lincoln, Nebraska Union College
-1625  /m/02ccqg 387.929993  Union College - Schenectady, New York Union College
-
-633 /m/048nry 131.263626  Aquinas College - Grand Rapids, Michigan  Aquinas College
-634 /m/066pm6 79.031181 Aquinas College - Nashville, Tennessee  Aquinas College
-
-2004  /m/0438f  18.477449 JMU James Madison University
-
-2017  /m/0344bc 42.02314  Derby University of Derby
+*Emmanuel College - Franklin Springs, Georgia
+Works with "Emmanuel College Georgia" but cannot include "Franklin Springs"
+*Union College - Barbourville, Kentucky and Union College - Schenectady, New York don't allow abbreviation "KY", though Union College - Lincoln, Nebraska does.
+*Very few abbreviated universities. These seem to be correct:
+JMU James Madison University
+Derby University of Derby
 
 
 ### Getting Started
