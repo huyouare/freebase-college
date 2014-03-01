@@ -1,20 +1,22 @@
 Upstart & Freebase College Reconciliation
 =========================================
 
-###Goal
+###Goal:
 Write some code (an app, a script, etc.) that takes existing colleges and reconciles them to Google's Freebase.com database. Use whatever technologies and heuristics you can to make this as comprehensive and accurate as possible.
 
-####Input
-A spreadsheet of school information as a CSV or TSV. Format: 
-`ID  Name  Median SAT score  Graduation rate Retention rate`
+####Input:
+A spreadsheet of school information as a CSV or TSV. Format:
 
-####Output
+`Upstart ID,  Name,  Median SAT score,  Graduation rate, Retention rate`
+
+####Output:
 Your code, along with its output as a CSV or TSV with the following format:
+
 `Upstart ID*, Freebase ID, Confidence %`
 
 This file should contain all of the schools we gave you in the initial file, and an English (not code) explanation of the methodology you used to generate the Confidence %. (*Upstart ID is just an arbitrary number we assign to schools, to give them a unique ID in our database.)
 
-###Notes:
+####Notes:
 * ".encode('utf-8')" necessary for strings with particular characters.
 * Input file contains "--" when appending city or campus name to university name ("University of State--Campus"). The college name in the Freebase result usually appears as "University of State Campus", "University of State, Campus" or "University of State at Campus".
 * Changed state abbreviations to full names
@@ -50,7 +52,7 @@ Derby University of Derby
 ###### Example:  
 `python upstart.py colleges_for_jesse.tsv`
 
-###### Output:  
+###### Sample Output:  
 
 
 ###### Testing (100 random trials):  
