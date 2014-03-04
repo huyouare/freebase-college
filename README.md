@@ -10,11 +10,17 @@ A spreadsheet of school information as a TSV. Format:
 `Upstart ID,  Name,  Median SAT score,  Graduation rate, Retention rate`
 
 ####Output:
-Output as a TSV with the following format:
+Output as a TSV (output.tsv) with the following format:
 
 `Upstart ID*, Freebase ID, Confidence %`
 
-This file should contain all of the schools we gave you in the initial file, and an English (not code) explanation of the methodology you used to generate the Confidence %. (*Upstart ID is just an arbitrary number we assign to schools, to give them a unique ID in our database.)
+####Additional output:
+
+output-debug.tsv provides all colleges in this output format:
+
+`upstart_id freebase_id  search_score actual name result name`
+
+reconcile.tsv provides all colleges (in input format) that were not found in Freebase during the initial Search.
 
 ####Notes:
 * ".encode('utf-8')" necessary for strings with non-English characters.
@@ -25,7 +31,7 @@ http://code.activestate.com/recipes/577305-python-dictionary-of-us-states-and-te
 ###Procedure:
 * The Search API was used to find Freebase IDs by provided college names. Checking manually for results, this produced most of the data. The 'score' is provided by Freebase Search and 
 * The difference in strings (difflib) determines whether or not to further reconcile
-* Initially the Reconciliation endpoint of the Freebase API was considered for use to target those that could not be found via Search. However, results were not produced for all colleges provided.
+* Initially the Reconciliation endpoint of the Freebase API was used to target those that could not be found via Search. However, results were not produced for all colleges provided.
 * Instead, variations of the college name are needed for Freebase to find the correct Freebase ID.
 
 ####Corner Cases:
@@ -37,7 +43,8 @@ Sometimes results appear with abbreviations rather than full state name (IN over
 * Emmanuel College - Franklin Springs, Georgia
 Works with "Emmanuel College Georgia" but cannot include "Franklin Springs"
 * Union College - Barbourville, Kentucky and Union College - Schenectady, New York don't allow abbreviation "KY", though Union College - Lincoln, Nebraska does.
-* Very few abbreviated universities. These seem to be correct:
+* St. John's College - Santa Fe, NM provides "St. John's College, U.S.", as "St. John's College, Santa Fe" has a low score and doesn't provide much information.
+* Very few abbreviated universities names occur. These seem to be correct:
 JMU -> James Madison University
 Derby -> University of Derby
 
@@ -61,6 +68,3 @@ upstart_id freebase_id confidence
 4 /m/02ldkf 0.808932328004
 5 /m/02hdht 0.7583775629631
 ```
-
-###### Testing (100 random trials):  
-`python test.py`

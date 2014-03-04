@@ -169,7 +169,7 @@ def search_all():
       if(college.score<=1):
         college.confidence = 0
       else:
-        college.confidence = round(math.log(college.score, 4000), 4)
+        college.confidence = round(math.log(college.score*2, 8000), 4)
       if college.score:
         writer.writerow([college.upstart_id] + [college.freebase_id] + [college.score] + [college.name] + [college.result_name])
       elif college.confidence:
