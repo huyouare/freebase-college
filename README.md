@@ -2,31 +2,31 @@ Upstart & Freebase College Reconciliation
 =========================================
 
 ###Goal:
-Write some code (an app, a script, etc.) that takes existing colleges and reconciles them to Google's Freebase.com database. Use whatever technologies and heuristics you can to make this as comprehensive and accurate as possible.
+Take existing colleges and reconcile them to Google's Freebase.com database. 
 
 ####Input:
-A spreadsheet of school information as a CSV or TSV. Format:
+A spreadsheet of school information as a TSV. Format:
 
 `Upstart ID,  Name,  Median SAT score,  Graduation rate, Retention rate`
 
 ####Output:
-Your code, along with its output as a CSV or TSV with the following format:
+Output as a TSV with the following format:
 
 `Upstart ID*, Freebase ID, Confidence %`
 
 This file should contain all of the schools we gave you in the initial file, and an English (not code) explanation of the methodology you used to generate the Confidence %. (*Upstart ID is just an arbitrary number we assign to schools, to give them a unique ID in our database.)
 
 ####Notes:
-* ".encode('utf-8')" necessary for strings with particular characters.
+* ".encode('utf-8')" necessary for strings with non-English characters.
 * Input file contains "--" when appending city or campus name to university name ("University of State--Campus"). The college name in the Freebase result usually appears as "University of State Campus", "University of State, Campus" or "University of State at Campus".
-* Changed state abbreviations to full names
+* Changed state abbreviations to full names. 
 http://code.activestate.com/recipes/577305-python-dictionary-of-us-states-and-territories/
-http://stackoverflow.com/questions/2313032/regex-for-state-abbreviations-python
 
 ###Procedure:
-* The Search API was used to find Freebase IDs by provided college names. Checking manually for results, this produced most of the data. The 'score' provided by Freebase Search and the difference in strings (difflib) determines whether or not to further reconcile
+* The Search API was used to find Freebase IDs by provided college names. Checking manually for results, this produced most of the data. The 'score' is provided by Freebase Search and 
+* The difference in strings (difflib) determines whether or not to further reconcile
 * Initially the Reconciliation endpoint of the Freebase API was considered for use to target those that could not be found via Search. However, results were not produced for all colleges provided.
-* Instead, variations of the college name were needed for Freebase to find the correct Freebase ID.
+* Instead, variations of the college name are needed for Freebase to find the correct Freebase ID.
 
 ####Corner Cases:
 * Rutgers, the State University of New Jersey--Newark:
@@ -38,8 +38,8 @@ Sometimes results appear with abbreviations rather than full state name (IN over
 Works with "Emmanuel College Georgia" but cannot include "Franklin Springs"
 * Union College - Barbourville, Kentucky and Union College - Schenectady, New York don't allow abbreviation "KY", though Union College - Lincoln, Nebraska does.
 * Very few abbreviated universities. These seem to be correct:
-JMU James Madison University
-Derby University of Derby
+JMU -> James Madison University
+Derby -> University of Derby
 
 
 ### Getting Started
@@ -53,7 +53,14 @@ Derby University of Derby
 `python upstart.py colleges_for_jesse.tsv`
 
 ###### Sample Output:  
-
+```
+upstart_id freebase_id confidence
+1 /m/02rk23 0.811214889875
+2 /m/01t8sr 0.841746194072
+3 /m/03818y 0.808804657761
+4 /m/02ldkf 0.808932328004
+5 /m/02hdht 0.7583775629631
+```
 
 ###### Testing (100 random trials):  
 `python test.py`

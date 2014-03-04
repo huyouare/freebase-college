@@ -1,0 +1,371 @@
+u_id	f_id	score	actual name	result name
+1	/m/02rk23	835.689026	South Carolina State University	South Carolina State University
+2	/m/01t8sr	1076.515503	Tennessee State University	Tennessee State University
+3	/m/03818y	819.148987	Clark Atlanta University	Clark Atlanta University
+4	/m/02ldkf	820.016846	North Carolina A&T State University	North Carolina Agricultural and Technical State University
+5	/m/02hdht	539.164734	University of Bridgeport	University of Bridgeport
+6	/m/01s7pm	1388.092773	University of Texas--El Paso	University of Texas at El Paso
+7	/m/02qvvv	733.306213	Florida A&M University	Florida A&M University
+8	/m/02rklk	488.147583	Barry University	Barry University
+9	/m/02w2bc	777.636658	Central Michigan University	Central Michigan University
+10	/m/021l5s	744.106323	Indiana State University	Indiana State University
+11	/m/06txt_	415.203461	Immaculata University	Immaculata University
+12	/m/02jztz	749.916931	New Mexico State University-Main Campus	New Mexico State University
+13	/m/04bbpm	704.393311	Indiana University of Pennsylvania	Indiana University of Pennsylvania
+14	/m/01nhgd	795.084412	Cleveland State University	Cleveland State University
+15	/m/0pf4w	616.678467	University of La Verne	University of La Verne
+16	/m/02fszn	2150.210938	Indiana University-Purdue University--Indianapolis	Indiana University-Purdue University Indianapolis
+17	/m/02y9bj	692.477173	University of Memphis	University of Memphis
+18	/m/0315d4	543.756287	Trinity International University	Trinity International University
+19	/m/04w5hs	512.652344	Widener University	Widener University
+20	/m/0m9_5	870.748657	East Carolina University	East Carolina University
+21	/m/01p79b	1139.280396	Bowling Green State University	Bowling Green State University
+22	/m/05d_lm	719.670837	Nova Southeastern University	Nova Southeastern University
+23	/m/01sqb3	605.978882	Texas Woman's University	Texas Woman's University
+24	/m/0pgmj	1066.542358	University of Massachusetts--Boston	University of Massachusetts Boston
+25	/m/02hp6p	540.719482	University of Hartford	University of Hartford
+26	/m/01jpqb	1984.696777	University of Nevada--Las Vegas	University of Nevada, Las Vegas
+27	/m/0cchk3	949.24292	University of Southern Mississippi	The University of Southern Mississippi
+28	/m/0gy3w	837.937256	Louisiana Tech University	Louisiana Tech University
+29	/m/0kddq	1410.321167	University of North Carolina--Greensboro	University of North Carolina at Greensboro
+30	/m/03d639	547.92749	Trevecca Nazarene University	Trevecca Nazarene University
+31	/m/04bfg	1046.75061	Kent State University	Kent State University
+32	/m/02yxjs	1055.804321	Northern Illinois University	Northern Illinois University
+33	/m/022lly	801.915649	Ball State University	Ball State University
+34	/m/01hhvg	1294.360962	University of California--Riverside	University of California, Riverside
+35	/m/02xpy5	894.424927	Northern Arizona University	Northern Arizona University
+36	/m/024y8p	1647.493774	University of North Carolina--Charlotte	University of North Carolina at Charlotte
+37	/m/01gwck	780.247925	Portland State University	Portland State University
+38	/m/02fjzt	971.701294	University of Rhode Island	University of Rhode Island
+39	/m/03l78j	982.813232	Florida Atlantic University	Florida Atlantic University
+40	/m/01_k7f	705.109619	University of Northern Colorado	University of Northern Colorado
+41	/m/01q0kg	1219.495239	San Diego State University	San Diego State University
+42	/m/018sg9	899.630737	Andrews University	University of St Andrews
+43	/m/01j_06	1019.321289	Seton Hall University	Seton Hall University
+45	/m/01stj9	859.300659	Old Dominion University	Old Dominion University
+46	/m/030w4k	486.902771	Regent University	Regent University
+47	/m/0ks67	10	Rutgers, the State University of New Jersey--Newark	Rutgers University
+48	/m/01jpyb	1118.321655	University of Nevada--Reno	University of Nevada, Reno
+49	/m/01jq0j	558.507019	The University of West Florida	Florida State University
+50	/m/02j416	805.787476	Georgia State University	Georgia State University
+51	/m/02_7kp	1371.174072	University of Hawaii--Manoa	University of Hawaii at Manoa
+52	/m/01lczl	873.322388	University of Massachusetts--Lowell	University of Massachusetts Lowell
+53	/m/03np_7	994.572021	University of Texas--Arlington	University of Texas at Arlington
+54	/m/04pmt5	673.372375	Saint Mary's University of Minnesota	Saint Mary's University of Minnesota
+55	/m/01h8rk	1387.569214	Washington State University	Washington State University
+56	/m/020ddc	931.361938	University of Maine	University of Maine
+57	/m/0321m8	950.079224	University of Colorado--Denver	University of Colorado at Denver
+58	/m/02482c	704.329407	University of New Mexico-Main Campus	University of New Mexico
+59	/m/0f102	733.677795	University of Idaho	University of Idaho
+60	/m/025yxlt	669.029907	University of Montana--Western	University of Montana - Western
+61	/m/029qzx	705.243835	Oral Roberts University	Oral Roberts University
+62	/m/02lv2v	697.005066	Pace University	Pace University
+63	/m/01nkcn	888.122498	Utah State University	Utah State University
+64	/m/01n_g9	1117.691162	Texas Tech University	Texas Tech University
+65	/m/0177sq	928.876221	Virginia Commonwealth University	Virginia Commonwealth University
+66	/m/02fy0z	857.270142	Ohio University	Ohio University
+67	/m/01jzyx	1618.927856	St. John's University-New York	St. John's University
+68	/m/05zjtn4	1250.805054	University of North Texas	University of North Texas
+69	/m/02gr81	905.010071	University of Houston	University of Houston
+71	/m/03205_	533.628174	Adelphi University	Adelphi University
+72	/m/02fgq7	687.356628	Azusa Pacific University	Azusa Pacific University
+73	/m/01hx2t	1151.270874	Oregon State University	Oregon State University
+74	/m/02cn6c	582.115784	George Fox University	George Fox University
+75	/m/07vyf	1319.095947	University of Arizona	University of Arizona
+76	/m/01lnyf	925.08667	Wichita State University	Wichita State University
+77	/m/06thjt	1021.915894	New School	The New School
+78	/m/02dq8f	933.681946	University at Albany--SUNY	University at Albany, The State University of New York
+79	/m/01ngz1	858.122314	University of South Dakota	University of South Dakota
+80	/m/0217m9	1107.893311	Howard University	Howard University
+81	/m/01jt2w	1326.21521	Temple University	Temple University
+82	/m/01ptt7	1166.3302	University of Kentucky	University of Kentucky
+83	/m/01n6r0	1146.208374	University of Oregon	University of Oregon
+84	/m/01dzg0	1227.187988	Mississippi State University	Mississippi State University
+85	/m/07wlf	1041.974731	University of Utah	University of Utah
+86	/m/01vs64	1343.764038	Oklahoma State University	Oklahoma State University–Stillwater
+87	/m/02mp0g	818.606201	University of Wyoming	University of Wyoming
+88	/m/01wdl3	1279.48999	University of Alabama	University of Alabama
+89	/m/033x5p	561.592407	Pacific University	University of the Pacific
+90	/m/02s8qk	560.821533	Duquesne University	Duquesne University
+91	/m/02vnp2	1359.352783	The Catholic University of America	The Catholic University of America
+92	/m/02ln0f	952.035217	University of Cincinnati	University of Cincinnati
+93	/m/027mdh	995.371826	University of San Francisco	University of San Francisco
+94	/m/01j_cy	1655.476685	Michigan State University	Michigan State University
+95	/m/01ps1k	1069.877808	New Jersey Institute of Technology	New Jersey Institute of Technology
+96	/m/02x9g_	1232.207642	Montana State University	Montana State University - Bozeman
+97	/m/01y17m	1315.664062	University of Illinois--Chicago	University of Illinois at Chicago
+98	/m/02d_zc	1439.566284	Colorado State University	Colorado State University
+99	/m/02jyr8	1286.32019	University of Alabama--Birmingham	University of Alabama at Birmingham
+100	/m/02l8j1	510.040833	Clarkson University	Clarkson University
+101	/m/02mj7c	901.391541	DePaul University	DePaul University
+102	/m/0225bv	1112.411011	University of Louisville	University of Louisville
+103	/m/02hp70	988.989746	University of New Hampshire	University of New Hampshire
+104	/m/09s5q8	1685.545288	University of South Florida	University of South Florida
+105	/m/05x_5	1718.965088	Purdue University--West Lafayette	Purdue University
+107	/m/039d4	888.614868	George Mason University	George Mason University
+108	/m/02bjhv	612.317871	University of Dayton	University of Dayton
+109	/m/07vhb	1722.172363	University of California--Santa Cruz	University of California, Santa Cruz
+110	/m/03jc1t	741.865173	University of Alabama--Huntsville	University of Alabama in Huntsville
+111	/m/01pl14	1085.22876	Louisiana State University--Baton Rouge	Louisiana State University
+112	/m/02cttt	657.388	SUNY Buffalo State	University at Buffalo, The State University of New York
+113	/m/0391l4	682.44043	Florida Institute of Technology	Florida Institute of Technology
+114	/m/0146hc	1025.630981	University of Central Florida	University of Central Florida
+115	/m/078bz	1183.815918	Syracuse University	Syracuse University
+116	/m/0jkhr	998.312805	North Carolina State University--Raleigh	North Carolina State University
+117	/m/0221g_	910.133423	Texas Christian University	Texas Christian University
+118	/m/01qrb2	1754.311035	Indiana University--Bloomington	Indiana University Bloomington
+119	/m/0c5x_	1372.612671	University of California--Irvine	University of California, Irvine
+120	/m/07ccs	1730.92981	Texas A&M University--College Station	Texas A&M University
+122	/m/02l8qv	438.095123	SUNY College of Environmental Science and Forestry	State University of New York College of Environmental Science and Forestry
+123	/m/01qgr3	1525.090576	The University of Tennessee	University of Tennessee
+124	/m/07vht	1720.59314	University of California--Davis	University of California, Davis
+125	/m/01swxv	928.631531	University of Delaware	University of Delaware
+126	/m/02zg12	536.55304	Samford University	Samford University
+127	/m/033x5p	903.834534	University of the Pacific	University of the Pacific
+128	/m/016vf7	1564.07666	University of Missouri--Kansas City	University of Missouri–Kansas City
+129	/m/01ky7c	1385.339233	University of Massachusetts--Amherst	University of Massachusetts Amherst
+130	/m/01vs5c	549.77771	University of Oklahoma Norman Campus	University of Oklahoma
+131	/m/01r3y2	691.703674	Miami University--Oxford	Miami University
+132	/m/02tcv_	598.360718	St. Thomas University	University of St. Thomas
+133	/m/02mzg9	871.564758	University of Denver	University of Denver
+134	/m/01l8t8	852.426514	Stony Brook University--SUNY	State University of New York at Stony Brook
+135	/m/020ym6	1355.327393	University of Maryland--Baltimore County	University of Maryland Baltimore County
+136	/m/01f1r4	2200.413086	University of California--Santa Barbara	University of California, Santa Barbara
+137	/m/02607j	591.689026	Hofstra University	Hofstra University
+138	/m/0ks67	1347.979126	Rutgers, the State University of New Jersey--New Brunswick	Rutgers University
+139	/m/0187nd	1505.313721	University of Missouri	University of Missouri–Columbia
+140	/m/01qd_r	1992.149658	University of Colorado--Boulder	University of Colorado Boulder
+141	/m/02mt2n	989.316223	University of Texas--Dallas	University of Texas at Dallas
+142	/m/037fqp	619.699951	Marquette University	Marquette University
+143	/m/01q7q2	1178.916016	University of Vermont	University of Vermont
+144	/m/0b1xl	1058.870972	Loyola University Chicago	Loyola University Chicago
+145	/m/01tx9m	857.440063	Baylor University	Baylor University
+146	/m/03tw2s	1736.455566	University of South Carolina	University of South Carolina
+147	/m/01p5xy	535.465759	Clark University	Clark University
+148	/m/03v6t	1388.47876	Iowa State University	Iowa State University
+149	/m/029d_	614.705017	Drexel University	Drexel University
+150	/m/0cfv1	684.489868	Michigan Technological University	Michigan Technological University
+152	/m/01j_9c	1489.679199	University of Iowa	University of Iowa
+153	/m/01jswq	915.256714	Virginia Tech	Virginia Polytechnic Institute and State University
+154	/m/04hgpt	2040.798462	Pennsylvania State University--University Park	Pennsylvania State University
+155	/m/07t90	691.609558	University of Washington-Seattle Campus	University of Washington
+156	/m/01jq0j	1549.725952	Florida State University	Florida State University
+157	/m/02rky4	811.652954	University of San Diego	University of San Diego
+158	/m/0hpv3	773.570007	Yeshiva University	Yeshiva University
+159	/m/01jsn5	1306.564575	University of Connecticut	University of Connecticut
+160	/m/012vwb	743.744019	Clemson University	Clemson University
+161	/m/07w0v	2241.674561	University of Texas--Austin	University of Texas at Austin
+162	/m/05krk	958.578491	Ohio State University-Main Campus	Ohio State University
+163	/m/026vcc	730.097473	Pepperdine University	Pepperdine University
+164	/m/02183k	1411.812134	University of Georgia	University of Georgia
+165	/m/0187m6	850.296631	St. Louis University	University of Missouri–St. Louis
+166	/m/025v3k	2419.446777	University of Minnesota--Twin Cities	University of Minnesota
+167	/m/027kp3	859.048279	Fordham University	Fordham University
+168	/m/01qqv5	700.144104	Stevens Institute of Technology	Stevens Institute of Technology
+169	/m/02fgdx	1089.631714	Southern Methodist University	Southern Methodist University
+170	/m/0l2tk	452.246124	Brigham Young University--Provo	Brigham Young University
+171	/m/0jpn8	916.635498	Illinois Institute of Technology	Illinois Institute of Technology
+172	/m/07vjm	2465.261963	University of California--San Diego	University of California, San Diego
+173	/m/0j_sncb	1335.866089	University of Florida	University of Florida
+174	/m/01y1ps	726.503723	Colorado School of Mines	Colorado School of Mines
+175	/m/07w3r	736.875549	University of Tulsa	University of Tulsa
+176	/m/01jssp	1127.620483	University of Pittsburgh	University of Pittsburgh
+177	/m/0lyjf	1434.030518	University of Miami	University of Miami
+178	/m/0187n1	817.992126	Missouri University of Science & Technology	Missouri University of Science and Technology
+179	/m/01p896	499.891571	Binghamton University--SUNY	Binghamton University
+180	/m/0kw4j	1036.946045	American University	American University
+181	/m/0gl5_	1349.793335	Boston University	Boston University
+182	/m/01yx1b	2625.665771	University of Wisconsin--Madison	University of Wisconsin-Madison
+183	/m/0225v9	863.87207	Northeastern University	Northeastern University
+184	/m/09f2j	4312.180664	University of California--Los Angeles	University of California, Los Angeles
+185	/m/01nnsv	1752.579956	George Washington University	George Washington University
+186	/m/049d1s	485.108368	Biola University	Biola University
+187	/m/0bx8pn	3317.75	University of North Carolina--Chapel Hill	University of North Carolina at Chapel Hill
+188	/m/01jq34	2698.813965	University of Maryland--College Park	University of Maryland, College Park
+189	/m/0bthb	690.576904	Lehigh University	Lehigh University
+190	/m/07vfj	1050.279053	University of Rochester	University of Rochester
+191	/m/0f1nl	800.745972	Georgia Institute of Technology-Main Campus	Georgia Institute of Technology
+192	/m/0220q6	3373.584961	University of Illinois--Urbana-Champaign	University of Illinois at Urbana-Champaign
+193	/m/01hjy5	1216.539185	Case Western Reserve University	Case Western Reserve University
+194	/m/02zd460	3056.048584	University of California--Berkeley	University of California, Berkeley
+195	/m/0bwfn	2183.125977	New York University	New York University
+197	/m/01bk1y	1137.016235	Rensselaer Polytechnic Institute	Rensselaer Polytechnic Institute
+198	/m/0g8rj	736.397888	University of Virginia-Main Campus	University of Virginia
+199	/m/07szy	3375.537598	University of Michigan--Ann Arbor	University of Michigan
+200	/m/017v3q	1618.321777	College of William and Mary	College of William and Mary
+201	/m/01jsk6	1205.001831	Boston College	Boston College
+202	/m/065y4w7	2257.115234	University of Southern California	University of Southern California
+203	/m/0kz2w	622.071472	Brandeis University	Brandeis University
+204	/m/0cwx_	1132.501953	Carnegie Mellon University	Carnegie Mellon University
+205	/m/09kvv	1730.124146	Johns Hopkins University	Johns Hopkins University
+206	/m/01w3v	1469.277832	Cornell University	Cornell University
+207	/m/0pspl	1288.72644	Georgetown University	Georgetown University
+208	/m/0bqxw	745.836548	Emory University	Emory University
+209	/m/06fq2	723.450623	Rice University	Rice University
+210	/m/012mzw	1798.596313	University of Notre Dame	University of Notre Dame
+211	/m/01pq4w	736.922485	Vanderbilt University	Vanderbilt University
+212	/m/01bm_	1153.378784	Brown University	Brown University
+213	/m/0dzst	1309.571533	Duke University	Duke University
+214	/m/06pwq	2282.881348	Stanford University	Stanford University
+215	/m/07tds	1685.524902	University of Pennsylvania	University of Pennsylvania
+216	/m/017j69	1196.682983	Northwestern University	Northwestern University
+217	/m/02bqy	747.905334	Dartmouth College	Dartmouth College
+218	/m/0lfgr	701.850525	Tufts University	Tufts University
+219	/m/04rwx	2743.762939	Massachusetts Institute of Technology	Massachusetts Institute of Technology
+220	/m/01w5m	2405.543457	Columbia University	Columbia University
+221	/m/0g2jl	2088.539307	Washington University in St. Louis	Washington University in St. Louis
+222	/m/07wrz	1631.071411	University of Chicago	University of Chicago
+223	/m/03ksy	1915.314209	Harvard University	Harvard University
+224	/m/05zl0	1462.284424	Princeton University	Princeton University
+225	/m/08815	1696.480957	Yale University	Yale University
+226	/m/02sjgpq	1746.477661	California Institute of Technology	California Institute of Technology
+227	/m/02s62q	1111.794067	Rhode Island School of Design	Rhode Island School of Design
+228	/m/03lcv	648.156799	Harvey Mudd College	Harvey Mudd College
+229	/m/017_3h	522.293213	Babson College	Babson College
+230	/m/086xm	624.704224	Williams College	Williams College
+231	/m/01q8hj	765.273926	Colgate University	Colgate University
+232	/m/01n4w_	769.161987	Washington and Lee University	Washington and Lee University
+233	/m/012fvq	680.531433	Swarthmore College	Swarthmore College
+234	/m/036__q	750.388672	Loyola University Maryland	Loyola University Maryland
+235	/m/0gdm1	631.881653	Amherst College	Amherst College
+236	/m/01p7x7	1215.016479	Cooper Union	Cooper Union
+237	/m/0qlnr	563.34668	Bucknell University	Bucknell University
+238	/m/03hdz8	660.061829	Claremont McKenna College	Claremont McKenna College
+239	/m/0f1nl	1494.98999	Georgia Institute of Technology	Georgia Institute of Technology
+240	/m/0k9wp	1888.107544	United States Air Force Academy	United States Air Force Academy
+241	/m/02pdhz	570.143311	Davidson College	Davidson College
+242	/m/01ymvk	860.252563	Virginia Military Institute	Virginia Military Institute
+243	/m/0gm4v	901.052795	Rose-Hulman Institute of Technology	Rose-Hulman Institute of Technology
+244	/m/04gg2j	867.117798	South Dakota School of Mines and Technology	South Dakota School of Mines and Technology
+245	/m/016wyn	544.990295	Haverford College	Haverford College
+246	/m/027ybp	3026.729736	California Polytechnic State University--San Luis Obispo	California Polytechnic State University
+247	/m/015y3j	666.26886	Dickinson College	Dickinson College
+249	/m/01k2wn	641.315308	Wesleyan University	Wesleyan University
+250	/m/02rg_4	565.758911	Lafayette College	Lafayette College
+251	/m/0172jm	540.432739	Colby College	Colby College
+252	/m/019c57	549.351807	Kenyon College	Kenyon College
+253	/m/01dq5z	677.010315	Carleton College	Carleton College
+254	/m/0418d0	707.986755	Hampden-Sydney College	Hampden-Sydney College
+255	/m/02gnh0	1333.550781	California State Polytechnic University--Pomona	California State Polytechnic University, Pomona
+256	/m/07ccs	1730.92981	Texas A&M University--College Station	Texas A&M University
+257	/m/02h30z	654.782043	Fairfield University	Fairfield University
+258	/m/02hft3	525.305298	Gettysburg College	Gettysburg College
+259	/m/01c333	597.983459	Bowdoin College	Bowdoin College
+260	/m/07w0v	2241.674561	University of Texas--Austin	University of Texas at Austin
+261	/m/05q2c	563.174438	Occidental College	Occidental College
+262	/m/02gkxp	697.271545	Middlebury College	Middlebury College
+263	/m/07t90	1835.762939	University of Washington	University of Washington
+264	/m/01j_5k	622.742798	Villanova University	Villanova University
+265	/m/021996	1353.098633	San Jose State University	San José State University
+266	/m/016w7b	516.962524	Macalester College	Macalester College
+267	/m/0g8rj	1504.662109	University of Virginia	University of Virginia
+268	/m/01fy81	412.23056	Kettering University	Kettering University
+269	/m/03k7dn	509.749084	Denison University	Denison University
+270	/m/01r3w7	886.181824	Fairleigh Dickinson University	Fairleigh Dickinson University
+271	/m/0ks67	1347.979126	Rutgers, the State University of New Jersey--New Brunswick	Rutgers University
+272	/m/05qqf4	573.198486	Milwaukee School of Engineering	Milwaukee School of Engineering
+273	/m/017v71	577.945801	Wellesley College	Wellesley College
+274	/m/03bnd9	593.017334	Butler University	Butler University
+276	/m/01qd_r	1992.149658	University of Colorado--Boulder	University of Colorado Boulder
+277	/m/01jq34	1611.2146	University of Maryland	University of Maryland, College Park
+278	/m/01d4ry	642.128357	Seattle Pacific University	Seattle Pacific University
+279	/m/011xy1	1432.232788	Trinity College	Trinity College, Dublin
+280	/m/01x3x1	1254.785278	Embry-Riddle Aeronautical University	Embry-Riddle Aeronautical University
+281	/m/028fb0	631.515747	Grove City College	Grove City College
+282	/m/03tp8v	565.651611	Oregon Institute of Technology	Oregon Institute of Technology
+284	/m/020ym6	943.275879	University of Maryland--Baltimore	University of Maryland Baltimore County
+285	/m/018t8f	723.668274	Colorado College	Colorado College
+286	/m/01b1mj	527.518372	Gonzaga University	Gonzaga University
+287	/m/01y20v	387.865326	Wheaton College - Wheaton, IL	Wheaton College
+288	/m/02km0m	651.114624	Trinity University	Trinity University
+289	/m/01jszm	577.214905	Providence College	Providence College
+290	/m/0533q6	626.3703	Ohio Northern University	Ohio Northern University
+291	/m/01rkgb	495.3797	Whitman College	Whitman College
+292	/m/01ljpm	631.934998	Vassar College	Vassar College
+293	/m/022xml	558.102173	Furman University	Furman University
+294	/m/02vlcx6	469.497162	Miami University Hamilton	Miami University Hamilton
+295	/m/04tgb	443.635071	Millsaps College	Millsaps College
+296	/m/019n9w	550.173767	Pomona College	Pomona College
+297	/m/01wdj_	922.615967	Auburn University	Auburn University
+298	/m/02897w	506.480896	Willamette University	Willamette University
+299	/m/01vcs0	457.434937	Hendrix College	Hendrix College
+300	/m/01p896	499.891571	Binghamton University--SUNY	Binghamton University
+301	/m/06bw5	563.456848	Reed College	Reed College
+302	/m/017y6l	671.632812	DePauw University	DePauw University
+303	/m/02yr1q	692.731262	Drake University	Drake University
+304	/m/01h1m8	650.048279	Pacific Lutheran University	Pacific Lutheran University
+305	/m/01pl14	1085.22876	Louisiana State University--Baton Rouge	Louisiana State University
+306	/m/04_c85	449.462097	Presbyterian College	Presbyterian College
+307	/m/057wlm	481.090454	The Citadel	The Citadel
+308	/m/03hpkp	868.789917	University of Richmond	University of Richmond
+309	/m/021w0_	2229.696777	California State University--Long Beach	California State University, Long Beach
+310	/m/025rcc	608.122253	University of Portland	University of Portland
+311	/m/05mv4	815.009155	Oberlin College	Oberlin College
+312	/m/0ks67	10	Rutgers, the State University of New Jersey--Newark	Rutgers University
+313	/m/02zcnq	1427.400757	California State University--Sacramento	California State University, Sacramento
+314	/m/0438f	782.408264	James Madison University	James Madison University
+315	/m/02p9xn	768.622559	Montana Tech of the University of Montana	Montana Tech of The University of Montana
+316	/m/01ztq_	1480.902222	California State University--Chico	California State University, Chico
+317	/m/01trj2	632.600769	University of Mary Washington	University of Mary Washington
+318	/m/045hc2	647.057495	Gustavus Adolphus College	Gustavus Adolphus College
+319	/m/01vs5c	1452.268921	University of Oklahoma	University of Oklahoma
+320	/m/02k0pn	1146.243896	California State University--East Bay	California State University, East Bay
+321	/m/0jkhr	1684.121826	North Carolina State University	North Carolina State University
+322	/m/03lpld	457.206177	Ursinus College	Ursinus College
+323	/m/0160nk	943.939941	Tulane University	Tulane University
+324	/m/02dq8f	933.681946	University at Albany--SUNY	University at Albany, The State University of New York
+325	/m/03y5ky	560.145874	Valparaiso University	Valparaiso University
+326	/m/046lcl	495.898102	Muhlenberg College	Muhlenberg College
+327	/m/01rc6f	1179.977539	University of Arkansas	University of Arkansas
+328	/m/04cnng	716.459473	Randolph-Macon College	Randolph-Macon College
+329	/m/02hp6b	562.324097	Quinnipiac University	Quinnipiac University
+330	/m/05mxkp	487.960815	Bryant University	Bryant University
+331	/m/01rgn3	508.853882	Connecticut College	Connecticut College
+332	/m/08815	750.245422	University of New Haven	Yale University
+333	/m/01r46p	519.675842	Monmouth University	Monmouth University
+334	/m/06blg9	485.567505	St. Anselm College	Saint Anselm College
+335	/m/0321m8	950.079224	University of Colorado--Denver	University of Colorado at Denver
+336	/m/01cf5	690.591736	Barnard College	Barnard College
+337	/m/01848s	716.697815	Western Washington University	Western Washington University
+338	/m/01qgr3	1610.065063	University of Tennessee	University of Tennessee
+339	/m/03fgm	546.946106	Grinnell College	Grinnell College
+340	/m/02rv1w	1696.476318	California State University--Fullerton	California State University, Fullerton
+341	/m/0k__z	1690.032959	California State University--Northridge	California State University, Northridge
+342	/m/01r4c_	620.11792	Rider University	Rider University
+343	/m/02h7qr	563.553589	Towson University	Towson University
+344	/m/02l424	778.571472	Xavier University	Xavier University
+345	/m/02k0gt	487.624908	Rhodes College	Rhodes College
+346	/m/0bx8pn	3317.75	University of North Carolina--Chapel Hill	University of North Carolina at Chapel Hill
+347	/m/02dqw8	507.067963	Allegheny College	Allegheny College
+348	/m/03xp2d	483.629547	Wofford College	Wofford College
+349	/m/02dg2q	466.859833	Albion College	Albion College
+350	/m/06jk5_	601.18457	Norwich University	Norwich University
+351	/m/05krk	746.302307	Ohio State University--Columbus	Ohio State University
+352	/m/05zl0	1765.204712	College of New Jersey	Princeton University
+353	/m/03jc1t	741.865173	University of Alabama--Huntsville	University of Alabama in Huntsville
+354	/m/0trv	1748.493408	Arizona State University	Arizona State University
+356	/m/07t90	757.312317	Seattle University	University of Washington
+357	/m/01b_hz	827.997437	University of New England	University of New England
+358	/m/0187nd	1505.313721	University of Missouri	University of Missouri–Columbia
+359	/m/01r490	462.053314	Ramapo College of New Jersey	Ramapo College
+360	/m/031vm7	855.254089	University of Colorado--Colorado Springs	University of Colorado at Colorado Springs
+361	/m/019dwp	1653.124512	West Virginia University	West Virginia University
+362	/m/02hdln	669.243591	Sacred Heart University	Sacred Heart University
+363	/m/0271vt	617.589966	William Jewell College	William Jewell College
+364	/m/02kbtf	683.954407	Hamilton College	Hamilton College
+365	/m/03l6bs	492.460541	Beloit College	Beloit College
+366	/m/013807	1133.668579	San Francisco State University	San Francisco State University
+367	/m/02tcv_	598.360718	St. Thomas University	University of St. Thomas
+368	/m/01qwb5	551.155579	Tuskegee University	Tuskegee University
+369	/m/02grjf	500.025177	Calvin College	Calvin College
+370	/m/02x9g_	1472.351807	Montana State University, Bozeman	Montana State University - Bozeman
+371	/m/02pptm	1745.953247	California State University--Fresno	California State University, Fresno
+372	/m/039ccc	408.073944	Central College	Central College
+373	/m/021_r8	698.829651	University of Puget Sound	University of Puget Sound
+374	/m/01gc1n	1246.408447	California State University--San Bernardino	California State University, San Bernardino
+375	/m/0148s7	434.885468	Ripon College	Ripon College
+376	/m/01pdgp	708.37616	St. Olaf College	St. Olaf College
+377	/m/035f9h	607.339478	Xavier University of Louisiana	Xavier University of Louisiana
+378	/m/01r3vh	522.965027	Drew University	Drew University
+379	/m/03cz83	488.992706	Knox College	Knox College, Illinois
+380	/m/039swv	47
