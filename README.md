@@ -33,6 +33,7 @@ http://code.activestate.com/recipes/577305-python-dictionary-of-us-states-and-te
 * The difference in strings (difflib) determines whether or not to further reconcile
 * Initially the Reconciliation endpoint of the Freebase API was used to target those that could not be found via Search. However, results were not produced for all colleges provided.
 * Instead, variations of the college name are needed for Freebase to find the correct Freebase ID.
+* Confidence percentages were based off of the Freebase scores in a logarithmic scale. Only scores less than 100 were considerable during testing. 
 
 ####Corner Cases:
 * Rutgers, the State University of New Jersey--Newark:
