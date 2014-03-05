@@ -25,11 +25,16 @@ class College(object):
     College.collegeCount += 1
 
 def make_college(upstart_id, name, sat_score, graduatation_rate, retention_rate):
+  """Constructor for College objects"""
   college = College(upstart_id, name, sat_score, graduatation_rate, retention_rate)
   return college
 
-def read_file(f):
-  with open(f, 'rb') as f:
+def read_file(input_file):
+  """Generate College objects from input tsv, appending into collegeList
+  Argument:
+  input_file -- name of .tsv to be read
+  """
+  with open(input_file, 'rb') as f:
     reader = csv.reader(f, delimiter='\t')
     next(reader)
     for row in reader:
@@ -39,13 +44,17 @@ def read_file(f):
   print(College.collegeCount)
 
 def process_reconcile(college):
+  """Additional reconciliation for a single college.
+  Called when initial Search returns no results.
+  Returns True if reconciliation successful, False if no results found.
+  """
   with open('reconcile.tsv', 'a') as rec:
     w = csv.writer(rec, delimiter = '\t')
     w.writerow([college.upstart_id] + [college.name] + [college.sat_score] + [college.retention_rate] + [college.graduatation_rate])
   
-  #Try removing dashes and replacing abbreviation
+  # Try removing dashes and replacing abbreviation
   college_name = college.name.replace('--', ' ')
-  regex = re.compile(r'\b(' + '|'.join(states) + r')\b')  # find all instances of state abbr.
+  regex = re.compile(r'\b(' + '|'.join(states) + r')\b')  # find all instances of state abbreviations
   abbr = regex.search(college_name)
   if abbr:  # If abbreviation found, replace with full name
     abbr = abbr.group(0)
@@ -58,14 +67,14 @@ def process_reconcile(college):
     'type': '/education/university', 
     'key': api_key
   }
-  rec_params = {
+  rec_params = { # Parameters for Reconciliation API differ from Search API
     'name': college_name,
     'kind': '/education/university',
     # 'prop': ["/location/location/containedby:" + college.city, " /location/location/containedby:" + college.state],
     'key': api_key
   }
 
-  if abbr: # If name containes state abbreviation, search again
+  if abbr: # If name did contain state abbreviation, search again
     if(search(college, params)):
       return True
     if(reconcile(college, rec_params)):
@@ -101,6 +110,9 @@ def process_reconcile(college):
   return False
       
 def search(college, params):
+  """Calls Freebase Search API for a single college, given params
+  Returns True if result found, False otherwise
+  """
   service_url = 'https://www.googleapis.com/freebase/v1/search'
   url = service_url + '?' + urllib.urlencode(params)
   response = json.loads(urllib.urlopen(url).read())
@@ -114,6 +126,9 @@ def search(college, params):
 
 
 def reconcile(college, params):
+  """Calls Freebase Reconciliation API for a single college, given params
+  Returns True if result found, False otherwise
+  """
   service_url = 'https://www.googleapis.com/freebase/v1/reconcile'   
   url = service_url + '?' + urllib.urlencode(params)
   response = json.loads(urllib.urlopen(url).read())
@@ -136,6 +151,9 @@ def reconcile(college, params):
     return False
 
 def search_all():
+  """Conducts search on all Colleges in collegeList using Freebase Search API.
+  Writes intermediate results to output-debut.tsv.
+  """
   service_url = 'https://www.googleapis.com/freebase/v1/search'
   with open('output-debug.tsv', 'wb') as f:
     writer = csv.writer(f, delimiter='\t')
@@ -150,7 +168,9 @@ def search_all():
       url = service_url + '?' + urllib.urlencode(params)
       response = json.loads(urllib.urlopen(url).read())
 
-      if len(response['result'])==0:
+      if response['status'] != "200 OK":
+        print(response['status'])
+      elif len(response['result'])==0:  # If no result found, additional processing performed.
         print("Reconciling: " + college.name)
         process_reconcile(college)
 
@@ -158,7 +178,7 @@ def search_all():
       #   print("Score is: " + str(response['result'][0]['score']))
       #   process_reconcile(college)
 
-      else:
+      else: # Store result's Freebase ID, college name, and score
         college.freebase_id = response['result'][0]['mid']
         college.result_name = response['result'][0]['name'].encode('utf-8')
         college.score = response['result'][0]['score']
@@ -166,20 +186,23 @@ def search_all():
       # if college.name != college.result_name:
           # print(college.name + " VS \n" + college.result_name);
 
-      if(college.score<=1):
-        college.confidence = 0
-      elif(college.score>=4000):
-        college.confidence = 1
-      else:
-        college.confidence = round(math.log(college.score, 4000), 3)
       if college.score:
         writer.writerow([college.upstart_id] + [college.freebase_id] + [college.score] + [college.name] + [college.result_name])
-      elif college.confidence:
+      elif college.confidence: # Reconciliation API's built-in confidence
         writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence] + [college.name] + [college.result_name])
       else:
         writer.writerow([college.upstart_id] + [college.freebase_id] + [college.confidence] + [college.name] + ["No result"])
+
+      if college.score<=1:
+        college.confidence = 0.00
+      elif college.score>=3000: # few with over 3000
+        college.confidence = 100.00
+      else:
+        college.confidence = round(math.log(college.score, 3000)*100, 2)
       
 def write_file():
+  """Write final results of all Colleges to output.tsv
+  """
   with open('output.tsv', 'wb') as f:
     writer = csv.writer(f, delimiter='\t')
     writer.writerow(["upstart_id"] + ["freebase_id"] + ["confidence"])  
@@ -188,9 +211,8 @@ def write_file():
 
 if __name__ == '__main__':
   api_key = open(".freebase_api_key").read()
-  open('reconcile.tsv', 'w').close() # remove contents of file
-
-  if len(sys.argv)==1: # if no arguments, use random Wikipedia page
+  open('reconcile.tsv', 'w').close()  # remove contents of reconcile.tsv
+  if len(sys.argv)==1:  # if no arguments, use default .tsv file
     input_file = "colleges_for_jesse.tsv"
   else:
     input_file = sys.argv[1]
