@@ -69,3 +69,11 @@ upstart_id freebase_id confidence
 4 /m/02ldkf 0.808932328004
 5 /m/02hdht 0.7583775629631
 ```
+
+=========================================
+## Update: 6/4/2014
+After observing results, saw several inconsistencies. For example:
+* The University of West Florida VERSUS Florida State University
+* Pacific University VERSUS University of the Pacific
+
+One possible (implemented) fix is to use search by "schema" rather than "entity".

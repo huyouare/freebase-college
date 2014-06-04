@@ -175,7 +175,7 @@ def search_all():
         process_reconcile(college)
 
       # elif response['result'][0]['score']<200:
-      #   print("Score is: " + str(response['result'][0]['score']))
+        # print("Score is: " + str(response['result'][0]['score']))
       #   process_reconcile(college)
 
       else: # Store result's Freebase ID, college name, and score
