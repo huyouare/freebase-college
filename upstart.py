@@ -48,7 +48,7 @@ def process_reconcile(college):
   Called when initial Search returns no results.
   Returns True if reconciliation successful, False if no results found.
   """
-  with open('reconcile.tsv', 'a') as rec:
+  with open('reconcile-schema.tsv', 'a') as rec:
     w = csv.writer(rec, delimiter = '\t')
     w.writerow([college.upstart_id] + [college.name] + [college.sat_score] + [college.retention_rate] + [college.graduatation_rate])
   
@@ -155,7 +155,7 @@ def search_all():
   Writes intermediate results to output-debut.tsv.
   """
   service_url = 'https://www.googleapis.com/freebase/v1/search'
-  with open('output-debug.tsv', 'wb') as f:
+  with open('output-debug-schema.tsv', 'wb') as f:
     writer = csv.writer(f, delimiter='\t')
     writer.writerow(["u_id"] + ["f_id"] + ["score"] + ["actual name"] + ["result name"])  
     
@@ -163,7 +163,8 @@ def search_all():
       params = {
         'query': college.name,
         'type': '/education/university', 
-        'key': api_key
+        'key': api_key,
+        'scoring': 'schema'
       }
       url = service_url + '?' + urllib.urlencode(params)
       response = json.loads(urllib.urlopen(url).read())
@@ -203,7 +204,7 @@ def search_all():
 def write_file():
   """Write final results of all Colleges to output.tsv
   """
-  with open('output.tsv', 'wb') as f:
+  with open('output-schema.tsv', 'wb') as f:
     writer = csv.writer(f, delimiter='\t')
     writer.writerow(["upstart_id"] + ["freebase_id"] + ["confidence"])  
     for college in collegeList:
@@ -211,7 +212,7 @@ def write_file():
 
 if __name__ == '__main__':
   api_key = open(".freebase_api_key").read()
-  open('reconcile.tsv', 'w').close()  # remove contents of reconcile.tsv
+  open('reconcile-schema.tsv', 'w').close()  # remove contents of reconcile.tsv
   if len(sys.argv)==1:  # if no arguments, use default .tsv file
     input_file = "colleges_for_jesse.tsv"
   else:
