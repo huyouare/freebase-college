@@ -163,7 +163,6 @@ def search_all():
       params = {
         'query': college.name,
         'type': '/education/university', 
-        'key': api_key,
         'scoring': 'schema'
       }
       url = service_url + '?' + urllib.urlencode(params)

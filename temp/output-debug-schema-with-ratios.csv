@@ -1,0 +1,1983 @@
+u_id,f_id,score,actual name,result name,fuzzywuzzy ratio
+1,/m/02rk23,48.124512,South Carolina State University,South Carolina State University,100
+2,/m/01t8sr,51.984085,Tennessee State University,Tennessee State University,100
+3,/m/03818y,44.849945,Clark Atlanta University,Clark Atlanta University,100
+4,/m/02ldkf,47.106888,North Carolina A&T State University,North Carolina Agricultural and Technical State University,60
+5,/m/02hdht,31.726742,University of Bridgeport,University of Bridgeport,100
+6,/m/01s7pm,68.391624,University of Texas--El Paso,University of Texas at El Paso,85
+7,/m/02qvvv,39.107143,Florida A&M University,Florida A&M University,100
+8,/m/02rklk,29.641865,Barry University,Barry University,100
+9,/m/02w2bc,38.541252,Central Michigan University,Central Michigan University,100
+10,/m/021l5s,39.47493,Indiana State University,Indiana State University,100
+11,/m/06txt_,28.704088,Immaculata University,Immaculata University,100
+12,/m/02jztz,38.862652,New Mexico State University-Main Campus,New Mexico State University,100
+13,/m/04bbpm,38.666313,Indiana University of Pennsylvania,Indiana University of Pennsylvania,100
+14,/m/01nhgd,39.498215,Cleveland State University,Cleveland State University,100
+15,/m/0pf4w,38.733578,University of La Verne,University of La Verne,100
+16,/m/02fszn,122.01664,Indiana University-Purdue University--Indianapolis,Indiana University-Purdue University Indianapolis,95
+17,/m/02y9bj,36.002403,University of Memphis,University of Memphis,100
+18,/m/0315d4,38.973244,Trinity International University,Trinity International University,100
+19,/m/04w5hs,29.202389,Widener University,Widener University,100
+20,/m/0m9_5,42.482479,East Carolina University,East Carolina University,100
+21,/m/01p79b,54.250011,Bowling Green State University,Bowling Green State University,100
+22,/m/05d_lm,38.849052,Nova Southeastern University,Nova Southeastern University,100
+23,/m/01sqb3,38.564201,Texas Woman's University,Texas Woman's University,100
+24,/m/0pgmj,58.430546,University of Massachusetts--Boston,University of Massachusetts Boston,94
+25,/m/02hp6p,28.760717,University of Hartford,University of Hartford,100
+26,/m/01jpqb,98.202759,University of Nevada--Las Vegas,"University of Nevada, Las Vegas",93
+27,/m/0cchk3,49.831196,University of Southern Mississippi,The University of Southern Mississippi,100
+28,/m/0gy3w,39.460831,Louisiana Tech University,Louisiana Tech University,100
+29,/m/0kddq,76.144913,University of North Carolina--Greensboro,University of North Carolina at Greensboro,90
+30,/m/03d639,38.273411,Trevecca Nazarene University,Trevecca Nazarene University,100
+31,/m/04bfg,60.279709,Kent State University,Kent State University,100
+32,/m/02yxjs,48.381542,Northern Illinois University,Northern Illinois University,100
+33,/m/022lly,39.371414,Ball State University,Ball State University,100
+34,/m/01hhvg,61.557072,University of California--Riverside,"University of California, Riverside",94
+35,/m/02xpy5,42.157738,Northern Arizona University,Northern Arizona University,100
+36,/m/024y8p,83.789925,University of North Carolina--Charlotte,University of North Carolina at Charlotte,89
+37,/m/01gwck,38.197628,Portland State University,Portland State University,100
+38,/m/02fjzt,48.975666,University of Rhode Island,University of Rhode Island,100
+39,/m/03l78j,48.76149,Florida Atlantic University,Florida Atlantic University,100
+40,/m/01_k7f,38.72691,University of Northern Colorado,University of Northern Colorado,100
+41,/m/01q0kg,49.140038,San Diego State University,San Diego State University,100
+42,/m/018sg9,40.010639,Andrews University,University of St Andrews,55
+43,/m/01j_06,46.346664,Seton Hall University,Seton Hall University,100
+45,/m/01stj9,42.213287,Old Dominion University,Old Dominion University,100
+46,/m/030w4k,28.850061,Regent University,Regent University,100
+47,/m/0ks67,45.220604,"Rutgers, the State University of New Jersey--Newark",Rutgers University,72
+48,/m/01jpyb,49.263802,University of Nevada--Reno,"University of Nevada, Reno",92
+49,/m/0386jx,26.814238,The University of West Florida,University of West Florida,100
+50,/m/02j416,39.25946,Georgia State University,Georgia State University,100
+51,/m/02_7kp,64.599686,University of Hawaii--Manoa,University of Hawaii at Manoa,85
+52,/m/01lczl,47.719482,University of Massachusetts--Lowell,University of Massachusetts Lowell,94
+53,/m/03np_7,51.331161,University of Texas--Arlington,University of Texas at Arlington,86
+54,/m/04pmt5,47.411316,Saint Mary's University of Minnesota,Saint Mary's University of Minnesota,100
+55,/m/01h8rk,59.355755,Washington State University,Washington State University,100
+56,/m/020ddc,45.167057,University of Maine,University of Maine,100
+57,/m/0321m8,53.094604,University of Colorado--Denver,University of Colorado at Denver,86
+58,/m/02482c,33.699139,University of New Mexico-Main Campus,University of New Mexico,100
+59,/m/0f102,36.790016,University of Idaho,University of Idaho,100
+60,/m/025yxlt,48.703186,University of Montana--Western,University of Montana - Western,93
+61,/m/029qzx,39.580379,Oral Roberts University,Oral Roberts University,100
+62,/m/02lv2v,35.782578,Pace University,Pace University,100
+63,/m/01nkcn,42.429985,Utah State University,Utah State University,100
+64,/m/01n_g9,49.943821,Texas Tech University,Texas Tech University,100
+65,/m/0177sq,45.429508,Virginia Commonwealth University,Virginia Commonwealth University,100
+66,/m/02fy0z,40.864399,Ohio University,Ohio University,100
+67,/m/01jzyx,85.026596,St. John's University-New York,St. John's University,100
+68,/m/05zjtn4,57.708771,University of North Texas,University of North Texas,100
+69,/m/02gr81,43.384201,University of Houston,University of Houston,100
+71,/m/03205_,29.536324,Adelphi University,Adelphi University,100
+72,/m/02fgq7,39.263535,Azusa Pacific University,Azusa Pacific University,100
+73,/m/01hx2t,45.677143,Oregon State University,Oregon State University,100
+74,/m/02cn6c,38.177704,George Fox University,George Fox University,100
+75,/m/07vyf,53.186588,University of Arizona,University of Arizona,100
+76,/m/01lnyf,47.797501,Wichita State University,Wichita State University,100
+77,/m/06thjt,48.893169,New School,The New School,100
+78,/m/02dq8f,46.307671,University at Albany--SUNY,"University at Albany, The State University of New York",76
+79,/m/01ngz1,48.436619,University of South Dakota,University of South Dakota,100
+80,/m/0217m9,48.763565,Howard University,Howard University,100
+81,/m/01jt2w,57.312916,Temple University,Temple University,100
+82,/m/01ptt7,50.324795,University of Kentucky,University of Kentucky,100
+83,/m/01n6r0,49.684128,University of Oregon,University of Oregon,100
+84,/m/01dzg0,57.414707,Mississippi State University,Mississippi State University,100
+85,/m/07wlf,45.439678,University of Utah,University of Utah,100
+86,/m/01vs64,58.537716,Oklahoma State University,Oklahoma State University–Stillwater,100
+87,/m/02mp0g,39.431194,University of Wyoming,University of Wyoming,100
+88,/m/01wdl3,52.185349,University of Alabama,University of Alabama,100
+89,/m/04pjmj,29.132114,Pacific University,Pacific University,100
+90,/m/02s8qk,28.70006,Duquesne University,Duquesne University,100
+91,/m/02vnp2,68.769096,The Catholic University of America,The Catholic University of America,100
+92,/m/02ln0f,42.041595,University of Cincinnati,University of Cincinnati,100
+93,/m/027mdh,47.970432,University of San Francisco,University of San Francisco,100
+94,/m/01j_cy,65.190506,Michigan State University,Michigan State University,100
+95,/m/01ps1k,53.046463,New Jersey Institute of Technology,New Jersey Institute of Technology,100
+96,/m/02x9g_,61.869678,Montana State University,Montana State University - Bozeman,100
+97,/m/01y17m,68.313255,University of Illinois--Chicago,University of Illinois at Chicago,87
+98,/m/02d_zc,64.989899,Colorado State University,Colorado State University,100
+99,/m/02jyr8,68.402946,University of Alabama--Birmingham,University of Alabama at Birmingham,87
+100,/m/02l8j1,29.317369,Clarkson University,Clarkson University,100
+101,/m/02mj7c,41.971142,DePaul University,DePaul University,100
+102,/m/0225bv,50.674919,University of Louisville,University of Louisville,100
+103,/m/02hp70,48.440544,University of New Hampshire,University of New Hampshire,100
+104,/m/09s5q8,76.7733,University of South Florida,University of South Florida,100
+105,/m/05x_5,60.325008,Purdue University--West Lafayette,Purdue University,100
+107,/m/039d4,39.274666,George Mason University,George Mason University,100
+108,/m/02bjhv,34.586941,University of Dayton,University of Dayton,100
+109,/m/07vhb,83.542397,University of California--Santa Cruz,"University of California, Santa Cruz",94
+110,/m/03jc1t,51.697842,University of Alabama--Huntsville,University of Alabama in Huntsville,87
+111,/m/01pl14,45.361187,Louisiana State University--Baton Rouge,Louisiana State University,100
+112,/m/02cttt,30.037712,SUNY Buffalo State,"University at Buffalo, The State University of New York",72
+113,/m/0391l4,37.927876,Florida Institute of Technology,Florida Institute of Technology,100
+114,/m/0146hc,49.784332,University of Central Florida,University of Central Florida,100
+115,/m/078bz,47.811375,Syracuse University,Syracuse University,100
+116,/m/0jkhr,43.744267,North Carolina State University--Raleigh,North Carolina State University,100
+117,/m/0221g_,42.9324,Texas Christian University,Texas Christian University,100
+118,/m/01qrb2,76.863922,Indiana University--Bloomington,Indiana University Bloomington,93
+119,/m/0c5x_,64.189819,University of California--Irvine,"University of California, Irvine",93
+120,/m/07ccs,74.349487,Texas A&M University--College Station,Texas A&M University,100
+122,/m/02l8qv,29.917933,SUNY College of Environmental Science and Forestry,State University of New York College of Environmental Science and Forestry,94
+123,/m/01qgr3,63.70052,The University of Tennessee,University of Tennessee,100
+124,/m/07vht,73.099045,University of California--Davis,"University of California, Davis",93
+125,/m/01swxv,41.216957,University of Delaware,University of Delaware,100
+126,/m/02zg12,29.585442,Samford University,Samford University,100
+127,/m/033x5p,46.970501,University of the Pacific,University of the Pacific,100
+128,/m/016vf7,85.627518,University of Missouri--Kansas City,University of Missouri–Kansas City,91
+129,/m/01ky7c,59.775204,University of Massachusetts--Amherst,University of Massachusetts Amherst,94
+130,/m/01vs5c,23.716246,University of Oklahoma Norman Campus,University of Oklahoma,100
+131,/m/01r3y2,30.598749,Miami University--Oxford,Miami University,100
+132,/m/0183m_,39.959671,St. Thomas University,St. Thomas University,100
+133,/m/02mzg9,43.124222,University of Denver,University of Denver,100
+134,/m/01l8t8,45.192928,Stony Brook University--SUNY,State University of New York at Stony Brook,56
+135,/m/020ym6,73.772964,University of Maryland--Baltimore County,University of Maryland Baltimore County,94
+136,/m/01f1r4,97.773628,University of California--Santa Barbara,"University of California, Santa Barbara",94
+137,/m/02607j,29.150681,Hofstra University,Hofstra University,100
+138,/m/03qjqt9,60.532719,"Rutgers, the State University of New Jersey--New Brunswick",Rutgers – New Brunswick,64
+139,/m/0187nd,60.242191,University of Missouri,University of Missouri–Columbia,100
+140,/m/01qd_r,82.47287,University of Colorado--Boulder,University of Colorado Boulder,93
+141,/m/02mt2n,52.985626,University of Texas--Dallas,University of Texas at Dallas,85
+142,/m/037fqp,29.408417,Marquette University,Marquette University,100
+143,/m/01q7q2,52.60714,University of Vermont,University of Vermont,100
+144,/m/0b1xl,51.478966,Loyola University Chicago,Loyola University Chicago,100
+145,/m/01tx9m,37.433868,Baylor University,Baylor University,100
+146,/m/03tw2s,73.440208,University of South Carolina,University of South Carolina,100
+147,/m/01p5xy,29.112114,Clark University,Clark University,100
+148,/m/03v6t,59.259712,Iowa State University,Iowa State University,100
+149,/m/029d_,29.051727,Drexel University,Drexel University,100
+150,/m/0cfv1,38.681404,Michigan Technological University,Michigan Technological University,100
+152,/m/01j_9c,59.146568,University of Iowa,University of Iowa,100
+153,/m/01jswq,38.405811,Virginia Tech,Virginia Polytechnic Institute and State University,69
+154,/m/04hgpt,78.755051,Pennsylvania State University--University Park,Pennsylvania State University,100
+155,/m/07t90,26.006939,University of Washington-Seattle Campus,University of Washington,100
+156,/m/01jq0j,61.734467,Florida State University,Florida State University,100
+157,/m/02rky4,41.254719,University of San Diego,University of San Diego,100
+158,/m/0hpv3,42.034595,Yeshiva University,Yeshiva University,100
+159,/m/01jsn5,58.914867,University of Connecticut,University of Connecticut,100
+160,/m/012vwb,32.383301,Clemson University,Clemson University,100
+161,/m/07w0v,80.127892,University of Texas--Austin,University of Texas at Austin,85
+162,/m/05krk,36.373585,Ohio State University-Main Campus,Ohio State University,100
+163,/m/026vcc,34.979668,Pepperdine University,Pepperdine University,100
+164,/m/02183k,58.369694,University of Georgia,University of Georgia,100
+165,/m/0187m6,46.529022,St. Louis University,University of Missouri–St. Louis,50
+166,/m/025v3k,92.242195,University of Minnesota--Twin Cities,University of Minnesota,100
+167,/m/027kp3,32.123653,Fordham University,Fordham University,100
+168,/m/01qqv5,38.401585,Stevens Institute of Technology,Stevens Institute of Technology,100
+169,/m/02fgdx,49.665821,Southern Methodist University,Southern Methodist University,100
+170,/m/0l2tk,18.32626,Brigham Young University--Provo,Brigham Young University,100
+171,/m/0jpn8,48.40855,Illinois Institute of Technology,Illinois Institute of Technology,100
+172,/m/07vjm,102.026985,University of California--San Diego,"University of California, San Diego",94
+173,/m/0j_sncb,52.244919,University of Florida,University of Florida,100
+174,/m/01y1ps,40.92057,Colorado School of Mines,Colorado School of Mines,100
+175,/m/07w3r,35.274376,University of Tulsa,University of Tulsa,100
+176,/m/01jssp,46.094257,University of Pittsburgh,University of Pittsburgh,100
+177,/m/0lyjf,57.852516,University of Miami,University of Miami,100
+178,/m/0187n1,48.392784,Missouri University of Science & Technology,Missouri University of Science and Technology,93
+179,/m/01p896,31.333376,Binghamton University--SUNY,Binghamton University,100
+180,/m/0kw4j,46.464443,American University,American University,100
+181,/m/0gl5_,51.358891,Boston University,Boston University,100
+182,/m/01yx1b,100.442383,University of Wisconsin--Madison,University of Wisconsin-Madison,96
+183,/m/0225v9,38.987381,Northeastern University,Northeastern University,100
+184,/m/09f2j,154.002167,University of California--Los Angeles,"University of California, Los Angeles",94
+185,/m/01nnsv,74.336662,George Washington University,George Washington University,100
+186,/m/049d1s,28.332767,Biola University,Biola University,100
+187,/m/0bx8pn,129.589584,University of North Carolina--Chapel Hill,University of North Carolina at Chapel Hill,90
+188,/m/01jq34,102.099342,University of Maryland--College Park,"University of Maryland, College Park",94
+189,/m/0bthb,33.41132,Lehigh University,Lehigh University,100
+190,/m/07vfj,48.159878,University of Rochester,University of Rochester,100
+191,/m/0f1nl,33.046127,Georgia Institute of Technology-Main Campus,Georgia Institute of Technology,100
+192,/m/0220q6,130.723114,University of Illinois--Urbana-Champaign,University of Illinois at Urbana-Champaign,90
+193,/m/01hjy5,56.080624,Case Western Reserve University,Case Western Reserve University,100
+194,/m/02zd460,105.955406,University of California--Berkeley,"University of California, Berkeley",94
+195,/m/0bwfn,79.345993,New York University,New York University,100
+197,/m/01bk1y,53.515091,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,100
+198,/m/0g8rj,28.785728,University of Virginia-Main Campus,University of Virginia,100
+199,/m/07szy,116.999191,University of Michigan--Ann Arbor,University of Michigan,100
+200,/m/017v3q,72.729736,College of William and Mary,College of William and Mary,100
+201,/m/01jsk6,49.704071,Boston College,Boston College,100
+202,/m/065y4w7,83.210968,University of Southern California,University of Southern California,100
+203,/m/0kz2w,29.155113,Brandeis University,Brandeis University,100
+204,/m/0cwx_,46.910854,Carnegie Mellon University,Carnegie Mellon University,100
+205,/m/09kvv,68.30658,Johns Hopkins University,Johns Hopkins University,100
+206,/m/01w3v,54.794991,Cornell University,Cornell University,100
+207,/m/0pspl,52.961601,Georgetown University,Georgetown University,100
+208,/m/0bqxw,33.158966,Emory University,Emory University,100
+209,/m/06fq2,37.073189,Rice University,Rice University,100
+210,/m/012mzw,73.089958,University of Notre Dame,University of Notre Dame,100
+211,/m/01pq4w,31.633869,Vanderbilt University,Vanderbilt University,100
+212,/m/01bm_,42.939564,Brown University,Brown University,100
+213,/m/0dzst,51.212917,Duke University,Duke University,100
+214,/m/06pwq,59.007881,Stanford University,Stanford University,100
+215,/m/07tds,63.015736,University of Pennsylvania,University of Pennsylvania,100
+216,/m/017j69,45.590645,Northwestern University,Northwestern University,100
+217,/m/02bqy,29.350485,Dartmouth College,Dartmouth College,100
+218,/m/0lfgr,33.637531,Tufts University,Tufts University,100
+219,/m/04rwx,93.187256,Massachusetts Institute of Technology,Massachusetts Institute of Technology,100
+220,/m/01w5m,81.908447,Columbia University,Columbia University,100
+221,/m/0g2jl,93.009361,Washington University in St. Louis,Washington University in St. Louis,100
+222,/m/07wrz,59.987652,University of Chicago,University of Chicago,100
+223,/m/03ksy,62.148579,Harvard University,Harvard University,100
+224,/m/05zl0,54.063728,Princeton University,Princeton University,100
+225,/m/08815,58.409264,Yale University,Yale University,100
+226,/m/02sjgpq,74.629944,California Institute of Technology,California Institute of Technology,100
+227,/m/02s62q,56.037663,Rhode Island School of Design,Rhode Island School of Design,100
+228,/m/03lcv,38.621826,Harvey Mudd College,Harvey Mudd College,100
+229,/m/017_3h,29.356136,Babson College,Babson College,100
+230,/m/086xm,29.270163,Williams College,Williams College,100
+231,/m/01q8hj,37.100212,Colgate University,Colgate University,100
+232,/m/01n4w_,39.068302,Washington and Lee University,Washington and Lee University,100
+233,/m/012fvq,33.57719,Swarthmore College,Swarthmore College,100
+234,/m/036__q,38.878716,Loyola University Maryland,Loyola University Maryland,100
+235,/m/0gdm1,29.267443,Amherst College,Amherst College,100
+236,/m/01p7x7,62.119953,Cooper Union,Cooper Union,100
+237,/m/0qlnr,29.611282,Bucknell University,Bucknell University,100
+238,/m/03hdz8,39.01857,Claremont McKenna College,Claremont McKenna College,100
+239,/m/0f1nl,58.736362,Georgia Institute of Technology,Georgia Institute of Technology,100
+240,/m/0k9wp,86.544357,United States Air Force Academy,United States Air Force Academy,100
+241,/m/02pdhz,29.586102,Davidson College,Davidson College,100
+242,/m/01ymvk,45.236954,Virginia Military Institute,Virginia Military Institute,100
+243,/m/0gm4v,55.121613,Rose-Hulman Institute of Technology,Rose-Hulman Institute of Technology,100
+244,/m/04gg2j,58.504383,South Dakota School of Mines and Technology,South Dakota School of Mines and Technology,100
+245,/m/016wyn,29.529928,Haverford College,Haverford College,100
+246,/m/027ybp,155.592682,California Polytechnic State University--San Luis Obispo,California Polytechnic State University,100
+247,/m/015y3j,35.526066,Dickinson College,Dickinson College,100
+249,/m/04b06_,33.589382,Wesleyan University,Wesleyan University Philippines,100
+250,/m/02rg_4,29.588081,Lafayette College,Lafayette College,100
+251,/m/0172jm,29.370384,Colby College,Colby College,100
+252,/m/019c57,29.3349,Kenyon College,Kenyon College,100
+253,/m/01dq5z,36.234669,Carleton College,Carleton College,100
+254,/m/0418d0,41.825897,Hampden-Sydney College,Hampden-Sydney College,100
+255,/m/02gnh0,68.205559,California State Polytechnic University--Pomona,"California State Polytechnic University, Pomona",95
+256,/m/07ccs,74.349487,Texas A&M University--College Station,Texas A&M University,100
+257,/m/02h30z,33.432892,Fairfield University,Fairfield University,100
+258,/m/02hft3,29.092712,Gettysburg College,Gettysburg College,100
+259,/m/01c333,29.187551,Bowdoin College,Bowdoin College,100
+260,/m/07w0v,80.127892,University of Texas--Austin,University of Texas at Austin,85
+261,/m/05q2c,29.412748,Occidental College,Occidental College,100
+262,/m/02gkxp,33.531418,Middlebury College,Middlebury College,100
+263,/m/07t90,68.269646,University of Washington,University of Washington,100
+264,/m/01j_5k,32.498558,Villanova University,Villanova University,100
+265,/m/021996,58.069862,San Jose State University,San José State University,92
+266,/m/016w7b,29.31262,Macalester College,Macalester College,100
+267,/m/0g8rj,58.770924,University of Virginia,University of Virginia,100
+268,/m/01fy81,28.293493,Kettering University,Kettering University,100
+269,/m/03k7dn,28.992847,Denison University,Denison University,100
+270,/m/01r3w7,46.389,Fairleigh Dickinson University,Fairleigh Dickinson University,100
+271,/m/03qjqt9,60.532719,"Rutgers, the State University of New Jersey--New Brunswick",Rutgers – New Brunswick,64
+272,/m/05qqf4,38.15757,Milwaukee School of Engineering,Milwaukee School of Engineering,100
+273,/m/017v71,28.73757,Wellesley College,Wellesley College,100
+274,/m/03bnd9,31.226475,Butler University,Butler University,100
+276,/m/01qd_r,82.47287,University of Colorado--Boulder,University of Colorado Boulder,93
+277,/m/01jq34,60.936886,University of Maryland,"University of Maryland, College Park",100
+278,/m/01d4ry,38.369057,Seattle Pacific University,Seattle Pacific University,100
+279,/m/011xy1,60.391827,Trinity College,"Trinity College, Dublin",100
+280,/m/01x3x1,73.215073,Embry-Riddle Aeronautical University,Embry-Riddle Aeronautical University,100
+281,/m/028fb0,38.179218,Grove City College,Grove City College,100
+282,/m/03tp8v,38.504005,Oregon Institute of Technology,Oregon Institute of Technology,100
+284,/m/020ym6,51.341568,University of Maryland--Baltimore,University of Maryland Baltimore County,93
+285,/m/018t8f,37.749741,Colorado College,Colorado College,100
+286,/m/01b1mj,28.745806,Gonzaga University,Gonzaga University,100
+287,/m/01y20v,21.418644,"Wheaton College - Wheaton, IL",Wheaton College,100
+288,/m/02km0m,36.292843,Trinity University,Trinity University,100
+289,/m/01jszm,31.514622,Providence College,Providence College,100
+290,/m/0bmc4pw,41.452694,Ohio Northern University,"Ohio Northern University, Pettit College of Law",100
+291,/m/01rkgb,29.10668,Whitman College,Whitman College,100
+292,/m/01ljpm,30.459129,Vassar College,Vassar College,100
+293,/m/022xml,29.092112,Furman University,Furman University,100
+294,/m/02vlcx6,39.544567,Miami University Hamilton,Miami University Hamilton,100
+295,/m/04tgb,28.63002,Millsaps College,Millsaps College,100
+296,/m/019n9w,29.078508,Pomona College,Pomona College,100
+297,/m/01wdj_,41.787842,Auburn University,Auburn University,100
+298,/m/02897w,28.648165,Willamette University,Willamette University,100
+299,/m/01vcs0,29.236486,Hendrix College,Hendrix College,100
+300,/m/01p896,31.333376,Binghamton University--SUNY,Binghamton University,100
+301,/m/06bw5,28.944822,Reed College,Reed College,100
+302,/m/017y6l,35.605129,DePauw University,DePauw University,100
+303,/m/02yr1q,36.850315,Drake University,Drake University,100
+304,/m/01h1m8,38.91293,Pacific Lutheran University,Pacific Lutheran University,100
+305,/m/01pl14,45.361187,Louisiana State University--Baton Rouge,Louisiana State University,100
+306,/m/04_c85,28.892609,Presbyterian College,Presbyterian College,100
+307,/m/057wlm,26.837162,The Citadel,The Citadel,100
+308,/m/03hpkp,44.07859,University of Richmond,University of Richmond,100
+309,/m/021w0_,104.456123,California State University--Long Beach,"California State University, Long Beach",94
+310,/m/025rcc,30.360157,University of Portland,University of Portland,100
+311,/m/05mv4,36.051376,Oberlin College,Oberlin College,100
+312,/m/0ks67,45.220604,"Rutgers, the State University of New Jersey--Newark",Rutgers University,72
+313,/m/02zcnq,71.818184,California State University--Sacramento,"California State University, Sacramento",94
+314,/m/0438f,39.16111,James Madison University,James Madison University,100
+315,/m/02p9xn,53.768871,Montana Tech of the University of Montana,Montana Tech of The University of Montana,97
+316,/m/01ztq_,81.883209,California State University--Chico,"California State University, Chico",94
+317,/m/01trj2,37.863075,University of Mary Washington,University of Mary Washington,100
+318,/m/045hc2,41.38538,Gustavus Adolphus College,Gustavus Adolphus College,100
+319,/m/01vs5c,63.582985,University of Oklahoma,University of Oklahoma,100
+320,/m/02k0pn,61.3535,California State University--East Bay,"California State University, East Bay",94
+321,/m/0jkhr,79.440956,North Carolina State University,North Carolina State University,100
+322,/m/03lpld,28.524744,Ursinus College,Ursinus College,100
+323,/m/0160nk,41.686073,Tulane University,Tulane University,100
+324,/m/02dq8f,46.307671,University at Albany--SUNY,"University at Albany, The State University of New York",76
+325,/m/03y5ky,30.87464,Valparaiso University,Valparaiso University,100
+326,/m/046lcl,29.419605,Muhlenberg College,Muhlenberg College,100
+327,/m/01rc6f,52.474392,University of Arkansas,University of Arkansas,100
+328,/m/04cnng,43.04546,Randolph-Macon College,Randolph-Macon College,100
+329,/m/02hp6b,31.210217,Quinnipiac University,Quinnipiac University,100
+330,/m/05mxkp,29.22595,Bryant University,Bryant University,100
+331,/m/01rgn3,29.112165,Connecticut College,Connecticut College,100
+332,/m/02hknm,38.715935,University of New Haven,University of New Haven,100
+333,/m/01r46p,29.347897,Monmouth University,Monmouth University,100
+334,/m/06blg9,27.808678,St. Anselm College,Saint Anselm College,91
+335,/m/0321m8,53.094604,University of Colorado--Denver,University of Colorado at Denver,86
+336,/m/01cf5,35.467945,Barnard College,Barnard College,100
+337,/m/01848s,38.066219,Western Washington University,Western Washington University,100
+338,/m/01qgr3,67.324524,University of Tennessee,University of Tennessee,100
+339,/m/03fgm,29.344717,Grinnell College,Grinnell College,100
+340,/m/02rv1w,85.258461,California State University--Fullerton,"California State University, Fullerton",94
+341,/m/0k__z,79.80098,California State University--Northridge,"California State University, Northridge",94
+342,/m/01r4c_,36.459518,Rider University,Rider University,100
+343,/m/02h7qr,28.531216,Towson University,Towson University,100
+344,/m/02l424,38.343445,Xavier University,Xavier University,100
+345,/m/02k0gt,28.85742,Rhodes College,Rhodes College,100
+346,/m/0bx8pn,129.589584,University of North Carolina--Chapel Hill,University of North Carolina at Chapel Hill,90
+347,/m/02dqw8,29.543835,Allegheny College,Allegheny College,100
+348,/m/03xp2d,28.770851,Wofford College,Wofford College,100
+349,/m/02dg2q,28.530119,Albion College,Albion College,100
+350,/m/06jk5_,32.685009,Norwich University,Norwich University,100
+351,/m/05krk,27.848379,Ohio State University--Columbus,Ohio State University,100
+352,/m/05zl0,63.237583,College of New Jersey,Princeton University,35
+353,/m/03jc1t,51.697842,University of Alabama--Huntsville,University of Alabama in Huntsville,87
+354,/m/0trv,69.636246,Arizona State University,Arizona State University,100
+356,/m/0778p,29.570213,Seattle University,Seattle University,100
+357,/m/01b_hz,46.966637,University of New England,University of New England,100
+358,/m/0187nd,60.242191,University of Missouri,University of Missouri–Columbia,100
+359,/m/01r490,30.255581,Ramapo College of New Jersey,Ramapo College,100
+360,/m/031vm7,52.008362,University of Colorado--Colorado Springs,University of Colorado at Colorado Springs,90
+361,/m/019dwp,73.356262,West Virginia University,West Virginia University,100
+362,/m/02hdln,38.507202,Sacred Heart University,Sacred Heart University,100
+363,/m/0271vt,38.880592,William Jewell College,William Jewell College,100
+364,/m/02kbtf,35.788643,Hamilton College,Hamilton College,100
+365,/m/03l6bs,29.091135,Beloit College,Beloit College,100
+366,/m/013807,51.85318,San Francisco State University,San Francisco State University,100
+367,/m/0183m_,39.959671,St. Thomas University,St. Thomas University,100
+368,/m/01qwb5,28.888021,Tuskegee University,Tuskegee University,100
+369,/m/02grjf,28.841385,Calvin College,Calvin College,100
+370,/m/02x9g_,73.934402,"Montana State University, Bozeman",Montana State University - Bozeman,93
+371,/m/02pptm,86.5774,California State University--Fresno,"California State University, Fresno",94
+372,/m/039ccc,29.062304,Central College,Central College,100
+373,/m/021_r8,39.2444,University of Puget Sound,University of Puget Sound,100
+374,/m/01gc1n,76.769753,California State University--San Bernardino,"California State University, San Bernardino",95
+375,/m/0148s7,29.627205,Ripon College,Ripon College,100
+376,/m/01pdgp,40.869064,St. Olaf College,St. Olaf College,100
+377,/m/035f9h,38.512783,Xavier University of Louisiana,Xavier University of Louisiana,100
+378,/m/01r3vh,29.583565,Drew University,Drew University,100
+379,/m/044qv_,30.424702,Knox College,"Knox College, Otago",100
+380,/m/039swv,28.818396,McDaniel College,McDaniel College,100
+381,/m/01xysf,48.663788,North Dakota State University,North Dakota State University,100
+382,/m/02p29q,32.90675,University of Dallas,University of Dallas,100
+383,/m/02jztz,74.069229,New Mexico State University,New Mexico State University,100
+384,/m/01q_z_,39.057106,William Paterson University of New Jersey,William Paterson University,100
+385,/m/01r45j,29.297277,Kean University,Kean University,100
+386,/m/027b43,38.375999,University of North Dakota,University of North Dakota,100
+387,/m/01ytlh,29.10462,Rockhurst University,Rockhurst University,100
+388,/m/02hdt4,48.617512,Central Connecticut State University,Central Connecticut State University,100
+389,/m/037p46,29.279501,Regis University,Regis University,100
+390,/m/06xp1z,37.852512,Salve Regina University,Salve Regina University,100
+391,/m/02rmk7,29.1763,Austin College,Austin College,100
+392,/m/02hjcq,47.707367,Eastern Connecticut State University,Eastern Connecticut State University,100
+393,/m/02m8rk,20.670916,"Westminster College - Salt Lake City, UT","Westminster College, Salt Lake City",94
+394,/m/02szcs,28.594772,Cornell College,Cornell College,100
+395,/m/03h_qt,29.703735,Rowan University,Rowan University,100
+396,/m/02qytn,32.523872,Washington College,Washington College,100
+397,/m/01g4c1,30.91357,College of St. Benedict,College of Saint Benedict,86
+398,/m/02gnmp,83.326035,California State University--Los Angeles,"California State University, Los Angeles",95
+399,/m/02482c,68.441826,University of New Mexico,University of New Mexico,100
+400,/m/01ft27,29.39946,Lipscomb University,Lipscomb University,100
+401,/m/02gtf_,30.148989,SUNY--New Paltz,State University of New York at New Paltz,60
+402,/m/0c0lfs,39.176414,Colorado Christian University,Colorado Christian University,100
+403,/m/02x9cv,55.024731,University of Montana,University of Montana - Missoula,100
+404,/m/023541,29.165901,Bellarmine University,Bellarmine University,100
+405,/m/02hdrq,47.834869,Southern Connecticut State University,Southern Connecticut State University,100
+406,/m/04_zf1,39.664246,Birmingham-Southern College,Birmingham-Southern College,100
+407,/m/0187m6,46.529022,St. Louis University,University of Missouri–St. Louis,50
+408,/m/0kf7h,47.613739,South Dakota State University,South Dakota State University,100
+409,/m/038czx,29.304808,Transylvania University,Transylvania University,100
+410,/m/014m86,28.491972,Salisbury University,Salisbury University,100
+411,/m/02hsfj,41.344063,University of South Alabama,University of South Alabama,100
+412,/m/01_r9k,29.109701,Morehouse College,Morehouse College,100
+413,/m/08slqd,14.163725,Rivier University,Rivier College,57
+414,/m/035ktt,48.682663,University of New Orleans,University of New Orleans,100
+415,/m/01vs3p,60.996418,University of Nebraska--Lincoln,University of Nebraska–Lincoln,90
+416,/m/02brtj,39.020462,Illinois Wesleyan University,Illinois Wesleyan University,100
+417,/m/0hd7j,51.104435,University of Mississippi,University of Mississippi,100
+418,/m/039l1r,40.828777,Sewanee--University of the South,"Sewanee, The University of the South",81
+419,/m/02zccd,46.53442,University of Louisiana--Lafayette,University of Louisiana at Lafayette,88
+420,/m/02m6__,19.06217,SUNY--Plattsburgh,State University of New York at Plattsburgh,64
+421,/m/02lvvt,19.712133,SUNY--Oswego,State University of New York at Oswego,50
+422,/m/0fcps,28.765564,Kalamazoo College,Kalamazoo College,100
+423,/m/022fj_,45.535858,Florida International University,Florida International University,100
+424,/m/02hkrz,38.192459,Delaware State University,Delaware State University,100
+425,/m/02qdk1,10.183005,"Bethel University - St. Paul, MN",Bethel University,100
+426,/m/03cxzh,28.545391,University of Evansville,University of Evansville,100
+427,/m/023zxl,39.049866,Idaho State University,Idaho State University,100
+428,/m/030_7d,29.970406,Webster University,Webster University,100
+429,/m/033w8f,64.38662,California State University--Dominguez Hills,"California State University, Dominguez Hills",95
+430,/m/01r49t,59.362312,Richard Stockton College of New Jersey,Richard Stockton College of New Jersey,100
+431,/m/021x6t,59.294716,California State University--San Marcos,"California State University, San Marcos",94
+432,/m/030klw,59.292793,Concordia College--Moorhead,"Concordia College, Moorhead",92
+433,/m/030w19,27.813908,College of Wooster,The College of Wooster,100
+434,/m/0cbg_1,47.885948,Southern New Hampshire University,Southern New Hampshire University,100
+435,/m/02k5ct,21.838596,SUNY--Geneseo,State University of New York at Geneseo,53
+436,/m/03hdnd,38.119385,University of North Florida,University of North Florida,100
+437,/m/0g3crz,28.643305,Coe College,Coe College,100
+438,/m/027ydt,38.177315,Eastern Kentucky University,Eastern Kentucky University,100
+439,/m/01r47h,38.054672,Montclair State University,Montclair State University,100
+440,/m/02c6zl,29.581099,Linfield College,Linfield College,100
+441,/m/05jm__,58.043396,Colorado State University--Pueblo,Colorado State University - Pueblo,93
+442,/m/01_j57,38.623657,Truman State University,Truman State University,100
+443,/m/037q2p,46.411884,University of Detroit Mercy,University of Detroit Mercy,100
+444,/m/0lwyk,39.407505,Boise State University,Boise State University,100
+445,/m/033wbb,53.583672,California State University--Stanislaus,"California State University, Stanislaus",94
+446,/m/045cnw,31.270826,Centenary College,Centenary College of Louisiana,100
+447,/m/02rl14,38.62632,Southern Oregon University,Southern Oregon University,100
+448,/m/01b_8n,41.825596,Humboldt State University,Humboldt State University,100
+449,/m/079rtz,29.213659,Western State Colorado University,Western State College of Colorado,66
+450,/m/054tfy,22.377602,Franklin Pierce University,Franklin Pierce College,73
+451,/m/035dnq,29.070486,Hamline University,Hamline University,100
+452,/m/02sn03,36.026817,College of Charleston,College of Charleston,100
+453,/m/06r9q5,29.821854,Luther College,Luther College,100
+454,/m/02m979,18.816364,SUNY College--Oneonta,State University of New York at Oneonta,50
+455,/m/01rp88,39.520199,Rhode Island College,Rhode Island College,100
+456,/m/01qdhx,30.690149,Belmont University,Belmont University,100
+457,/m/04g0f3d,28.848211,Troy University,Troy University,100
+458,/m/04bnrc,49.585564,Maryland Institute College of Art,Maryland Institute College of Art,100
+459,/m/029ffd,28.663927,Dordt College,Dordt College,100
+460,/m/03ct0t,29.207603,Berry College,Berry College,100
+461,/m/047gcj,38.959023,Keene State College,Keene State College,100
+462,/m/0clvs5s,20.924179,SUNY College--Cortland,SUNY College at Cortland,81
+463,/m/03lsxw,28.702101,Taylor University,Taylor University,100
+464,/m/02t4yc,39.375603,Western Kentucky University,Western Kentucky University,100
+465,/m/0lk9j,47.794727,Western Connecticut State University,Western Connecticut State University,100
+466,/m/04ymwf,38.353367,High Point University,High Point University,100
+467,/m/05smk0,31.619875,Maryville University of St. Louis,Maryville University,100
+468,/m/0p_88,39.5965,Fort Lewis College,Fort Lewis College,100
+469,/m/02cvcd,62.855568,Loyola University New Orleans,Loyola University New Orleans,100
+470,/m/04m7y7,28.393084,Graceland University,Graceland University,100
+471,/m/01_lm9,29.376783,Hope College,Hope College,100
+472,/m/02fs_d,55.318794,University of Louisiana--Monroe,University of Louisiana at Monroe,87
+473,/m/05sh1q,38.164944,Plymouth State University,Plymouth State University,100
+474,/m/033w7d,56.134998,California State University--Bakersfield,"California State University, Bakersfield",95
+475,/m/03_vd1,39.052616,John Brown University,John Brown University,100
+476,/m/050vch,47.682438,Saint Joseph's College of Maine,Saint Joseph's College of Maine,100
+477,/m/02k58k,9.352587,College at Brockport--SUNY,State University of New York at Brockport,60
+478,/m/03fpc4,15.555009,Husson University,Husson College,57
+479,/m/05206m,38.879173,Indiana Wesleyan University,Indiana Wesleyan University,100
+480,/m/02q253,28.744514,Marshall University,Marshall University,100
+481,/m/05d4w3,38.757568,Johnson & Wales University,Johnson & Wales University,100
+482,/m/062syj,29.656105,Southwestern College,Southwestern College,100
+483,/m/02zy1z,29.425158,Earlham College,Earlham College,100
+484,/m/0386jx,38.837917,University of West Florida,University of West Florida,100
+485,/m/03wy83,38.538769,Western Oregon University,Western Oregon University,100
+486,/m/02ss0n,38.812035,Virginia State University,Virginia State University,100
+487,/m/0644g0,38.356098,Charleston Southern University,Charleston Southern University,100
+488,/m/01qv9m,38.914089,Arkansas State University,Arkansas State University,100
+489,/m/01p9s3,49.412514,Grand Valley State University,Grand Valley State University,100
+490,/m/03wv2g,29.624393,Mercer University,Mercer University,100
+491,/m/03j8fq,26.517687,Grand View University,Grand View College,66
+492,/m/05hgkc,29.695503,Winthrop University,Winthrop University,100
+493,/m/03qzc6,41.911682,Southern Utah University,Southern Utah University,100
+494,/m/03x95b,29.728651,Alma College,Alma College,100
+495,/m/01_s9q,29.880383,Spelman College,Spelman College,100
+496,/m/021d_g,39.235729,Jacksonville State University,Jacksonville State University,100
+497,/m/0164_s,50.452854,University of North Carolina--Asheville,University of North Carolina at Asheville,89
+498,/m/0bfmmm,38.363956,Albertus Magnus College,Albertus Magnus College,100
+499,/m/02hscq,37.673775,University of North Alabama,University of North Alabama,100
+500,/m/069vxk,29.232332,Huntingdon College,Huntingdon College,100
+501,/m/02k597,17.76923,SUNY--Fredonia,State University of New York at Fredonia,57
+502,/m/02tn09,28.920506,University of Dubuque,University of Dubuque,100
+504,/m/01v7f3,36.075626,Evergreen State College,The Evergreen State College,100
+505,/m/01r3rh,29.279118,Caldwell College,Caldwell College,100
+506,/m/028jrm,29.192965,Guilford College,Guilford College,100
+507,/m/032k8z,40.231365,University of Southern Maine,University of Southern Maine,100
+508,/m/01sf82,38.425823,Murray State University,Murray State University,100
+509,/m/038rkt,29.182537,Wartburg College,Wartburg College,100
+510,/m/06wqzm,6.975219,"Bethel College - Mishawaka, IN",Bethel College,100
+511,/m/01bcxh,38.516739,Morehead State University,Morehead State University,100
+512,/m/03km_f,48.411739,Alabama Agricultural and Mechanical University,Alabama Agricultural and Mechanical University,100
+513,/m/02594s,65.207214,University of North Carolina--Wilmington,University of North Carolina at Wilmington,90
+514,/m/04zjgd,48.954865,Florida Gulf Coast University,Florida Gulf Coast University,100
+515,/m/051mmb,38.045372,Coastal Carolina University,Coastal Carolina University,100
+516,/m/067qy1,38.356438,Arkansas Tech University,Arkansas Tech University,100
+517,/m/035h0v,28.644566,Union University,Union University,100
+518,/m/02w25w,29.83836,Meredith College,Meredith College,100
+519,/m/03x1s8,39.202976,Alabama State University,Alabama State University,100
+520,/m/0b2n6,28.394268,Berea College,Berea College,100
+521,/m/0131wy,29.807289,Northwestern College,Northwestern College,100
+522,/m/06j66k,38.576031,MidAmerica Nazarene University,MidAmerica Nazarene University,100
+523,/m/04bzll,29.286222,University of Montevallo,University of Montevallo,100
+524,/m/01fp3w,38.516071,Alcorn State University,Alcorn State University,100
+525,/m/03vbd2,39.363785,College of the Ozarks,College of the Ozarks,100
+526,/m/03x1yn,49.63752,University of Arkansas--Pine Bluff,University of Arkansas at Pine Bluff,88
+527,/m/02dspd,28.464924,Asbury University,Asbury University,100
+528,/m/056pcb,28.535587,Faulkner University,Faulkner University,100
+529,/m/049zxj,46.850319,University of Wisconsin--Platteville,University of Wisconsin-Platteville,97
+530,/m/02hf_9,54.021286,University of Wisconsin--Eau Claire,University of Wisconsin-Eau Claire,97
+531,/m/02k4vy,56.079643,University of Wisconsin--Milwaukee,University of Wisconsin-Milwaukee,96
+532,/m/0ghvb,39.279938,University of Northern Iowa,University of Northern Iowa,100
+533,/m/07bzm5,59.440628,University of Wisconsin--La Crosse,University of Wisconsin-La Crosse,96
+534,/m/04mvgc,29.272511,Morningside College,Morningside College,100
+535,/m/0718b,26.46233,St. Ambrose University,Saint Ambrose University,93
+536,/m/03gsyj,56.316067,University of Michigan--Dearborn,University of Michigan-Dearborn,96
+537,/m/02hg0g,39.017139,University of Wisconsin--Parkside,University of Wisconsin-Parkside,96
+538,/m/02hg0t,39.09655,University of Wisconsin--Stout,University of Wisconsin-Stout,96
+539,/m/046gqv,10.534899,"Augustana College - Sioux Falls, SD",Augustana College,100
+540,/m/02vs6r,14.172537,Clarke University,Clarke College,57
+541,/m/02hg3b,58.88063,University of Wisconsin--Oshkosh,University of Wisconsin-Oshkosh,96
+542,/m/035fgg,49.919197,University of Wisconsin--River Falls,University of Wisconsin-River Falls,97
+543,/m/02l8v_,38.962582,Southeastern Louisiana University,Southeastern Louisiana University,100
+544,/m/01xssh,29.165577,Simpson College,Simpson College,100
+545,/m/0573vv,67.207321,University of Wisconsin--Green Bay,University of Wisconsin-Green Bay,96
+546,/m/05w45b,67.959106,University of Wisconsin--Stevens Point,University of Wisconsin-Stevens Point,97
+547,/m/052wq2,49.080696,Fort Hays State University,Fort Hays State University,100
+548,/m/07w82,38.31311,Upper Iowa University,Upper Iowa University,100
+549,/m/06n8yt,19.803101,Mount Mercy University,Mount Mercy College,68
+550,/m/01fsv9,38.306862,Jackson State University,Jackson State University,100
+551,/m/03x2gs,48.949142,Mississippi Valley State University,Mississippi Valley State University,100
+552,/m/03x23q,39.089993,Grambling State University,Grambling State University,100
+553,/m/024ps2,28.955881,Strayer University,Strayer University,100
+555,/m/03b4j2,28.892529,Ashford University,Ashford University,100
+558,/m/02dq8f,44.385818,Albany State University,"University at Albany, The State University of New York",78
+560,/m/05r6g2,38.649612,Eastern Nazarene College,Eastern Nazarene College,100
+563,/m/0cm743,28.46381,Marymount University,Marymount University,100
+571,/m/06l32y,28.627071,Roosevelt University,Roosevelt University,100
+574,/m/065r8g,59.003304,Columbia College Chicago,Columbia College Chicago,100
+575,/m/08vg87,28.577396,Grace University,Grace University,100
+576,/m/03ys0n,38.231785,Siena Heights University,Siena Heights University,100
+577,/m/02gnrt,28.840755,University of Phoenix,University of Phoenix,100
+578,/m/02y12s,39.352852,Agnes Scott College,Agnes Scott College,100
+579,/m/052nd,38.868721,McGill University,McGill University,100
+580,/m/02cvcd,62.855568,Loyola University New Orleans,Loyola University New Orleans,100
+584,/m/06t577,44.060154,Academy of Art University,Academy of Art University,100
+585,/m/037q_b,48.253181,Oklahoma Panhandle State University,Oklahoma Panhandle State University,100
+587,/m/04zw6b,28.714741,Hood College,Hood College,100
+590,/m/015fsv,46.198425,Eastern Michigan University,Eastern Michigan University,100
+591,/m/02zk_8,47.989597,Sam Houston State University,Sam Houston State University,100
+594,/m/02tm_m,38.552055,University of West Georgia,University of West Georgia,100
+595,/m/0558_1,38.861382,Abilene Christian University,Abilene Christian University,100
+596,/m/0323zy,48.874813,Abraham Baldwin Agricultural College,Abraham Baldwin Agricultural College,100
+597,/m/0xxc,29.608385,Acadia University,Acadia University,100
+598,/m/0gfvt,37.49902,Adams State University,Adams State University,100
+599,/m/03yrx2,29.282393,Adrian College,Adrian College,100
+600,/m/06zt8n7,46.640907,Adventist University of Health Sciences,Adventist University of Health Sciences,100
+601,/m/0276ypf,38.18808,AIB College of Business,AIB College of Business,100
+602,/m/05bwdk,38.994068,Alaska Pacific University,Alaska Pacific University,100
+603,/m/0379z0,38.164127,Albany College of Pharmacy and Health Sciences,Albany College of Pharmacy,100
+604,/m/06b0j9,28.439379,Albright College,Albright College,100
+605,/m/02p6pp,29.55685,Alderson Broaddus University,Alderson-Broaddus College,72
+606,/m/01ynz2,28.621584,Alfred University,Alfred University,100
+607,/m/029l7j,38.377907,Alice Lloyd College,Alice Lloyd College,100
+608,/m/0clvnks,26.487917,Allen College,Allen College,100
+609,/m/08sb5n,29.143261,Allen University,Allen University,100
+610,/m/0810kg,38.06192,Alliant International University,Alliant International University,100
+611,/m/0bqwwm,28.115786,Alvernia University,Alvernia University,100
+612,/m/04mqmn,28.612028,Alverno College,Alverno College,100
+613,/m/05cljw,28.606075,Amberton University,Amberton University,100
+614,/m/0277lfy,39.619774,American Academy of Art,American Academy of Art,100
+615,,,American Indian College of the Assemblies of God,No result,33
+616,/m/07f5b8,39.141178,American InterContinental University,American InterContinental University,100
+617,/m/08d_bx,38.790123,American International College,American International College,100
+618,/m/05ncd0,38.119854,American Jewish University,American Jewish University,100
+619,,,American Public University System,No result,33
+620,/m/027s_f,38.140083,American University in Bulgaria,American University in Bulgaria,100
+621,/m/01z1zz,53.207684,American University in Cairo,American University in Cairo,100
+622,/m/02dgq2,48.015106,American University of Beirut,American University of Beirut,100
+623,/m/0bdjxk,39.159,American University of Paris,American University of Paris,100
+624,/m/043p0z,49.339325,American University of Puerto Rico,American University of Puerto Rico,100
+625,/m/0gbwh9,28.459799,Amridge University,Amridge University,100
+626,/m/01q8bp,24.19998,"Anderson University - Anderson, IN",Anderson University,100
+627,/m/04yqs6,12.645497,"Anderson University - Anderson, SC",Anderson University,100
+628,/m/03rq29,38.203331,Angelo State University,Angelo State University,100
+629,/m/0498r0,38.616455,Anna Maria College,Anna Maria College,100
+630,/m/047p_1_,29.311134,Antioch University,Antioch University,100
+631,/m/04rptf,38.579407,Appalachian Bible College,Appalachian Bible College,100
+632,/m/01rgdw,39.543064,Appalachian State University,Appalachian State University,100
+633,/m/048nry,131.161102,"Aquinas College - Grand Rapids, MI",Aquinas College,100
+634,/m/066pm6,77.175308,"Aquinas College - Nashville, TN",Aquinas College,100
+635,/m/05m3m3,29.014608,Arcadia University,Arcadia University,100
+636,/m/0fckyk,29.345692,Argosy University,Argosy University,100
+637,/m/09054g,38.277725,Arizona Christian University,Arizona Christian University,100
+638,/m/03fxrx,50.140518,Arizona State University--West,Arizona State University West,93
+639,/m/0flwm0,39.892288,Arkansas Baptist College,Arkansas Baptist College,100
+640,/m/05whf8,47.870609,Armstrong Atlantic State University,Armstrong Atlantic State University,100
+641,/m/0bwb0h,38.848034,Art Academy of Cincinnati,Art Academy of Cincinnati,100
+642,/m/01b7lc,60.659565,Art Center College of Design,Art Center College of Design,100
+643,/m/066xpy,35.856995,Art Institute of Atlanta,The Art Institute of Atlanta,100
+644,/m/0clvlhl,35.343861,Art Institute of Colorado,The Art Institute of Colorado,100
+645,/m/041464t,34.71357,Art Institute of Houston,The Art Institute of Houston,100
+646,/m/08_21s,35.192665,Art Institute of Pittsburgh,The Art Institute of Pittsburgh,100
+647,/m/0clvtkx,35.309311,Art Institute of Portland,The Art Institute of Portland,100
+648,/m/01fk_g,35.97538,Art Institute of Seattle,The Art Institute of Seattle,100
+649,/m/04ybxt,29.346636,Ashland University,Ashland University,100
+650,/m/02rvd7_,29.626049,Assumption College,Assumption College,100
+651,/m/05l1bw,38.357185,Athens State University,Athens State University,100
+652,/m/05ytbh,39.829609,Auburn University--Montgomery,Auburn University Montgomery,92
+653,/m/01jj9t,30.58535,Augsburg College,Augsburg College,100
+654,/m/045_qg,11.258799,"Augustana College - Rock Island, IL",Augustana College,100
+655,/m/02ptmht,28.797932,Aurora University,Aurora University,100
+656,/m/02zfm8,49.61628,Austin Peay State University,Austin Peay State University,100
+657,/m/09lrq1,38.244438,Ave Maria University,Ave Maria University,100
+658,/m/0bkw7t,29.117615,Averett University,Averett University,100
+659,/m/0bybhz,29.182411,Avila University,Avila University,100
+660,/m/0g1bgg,28.66853,Bacone College,Bacone College,100
+661,/m/0clvq2y,35.056576,Baker College of Flint,Baker College of Flint,100
+662,/m/03nbwm,29.250383,Baker University,Baker University,100
+663,/m/05136r,32.793358,Baldwin Wallace University,Baldwin-Wallace College,69
+664,/m/08xlj4,39.533504,Baptist Bible College,Baptist Bible College,100
+665,/m/0bycb2,47.948177,Baptist Bible College and Seminary,Baptist Bible College & Seminary,90
+666,/m/071kzq,38.238075,Baptist College of Florida,Baptist College of Florida,100
+667,/m/05qht0,42.945049,Baptist Memorial College of Health Sciences,Baptist College of Health Sciences,82
+668,/m/06zld22,57.890625,Baptist Missionary Association Theological Seminary,Baptist Missionary Association Theological Seminary,100
+669,/m/01pcj4,33.038692,Bard College,Bard College,100
+670,/m/017f70,46.530991,Bard College at Simon's Rock,Bard College at Simon's Rock,100
+671,/m/09kc3x,28.563778,Barton College,Barton College,100
+672,/m/01ym0s,28.966465,Bastyr University,Bastyr University,100
+673,/m/01vc5m,28.354252,Bates College,Bates College,100
+674,/m/0clvmfg,26.487917,Bauder College,Bauder College,100
+675,/m/0cfrlz,38.451336,Bay Path College,Bay Path College,100
+676,/m/02q6s8y,38.855164,Bay State College,Bay State College,100
+677,/m/043pq8,39.413319,Bayamon Central University,Bayamon Central University,100
+678,/m/04zxv42,28.769882,Beacon College,Beacon College,100
+679,/m/08qpcx,28.61537,Becker College,Becker College,100
+680,/m/01b1n6,14.382834,Belhaven University,Belhaven College,62
+681,/m/08nv9_,27.857178,Bellevue College,Bellevue College,100
+682,/m/05dgsg,28.846294,Bellevue University,Bellevue University,100
+683,/m/0clvxbt,18.729786,Bellin College,Bellin College of Nursing,100
+684,/m/06q5qh,38.504528,Belmont Abbey College,Belmont Abbey College,100
+685,/m/03b22g,39.344875,Bemidji State University,Bemidji State University,100
+686,/m/06r7w7,28.707588,Benedict College,Benedict College,100
+687,/m/02w7z0,28.956282,Benedictine College,Benedictine College,100
+688,/m/06dk9b,28.631302,Benedictine University,Benedictine University,100
+689,/m/01mrz_,48.311878,Benjamin Franklin Institute of Technology,Benjamin Franklin Institute of Technology,100
+690,/m/041pc1,29.529463,Bennett College,Bennett College,100
+691,/m/02m0b0,29.12496,Bennington College,Bennington College,100
+692,/m/02jw3n,29.008911,Bentley University,Bentley University,100
+693,/m/04r2vx,10,"Berkeley College - Woodland Park, NJ",Berkeley College,100
+694,/m/0dgsbz,181.922852,"Berkeley College - New York, NY",Berkeley College,100
+695,/m/02g839,48.963524,Berklee College of Music,Berklee College of Music,100
+696,/m/04ly5_,12.554428,"Bethany College - Lindsborg, KS",Bethany College,100
+697,/m/02_y3f,12.650383,"Bethany College - Bethany, WV",Bethany College,100
+698,/m/028q6g,38.324467,Bethany Lutheran College,Bethany Lutheran College,100
+699,/m/03gc98,131.615494,"Bethel College - North Newton, KS",Bethel College,100
+700,/m/02qdk1,10,"Bethel University - McKenzie, TN",Bethel University,100
+701,/m/02n63s,43.693256,Bethune-Cookman University,Bethune-Cookman University,100
+702,/m/05k9r,47.644627,BI Norwegian Business School,BI Norwegian Business School,100
+703,/m/04p2fb,38.691597,Bismarck State College,Bismarck State College,100
+704,/m/074qs3,48.304699,Black Hills State University,Black Hills State University,100
+705,/m/089sw5,28.644863,Blackburn College,Blackburn College,100
+706,/m/0clvmp_,43.886074,Blessing-Rieman College of Nursing,Blessing Rieman College of Nursing,97
+707,/m/01r3q2,28.865969,Bloomfield College,Bloomfield College,100
+708,/m/04vzlp,38.480373,Bloomsburg University of Pennsylvania,Bloomsburg University of Pennsylvania,100
+709,/m/01fsvn,38.463253,Blue Mountain College,Blue Mountain College,100
+710,/m/05lly5,29.1996,Bluefield College,Bluefield College,100
+711,/m/04l6zv,38.328712,Bluefield State College,Bluefield State College,100
+712,/m/08h3g3,28.46711,Bluffton University,Bluffton University,100
+713,/m/04qw_y,28.761497,Boricua College,Boricua College,100
+714,/m/0clvpvv,38.662422,Boston Architectural College,Boston Architectural College,100
+715,/m/0clvpwh,30.752293,Boston Conservatory,The Boston Conservatory,100
+716,/m/02hq70,38.065678,Bowie State University,Bowie State University,100
+717,/m/01yqqv,31.80715,Bradley University,Bradley University,100
+718,/m/0gls7b5,28.276287,Brandman University,Brandman University,100
+719,/m/02x30g6,28.705887,Brazosport College,Brazosport College,100
+720,/m/05k59r,29.176981,Brenau University,Brenau University,100
+721,/m/07jnq6,28.81522,Brescia University,Brescia University,100
+722,/m/09fgnr,28.869816,Brevard College,Brevard College,100
+723,/m/0c3408,39.161518,Brewton-Parker College,Brewton-Parker College,100
+724,/m/0bshff,38.205734,Briar Cliff University,Briar Cliff University,100
+725,/m/0d0hcd,29.351099,Briarcliffe College,Briarcliffe College,100
+726,/m/02hr88,28.657906,Bridgewater College,Bridgewater College,100
+727,/m/035p0k,19.500092,Bridgewater State University,Bridgewater State College,76
+728,/m/02k2k5,76.665779,Brigham Young University--Hawaii,Brigham Young University Hawaii,93
+729,/m/02nf69,74.953667,Brigham Young University--Idaho,Brigham Young University-Idaho,96
+730,/m/0234p2,29.459435,Brock University,Brock University,100
+731,/m/05cj27,28.653822,Bryan College,Bryan College,100
+732,/m/02qkqty,35.6096,Bryn Athyn College of the New Church,Bryn Athyn College,100
+733,/m/01g7_r,45.109737,Bryn Mawr College,Bryn Mawr College,100
+734,/m/0cjp64,38.260788,Buena Vista University,Buena Vista University,100
+735,/m/02m0jc,28.753393,Burlington College,Burlington College,100
+736,/m/03hm4s7,48.220955,Cabarrus College of Health Sciences,Cabarrus College of Health Sciences,100
+737,/m/05_g5z,28.683151,Cabrini College,Cabrini College,100
+738,/m/08zb5k,27.628386,Cairn University,Cairn University,100
+739,/m/058x1_,38.379768,California Baptist University,California Baptist University,100
+740,/m/0473m9,55.841526,California College of the Arts,California College of the Arts,100
+741,/m/03sr59,47.884148,California Institute of Integral Studies,California Institute of Integral Studies,100
+742,/m/015zyd,53.330437,California Institute of the Arts,California Institute of the Arts,100
+743,/m/024nfp,38.024166,California Lutheran University,California Lutheran University,100
+744,/m/033w6q,38.685814,California Maritime Academy,California Maritime Academy,100
+745,/m/033w82,58.041157,California State University--Channel Islands,"California State University, Channel Islands",95
+746,/m/033w93,69.82296,California State University--Monterey Bay,"California State University, Monterey Bay",95
+747,/m/064b41,38.309605,California University of Pennsylvania,California University of Pennsylvania,100
+748,/m/025yqr_,48.83427,Calumet College of St. Joseph,Calumet College of St. Joseph,100
+749,/m/08h7d0,33.756229,Calvary Bible College and Theological Seminary,Calvary Bible College,100
+750,/m/0986d0,28.750158,Cambridge College,Cambridge College,100
+751,/m/03j0mh,29.114445,Cameron University,Cameron University,100
+752,/m/06r8w8,29.381704,Campbell University,Campbell University,100
+753,/m/05_xzh,29.133324,Campbellsville University,Campbellsville University,100
+754,/m/02fgth,31.721195,Canisius College,Canisius College,100
+755,/m/04nbj9,28.524227,Capella University,Capella University,100
+756,/m/045mcb,29.579521,Capital University,Capital University,100
+757,/m/04j0sg,28.382296,Capitol College,Capitol College,100
+758,/m/091tzl,38.510742,Cardinal Stritch University,Cardinal Stritch University,100
+759,/m/043r19,29.083096,Caribbean University,Caribbean University,100
+760,/m/01dq0z,33.001305,Carleton University,Carleton University,100
+761,/m/043pxz,39.109955,Carlos Albizu University,Carlos Albizu University,100
+762,/m/04_tfk,28.570284,Carlow University,Carlow University,100
+763,/m/03bd0q,30.149216,Carroll College,Carroll College,100
+764,/m/03k_nm,28.813822,Carroll University,Carroll University,100
+765,/m/04r3nv,30.330997,Carson-Newman University,Carson-Newman College,71
+766,/m/01lm5g,29.48687,Carthage College,Carthage College,100
+767,/m/02m0n2,38.278748,Castleton State College,Castleton State College,100
+768,/m/0979qq,28.537252,Catawba College,Catawba College,100
+769,/m/0gtc94,28.624741,Cazenovia College,Cazenovia College,100
+770,/m/0ctlf5,38.286076,Cedar Crest College,Cedar Crest College,100
+771,/m/038hyp,28.649498,Cedarville University,Cedarville University,100
+772,/m/045cnw,42.486107,Centenary College of Louisiana,Centenary College of Louisiana,100
+773,/m/0bwn_9,38.630253,Central Baptist College,Central Baptist College,100
+774,/m/07w91d,38.584209,Central Bible College,Central Bible College,100
+775,/m/029x9w,39.110962,Central Christian College,Central Christian College,100
+776,/m/08lkxz,38.357063,Central Methodist University,Central Methodist University,100
+777,/m/077wwj,21.528978,Central Penn College,Central Pennsylvania College,65
+778,/m/05th6q,41.98991,Central State University,Central State University,100
+779,/m/0kf8y,39.00494,Central Washington University,Central Washington University,100
+780,/m/04344j,29.431055,Centre College,Centre College,100
+781,/m/01xt68,38.550747,Chadron State College,Chadron State College,100
+782,/m/0bjhg4,37.39473,Chamberlain College of Nursing,Chamberlain College of Nursing,100
+783,/m/036h3c,38.539028,Chaminade University of Honolulu,Chaminade University of Honolulu,100
+784,/m/02mds5,28.739195,Champlain College,Champlain College,100
+785,/m/08h35c,28.267664,Chancellor University,Chancellor University,100
+786,/m/04p_hy,33.296074,Chapman University,Chapman University,100
+787,/m/05sfz3,66.793297,Charles R. Drew University of Medicine and Science,Charles R. Drew University of Medicine and Science,100
+788,/m/02j05b,48.025093,Charter Oak State College,Charter Oak State College,100
+789,/m/0m49v,28.88261,Chatham University,Chatham University,100
+790,/m/04sg5j,38.390831,Chestnut Hill College,Chestnut Hill College,100
+791,/m/01kkxg,38.535069,Cheyney University of Pennsylvania,Cheyney University of Pennsylvania,100
+792,/m/05hfr5,38.729549,Chicago State University,Chicago State University,100
+793,/m/0c42mx,29.266272,Chipola College,Chipola College,100
+794,/m/05d0s8,28.589663,Chowan University,Chowan University,100
+795,/m/03_3qn,28.958683,Christendom College,Christendom College,100
+796,/m/02dc89,39.152847,Christian Brothers University,Christian Brothers University,100
+797,/m/03m90h,38.837372,Christopher Newport University,Christopher Newport University,100
+798,/m/0b41c_,38.836952,Cincinnati Christian University,Cincinnati Christian University,100
+799,/m/03hk1nt,48.173946,Cincinnati College of Mortuary Science,Cincinnati College of Mortuary Science,100
+800,/m/0clvw_n,39.299503,City University of Seattle,City University of Seattle,100
+801,/m/06r7yc,28.979706,Claflin University,Claflin University,100
+802,/m/05cps0,37.836559,Clarion University of Pennsylvania,Clarion University of Pennsylvania,100
+803,/m/02qkj_p,28.747295,Clarkson College,Clarkson College,100
+804,/m/066sw3,38.830608,Clayton State University,Clayton State University,100
+805,/m/0bx7zv,57.874031,Clear Creek Baptist Bible College,Clear Creek Baptist Bible College,100
+806,/m/0c74cq,38.579987,Clearwater Christian College,Clearwater Christian College,100
+807,/m/0dz693,28.701506,Cleary University,Cleary University,100
+808,/m/0clvqj8,38.326977,Cleveland Chiropractic College,Cleveland Chiropractic College,100
+809,/m/05r6r4,38.130344,Cleveland Institute of Art,Cleveland Institute of Art,100
+810,/m/06mvyf,38.954231,Cleveland Institute of Music,Cleveland Institute of Music,100
+811,/m/02qp20,37.732426,Cogswell Polytechnical College,Cogswell Polytechnical College,100
+812,/m/039npp,29.194046,Coker College,Coker College,100
+813,/m/09z_cn,39.655651,Colby-Sawyer College,Colby-Sawyer College,100
+814,/m/04ysxx,37.830559,College for Creative Studies,College for Creative Studies,100
+815,/m/02l_fs,32.599709,College of Idaho,College of Idaho,100
+816,/m/025zb9w,47.622074,College of Mount St. Joseph,College of Mount St. Joseph,100
+817,/m/052nx,10.511568,College of Mount St. Vincent,Mount Saint Vincent University,57
+818,/m/03fq2s,35.572243,College of New Rochelle,The College of New Rochelle,100
+819,/m/0cfrl8,46.01263,College of Our Lady of the Elms,Elms College,58
+820,/m/0ft4_4,38.851776,College of Saints John Fisher & Thomas More,College of Saint Thomas More,71
+821,/m/06kjhz,39.517097,College of Southern Nevada,College of Southern Nevada,100
+822,/m/01r3ts,18.261078,College of St. Elizabeth,College of Saint Elizabeth,87
+823,/m/02m0pg,38.702236,College of St. Joseph,College of St. Joseph,100
+824,/m/08ldcq,27.027,College of St. Mary,Saint Mary-of-the-Woods College,53
+825,/m/06vrvp,37.075401,College of St. Rose,The College of Saint Rose,84
+826,/m/04vc9b,48.373722,College of St. Scholastica,The College of St. Scholastica,100
+827,/m/0268cl,28.368988,College of the Atlantic,College of the Atlantic,100
+828,/m/02c9dj,56.673702,College of the Holy Cross,College of the Holy Cross,100
+829,/m/0c2bq8,20.13023,Colorado Mesa University,Mesa State College,36
+830,/m/0c_5g9,38.962112,Colorado Technical University,Colorado Technical University,100
+831,/m/0d17b8,16.066559,"Columbia College - Columbia, MO",Columbia College of Missouri,67
+832,/m/03frjr,15.610931,"Columbia College - Columbia, SC",Columbia College,100
+833,/m/0cp9z9_,38.292377,Columbia College of Nursing,Columbia College of Nursing,100
+834,/m/06rpb_,38.248535,Columbia International University,Columbia International University,100
+835,/m/0bfy1v,48.718521,Columbus College of Art and Design,Columbus College of Art and Design,100
+836,/m/02zjkd,39.112358,Columbus State University,Columbus State University,100
+837,/m/0clvqk4,35.317226,Conception Seminary College,Conception Seminary College,100
+838,/m/044ksv,28.514927,Concord University,Concord University,100
+839,/m/0brwpd,143.104187,"Concordia College - Selma, AL","Concordia College, Selma",91
+840,/m/03pdkj,9.267593,"Concordia College - Bronxville, NY","Concordia College, Bronxville",93
+841,/m/04nrt9,15.265963,"Concordia University - Ann Arbor, MI","Concordia University, Ann Arbor, Michigan",91
+842,/m/05t1hx,12.837835,"Concordia University - Seward, NE",Concordia University (Nebraska),74
+843,/m/09hh3g,17.206266,"Concordia University - Irvine, CA","Concordia University, Irvine",92
+844,/m/05l0sm,42.6339,"Concordia University - Portland, OR",Concordia University,100
+845,/m/0bsnm,9.675104,"Concordia University - Montreal, Quebec",Concordia University,100
+846,/m/0gdp4m,39.837303,Concordia University Chicago,Concordia University Chicago,100
+847,/m/06ctkk,38.834991,Concordia University Texas,Concordia University Texas,100
+848,/m/03xmw7,39.467373,Concordia University Wisconsin,Concordia University Wisconsin,100
+849,/m/03n_9g,47.544003,Concordia University--St. Paul,"Concordia University, Saint Paul",83
+850,/m/06rpcp,29.243185,Converse College,Converse College,100
+851,/m/042kqd,38.29187,Coppin State University,Coppin State University,100
+852,/m/0cqk70,18.030304,Corban University,Corban College,57
+853,/m/07005y,49.638786,Corcoran College of Art and Design,Corcoran College of Art and Design,100
+854,/m/04dg58,28.514418,Cornerstone University,Cornerstone University,100
+855,/m/01d6j2,38.580849,Cornish College of the Arts,Cornish College of the Arts,100
+856,/m/033yz0,28.709461,Covenant College,Covenant College,100
+857,/m/047l_yn,29.021435,Cox College,Cox College,100
+858,/m/037njl,31.483044,Creighton University,Creighton University,100
+859,/m/08jsc3,28.587996,Criswell College,Criswell College,100
+860,/m/0g_c28,29.556004,Crown College,Crown College,100
+861,/m/036921,39.035126,Culinary Institute of America,Culinary Institute of America,100
+862,/m/025yrb6,39.167355,Culver-Stockton College,Culver-Stockton College,100
+863,/m/02srgx,28.464842,Cumberland University,Cumberland University,100
+864,/m/02g0gf,25.296549,CUNY--Baruch College,Baruch College,100
+865,/m/01vg13,28.272182,CUNY--Brooklyn College,Brooklyn College,100
+866,/m/02301,26.832096,CUNY--City College,City College of New York,66
+867,/m/01vg13,10,CUNY--College of Staten Island,Brooklyn College,43
+868,/m/03qdm,24.878321,CUNY--Hunter College,Hunter College,100
+869,/m/01vg13,10,CUNY--John Jay College of Criminal Justice,Brooklyn College,62
+870,/m/02g0hn,30.715206,CUNY--Lehman College,Lehman College,100
+871,/m/01vg13,10,CUNY--Medgar Evers College,Brooklyn College,56
+872,/m/02nck9,15.764877,CUNY--New York City College of Technology,New York City College of Technology,100
+873,/m/01t0dy,30.875576,CUNY--Queens College,"Queens College, City University of New York",70
+874,/m/05cfh4,32.835388,CUNY--York College,"York College, City University of New York",66
+875,/m/018s2g,28.524315,Curry College,Curry College,100
+876,/m/02htv6,39.058922,Curtis Institute of Music,Curtis Institute of Music,100
+877,/m/02jjq_,28.540211,D'Youville College,D'Youville College,100
+878,/m/02f_21,28.581858,Daemen College,Daemen College,100
+879,/m/04__jv,38.241997,Dakota State University,Dakota State University,100
+880,/m/05b5st,38.396469,Dakota Wesleyan University,Dakota Wesleyan University,100
+881,/m/02dj3,36.001373,Dalhousie University,Dalhousie University,100
+882,/m/04c80b,38.360493,Dallas Baptist University,Dallas Baptist University,100
+883,/m/0b0xlq,38.709229,Dallas Christian College,Dallas Christian College,100
+884,/m/084bcb,38.480206,Dalton State College,Dalton State College,100
+885,/m/07xwnp,38.435699,Daniel Webster College,Daniel Webster College,100
+886,/m/04dg6r,28.961985,Davenport University,Davenport University,100
+887,/m/04lr6w,38.838268,Davis and Elkins College,Davis and Elkins College,100
+888,/m/04n2h0g,28.637798,Davis College,Davis College,100
+889,/m/09gnlt,38.147667,Daytona State College,Daytona State College,100
+890,/m/04pqhy,28.545683,Dean College,Dean College,100
+891,/m/0dkm5r,29.140326,Defiance College,Defiance College,100
+892,/m/08mpw4,38.959373,Delaware Valley College,Delaware Valley College,100
+893,/m/062gv8,39.120132,Delta State University,Delta State University,100
+894,/m/04mkhx,28.833086,DEREE--The American College of Greece,American College of Greece,100
+895,/m/0b1h9w,28.451782,DeSales University,DeSales University,100
+896,/m/02gnjf,29.764732,DeVry University,DeVry University,100
+897,/m/04hbs8,38.329494,Dickinson State University,Dickinson State University,100
+898,/m/035f0z,28.480265,Dillard University,Dillard University,100
+899,/m/040szz,38.470112,Divine Word College,Divine Word College,100
+900,/m/05f33g,47.721455,Dixie State College of Utah,Dixie State College of Utah,100
+901,/m/0d2tq7,29.602444,Doane College,Doane College,100
+902,/m/02w_ztn,29.132435,Dominican College,Dominican College,100
+903,/m/06w42j,28.919003,Dominican University,Dominican University,100
+904,/m/04ldh9,37.986153,Dominican University of California,Dominican University of California,100
+905,/m/05zj94x,28.949118,Donnelly College,Donnelly College,100
+906,/m/05bnt0,28.71718,Dowling College,Dowling College,100
+907,/m/02xrgl,28.823059,Drury University,Drury University,100
+908,/m/02ndxb,38.259338,Dunwoody College of Technology,Dunwoody College of Technology,100
+909,/m/06hjyr,38.935947,East Central University,East Central University,100
+910,/m/08j56l,48.467449,East Stroudsburg University of Pennsylvania,East Stroudsburg University of Pennsylvania,100
+911,/m/02_cx_,48.184719,East Tennessee State University,East Tennessee State University,100
+912,/m/01vswj,47.840206,East Texas Baptist University,East Texas Baptist University,100
+913,/m/099jlk,38.889473,East-West University,East-West University,100
+914,/m/02zkdz,39.015831,Eastern Illinois University,Eastern Illinois University,100
+915,/m/04sfvr,38.27462,Eastern Mennonite University,Eastern Mennonite University,100
+916,/m/068mvx,49.132,Eastern New Mexico University,Eastern New Mexico University,100
+917,/m/0705q7,38.365501,Eastern Oregon University,Eastern Oregon University,100
+918,/m/0b__gfv,36.804295,Eastern University,Far Eastern University,100
+919,/m/021_sb,39.062401,Eastern Washington University,Eastern Washington University,100
+920,/m/046w9n,29.222078,Eckerd College,Eckerd College,100
+921,/m/03d0khc,27.920063,ECPI University,ECPI University,100
+922,/m/05tjs0,28.72974,Edgewood College,Edgewood College,100
+923,/m/0562pb,38.327133,Edinboro University of Pennsylvania,Edinboro University of Pennsylvania,100
+924,/m/01r4ld,33.854378,Edison State College,Thomas Edison State College,100
+925,/m/092k9l,39.052307,Edward Waters College,Edward Waters College,100
+926,/m/0279l1,47.951012,Elizabeth City State University,Elizabeth City State University,100
+927,/m/04bxpc,29.023449,Elizabethtown College,Elizabethtown College,100
+928,/m/049619,28.457647,Elmhurst College,Elmhurst College,100
+929,/m/0309zk,28.658863,Elmira College,Elmira College,100
+930,/m/03y5m9,29.592632,Elon University,Elon University,100
+931,/m/047mw35,61.114746,Embry-Riddle Aeronautical University--Prescott,"Embry-Riddle Aeronautical University, Prescott",95
+932,/m/023znp,32.87973,Emerson College,Emerson College,100
+933,/m/01k8q5,10,"Emmanuel College - Franklin Springs, GA","Emmanuel College, Cambridge",70
+934,/m/01tt9j,8.313839,"Emmanuel College - Boston, MA","Emmanuel College, Boston",91
+935,/m/08n3dt,38.52354,Emmaus Bible College,Emmaus Bible College,100
+936,/m/02ryrw,38.559074,Emory and Henry College,Emory and Henry College,100
+937,/m/026v92,39.048153,Emporia State University,Emporia State University,100
+938,/m/07wk_d,29.198397,Endicott College,Endicott College,100
+939,/m/039nkq,28.580418,Erskine College,Erskine College,100
+940,/m/043smz,42.691261,Escuela de Artes Plasticas de Puerto Rico,School of Plastic Arts of Puerto Rico,64
+941,/m/0342f3,29.452576,Eureka College,Eureka College,100
+942,/m/052vz1,28.660265,Evangel University,Evangel University,100
+943,/m/0clvjvm,35.317226,Everest College--Phoenix,Everest College-Phoenix,95
+944,/m/05b4lrs,28.97789,Everglades University,Everglades University,100
+945,/m/037shf,28.724247,Excelsior College,Excelsior College,100
+946,/m/04l6xb,38.420242,Fairmont State University,Fairmont State University,100
+947,/m/08nrvy,67.816208,Faith Baptist Bible College and Theological Seminary,Faith Baptist Bible College and Theological Seminary,100
+948,/m/02r5s2,11.474791,Farmingdale State College--SUNY,State University of New York at Farmingdale,52
+949,/m/02lwv5,51.44521,Fashion Institute of Technology,Fashion Institute of Technology,100
+950,/m/02ldg9,38.152458,Fayetteville State University,Fayetteville State University,100
+951,/m/01r42j,28.52437,Felician College,Felician College,100
+952,/m/01gc40,38.36182,Ferris State University,Ferris State University,100
+953,/m/06_xxb,28.461605,Ferrum College,Ferrum College,100
+954,/m/046l73,29.054386,Finlandia University,Finlandia University,100
+955,/m/04b2nf,28.815887,Fisher College,Fisher College,100
+956,/m/019_6d,29.062828,Fisk University,Fisk University,100
+957,/m/038gl6,20.451265,Fitchburg State University,Fitchburg State College,73
+958,/m/03276x,39.326862,Five Towns College,Five Towns College,100
+959,/m/01np7l,28.633802,Flagler College,Flagler College,100
+960,/m/04c28s,38.07243,Florida Christian College,Florida Christian College,100
+961,/m/03h6p3,28.76074,Florida College,Florida College,100
+962,/m/03shjm,38.310947,Florida Memorial University,Florida Memorial University,100
+963,/m/05_x6n,39.145859,Florida Southern College,Florida Southern College,100
+964,/m/03wwjs,25.968019,Florida State College--Jacksonville,Florida State College at Jacksonville,88
+965,/m/04nrn8,28.7062,Fontbonne University,Fontbonne University,100
+966,/m/05jm1m,47.806919,Fort Valley State University,Fort Valley State University,100
+967,/m/04sqr6,21.233316,Framingham State University,Framingham State College,75
+968,/m/03v493,37.876831,Francis Marion University,Francis Marion University,100
+969,/m/0311kc,38.044838,Franciscan University of Steubenville,Franciscan University of Steubenville,100
+970,/m/0h7gjn3,52.715519,Frank Lloyd Wright School of Architecture,Frank Lloyd Wright School of Architecture,100
+971,/m/06rkfs,43.415909,Franklin and Marshall College,Franklin & Marshall College,88
+972,/m/069jvk,29.141382,Franklin College,Franklin College,100
+973,/m/0970c1,38.411671,Franklin College Switzerland,Franklin College Switzerland,100
+974,/m/0984vx,28.972801,Franklin University,Franklin University,100
+975,/m/01cbvr,57.896294,Franklin W. Olin College of Engineering,Franklin W. Olin College of Engineering,100
+976,/m/02bpkm,39.970303,Freed-Hardeman University,Freed-Hardeman University,100
+977,/m/044ldd,38.52018,Fresno Pacific University,Fresno Pacific University,100
+978,/m/05bv94,29.198868,Friends University,Friends University,100
+979,/m/02hjpn,38.866089,Frostburg State University,Frostburg State University,100
+980,/m/01952x,28.775841,Gallaudet University,Gallaudet University,100
+981,/m/02zr92,29.026127,Gannon University,Gannon University,100
+982,/m/06w570,39.710632,Gardner-Webb University,Gardner-Webb University,100
+983,/m/03f9l,29.329033,Geneva College,Geneva College,100
+984,/m/01rbg7,32.643906,Georgetown College,Georgetown College,100
+985,/m/04x2ct,48.48156,Georgia College & State University,Georgia College & State University,100
+986,/m/08d73n,27.539841,Georgia Gwinnett College,Gwinnett University Center,45
+987,/m/06snn4,24.951496,Georgia Regents University,Georgia Health Sciences University,61
+988,/m/03c02c,38.819145,Georgia Southern University,Georgia Southern University,100
+989,/m/08qjkr,47.658737,Georgia Southwestern State University,Georgia Southwestern State University,100
+990,/m/01r44g,38.387672,Georgian Court University,Georgian Court University,100
+991,/m/04l7wv,38.291954,Glenville State College,Glenville State College,100
+992,/m/026xg3k,47.966282,God's Bible School and College,God's Bible School and College,100
+993,/m/02m0sc,29.129236,Goddard College,Goddard College,100
+994,/m/01rt5y,38.063004,Golden Gate University,Golden Gate University,100
+995,/m/0649kb,39.778118,Goldey-Beacom College,Goldey-Beacom College,100
+996,/m/03byg2j,19.640671,Goldfarb School of Nursing at Barnes-Jewish College,Barnes–Jewish College of Nursing and Allied Health,39
+997,/m/042m_h,34.497887,Gordon College,Gordon College,100
+998,/m/06fmby,28.69334,Gordon State College,Gordon College,57
+999,/m/037lzp,29.05039,Goshen College,Goshen College,100
+1000,/m/04hxv3,28.471737,Goucher College,Goucher College,100
+1001,/m/09kwc6,38.321438,Governors State University,Governors State University,100
+1002,/m/0gf1ck,38.598934,Grace Bible College,Grace Bible College,100
+1003,/m/09bxtf,30.45355,Grace College and Seminary,Grace College and Theological Seminary,76
+1004,/m/07gp_k,39.63068,Grand Canyon University,Grand Canyon University,100
+1005,/m/0848cz,38.575951,Granite State College,Granite State College,100
+1006,/m/0g10fh,28.809898,Gratz College,Gratz College,100
+1007,/m/02p_5h,38.562424,Great Basin College,Great Basin College,100
+1008,/m/074lty,48.2402,Great Lakes Christian College,Great Lakes Christian College,100
+1009,/m/02m0v4,38.408363,Green Mountain College,Green Mountain College,100
+1010,/m/01953q,29.207798,Greensboro College,Greensboro College,100
+1011,/m/01jblh,29.188816,Greenville College,Greenville College,100
+1012,/m/025t9z5,39.600155,Gwynedd-Mercy College,Gwynedd-Mercy College,100
+1013,/m/017d77,28.574369,Hampshire College,Hampshire College,100
+1014,/m/04wlz2,29.523952,Hampton University,Hampton University,100
+1015,/m/025yq_6,27.001329,Hannibal-LaGrange University,Hannibal-LaGrange College,76
+1016,/m/03pv4p,29.232164,Hanover College,Hanover College,100
+1017,/m/07109q,39.687626,Hardin-Simmons University,Hardin-Simmons University,100
+1018,/m/03klg_,28.73966,Harding University,Harding University,100
+1019,/m/0d0hk9,38.320332,Harrington College of Design,Harrington College of Design,100
+1020,/m/07jfym,49.657776,Harris-Stowe State University,Harris-Stowe State University,100
+1021,/m/03vllp,47.859512,Harrisburg University of Science and Technology,Harrisburg University of Science and Technology,100
+1022,/m/02sl5r,29.503077,Hartwick College,Hartwick College,100
+1023,/m/035l95,48.201153,Haskell Indian Nations University,Haskell Indian Nations University,100
+1024,/m/02jmst,35.353718,Hastings College,"University of California, Hastings College of the Law",100
+1025,/m/036gyz,38.215828,Hawaii Pacific University,Hawaii Pacific University,100
+1026,/m/05nhjj,38.110897,Hebrew Theological College,Hebrew Theological College,100
+1027,/m/0pmcz,41.306488,Heidelberg University,Ruprecht Karl University of Heidelberg,61
+1028,/m/0bn4c8,28.849195,Hellenic College,Hellenic College,100
+1029,/m/05j813,38.505905,Henderson State University,Henderson State University,100
+1030,/m/02r09v0,28.541452,Heritage University,Heritage University,100
+1031,/m/06gg7w,28.646238,Herzing University,Herzing University,100
+1032,/m/02l8k2,28.736012,Hilbert College,Hilbert College,100
+1033,/m/01ddxw,29.326897,Hillsdale College,Hillsdale College,100
+1034,/m/0b17f,28.541397,Hiram College,Hiram College,100
+1035,/m/02qw_v,56.606483,Hobart and William Smith Colleges,Hobart and William Smith Colleges,100
+1036,/m/02qxvp3,28.65592,Hodges University,Hodges University,100
+1037,/m/043nj8,28.719894,Hollins University,Hollins University,100
+1038,/m/0g1x5x,48.221355,Holy Apostles College and Seminary,Holy Apostles College and Seminary,100
+1039,/m/02c9dj,51.455082,Holy Cross College,College of the Holy Cross,71
+1040,/m/08r5w6,39.094887,Holy Family University,Holy Family University,100
+1041,/m/0c7g9x,38.390495,Holy Names University,Holy Names University,100
+1042,/m/09fff8,38.173836,Hope International University,Hope International University,100
+1043,/m/01xyvs,29.18317,Houghton College,Houghton College,100
+1044,/m/06f9b3,38.416298,Houston Baptist University,Houston Baptist University,100
+1045,/m/084cp4,38.840141,Howard Payne University,Howard Payne University,100
+1046,/m/09tbsh,49.09623,Hult International Business School,Hult International Business School,100
+1047,/m/0bwkcj,28.707987,Humphreys College,Humphreys College,100
+1048,/m/07h7xf,29.70071,Huntington University,Huntington University,100
+1049,/m/06qrlj,39.114788,Huston-Tillotson University,Huston-Tillotson University,100
+1050,/m/05mz1m,29.21838,Illinois College,Illinois College,100
+1051,/m/09c0ln,41.491703,Illinois Institute of Art at Chicago,The Illinois Institute of Art - Chicago,95
+1052,/m/017zq0,39.036053,Illinois State University,Illinois State University,100
+1053,/m/04pqkc,47.993549,Indian River State College,Indian River State College,100
+1054,/m/041b09,38.080429,Indiana Institute of Technology,Indiana Institute of Technology,100
+1055,/m/04vdjf,38.180279,Indiana University East,Indiana University East,100
+1056,/m/05b9mw,38.998096,Indiana University Northwest,Indiana University Northwest,100
+1057,/m/059lqq,38.487022,Indiana University Southeast,Indiana University Southeast,100
+1058,/m/02jwl7,39.015064,Indiana University--Kokomo,Indiana University Kokomo,92
+1059,/m/04vz9r,49.212204,Indiana University--South Bend,Indiana University South Bend,93
+1060,/m/022s82,112.699722,Indiana University-Purdue University--Fort Wayne,Indiana University-Purdue University Fort Wayne,95
+1061,/m/09l03d,20.538424,Institute of American Indian and Alaska Native Culture and Arts Development,Institute of American Indian Arts,87
+1062,/m/0clvxmk,61.544914,Inter American University of Puerto Rico--Aguadilla,Inter American University of Puerto Rico-Aguadilla,98
+1063,/m/0clvxp2,61.544914,Inter American University of Puerto Rico--Arecibo,Inter American University of Puerto Rico-Arecibo,97
+1064,/m/0clvxpr,61.544914,Inter American University of Puerto Rico--Barranquitas,Inter American University of Puerto Rico-Barranquitas,98
+1065,/m/0clvxst,61.544914,Inter American University of Puerto Rico--Bayamon,Inter American University of Puerto Rico-Bayamon,97
+1066,/m/0clvxnn,61.544914,Inter American University of Puerto Rico--Fajardo,Inter American University of Puerto Rico-Fajardo,97
+1067,/m/0clvxqm,61.544914,Inter American University of Puerto Rico--Guayama,Inter American University of Puerto Rico-Guayama,97
+1068,/m/041j50,10,Inter American University of Puerto Rico--Metropolitan Campus,Inter-American University of Puerto Rico,97
+1069,/m/0clvxqd,62.469425,Inter American University of Puerto Rico--Ponce,Inter American University of Puerto Rico-Ponce,97
+1070,/m/0cngqmt,70.37429,Inter American University of Puerto Rico--San German,Inter American University of Puerto Rico-San German,98
+1071,/m/02qm489,47.047604,International College of the Cayman Islands,International College of the Cayman Islands,100
+1072,/m/01smn5,31.636868,Iona College,Iona College,100
+1073,/m/03pxfy,38.512245,Iowa Wesleyan College,Iowa Wesleyan College,100
+1074,/m/03zj9,29.563395,Ithaca College,Ithaca College,100
+1075,/m/03y54x,29.296366,Jacksonville University,Jacksonville University,100
+1076,/m/0ft5nk,38.279884,Jarvis Christian College,Jarvis Christian College,100
+1077,/m/0hqqd,48.916878,Jewish Theological Seminary of America,Jewish Theological Seminary of America,100
+1078,/m/017fqp,38.143768,John Carroll University,John Carroll University,100
+1079,/m/06bmr3,49.516495,John F. Kennedy University,John F. Kennedy University,100
+1080,/m/0803wp,47.807358,Johnson C. Smith University,Johnson C. Smith University,100
+1081,/m/02m0vy,38.269939,Johnson State College,Johnson State College,100
+1082,/m/05cf4r,13.664503,Johnson University,Johnson Bible College,55
+1083,/m/04cvp70,38.461693,Jones International University,Jones International University,100
+1084,/m/0cp4m6x,25.534739,Judson College,Judson Female College,64
+1085,/m/067m9s,27.087784,Judson University,"Judson College, Illinois",47
+1086,/m/017z88,54.815144,Juilliard School,Juilliard School,100
+1087,/m/0jn57,29.133121,Juniata College,Juniata College,100
+1088,/m/03_kf6,48.358471,Kansas City Art Institute,Kansas City Art Institute,100
+1089,/m/049dk,53.550316,Kansas State University,Kansas State University,100
+1090,/m/0g3rqx,38.542477,Kansas Wesleyan University,Kansas Wesleyan University,100
+1091,/m/0dbm84,28.528229,Kaplan University,Kaplan University,100
+1092,/m/0bt09t,29.459471,Keiser University,Keiser University,100
+1093,/m/0c06p_,29.341206,Kendall College,Kendall College,100
+1094,/m/02pwzz,38.277565,Kennesaw State University,Kennesaw State University,100
+1095,/m/0b41vt,38.287041,Kentucky Christian University,Kentucky Christian University,100
+1096,/m/065mwy,38.756889,Kentucky State University,Kentucky State University,100
+1097,/m/03p2qq,38.584351,Kentucky Wesleyan College,Kentucky Wesleyan College,100
+1098,/m/02r4zzz,19.074863,Kettering College,Kettering College of Medical Arts,100
+1099,/m/02d3zd,28.681604,Keuka College,Keuka College,100
+1100,/m/0gsyr3,28.737484,Keystone College,Keystone College,100
+1101,/m/0599x9,19.095438,King University,King College,50
+1102,/m/02t20y,119.204308,"King's College - Wilkes-Barre, PA",Wilkes University,42
+1103,/m/090985,17.754086,"King's College - New York, NY","The King's College, New York",82
+1104,/m/048n4z,38.269146,Kutztown University of Pennsylvania,Kutztown University of Pennsylvania,100
+1105,/m/0cr03v,28.658583,Kuyper College,Kuyper College,100
+1106,/m/06wf4l,38.273224,La Roche College,La Roche College,100
+1107,/m/01rr31,59.026131,La Salle University,De La Salle University-Manila,100
+1108,/m/076ngd,38.783646,La Sierra University,La Sierra University,100
+1109,/m/03k6_y,29.137289,LaGrange College,LaGrange College,100
+1110,/m/0ggzt3,48.720379,Laguna College of Art and Design,Laguna College of Art and Design,100
+1111,/m/0cbhfb,38.926479,Lake Erie College,Lake Erie College,100
+1112,/m/05cx_7,39.004986,Lake Forest College,Lake Forest College,100
+1113,/m/04t8t7,48.785706,Lake Superior State University,Lake Superior State University,100
+1114,/m/026wffg,29.152008,Lakeland College,Lakeland College,100
+1115,/m/0clvmz9,38.276634,Lakeview College of Nursing,Lakeview College of Nursing,100
+1116,/m/02xw3x,29.500994,Lamar University,Lamar University,100
+1117,/m/04f2nf,38.268635,Lancaster Bible College,Lancaster Bible College,100
+1118,/m/03598l,28.761187,Lander University,Lander University,100
+1119,/m/02_79b,28.785925,Lane College,Lane College,100
+1120,/m/01lgjy,28.797016,Langston University,Langston University,100
+1121,/m/0btx82,28.575863,Lasell College,Lasell College,100
+1122,/m/035f2w,37.967339,Lawrence Technological University,Lawrence Technological University,100
+1123,/m/01t8lq,29.173775,Lawrence University,Lawrence University,100
+1124,/m/02wc4j,39.128109,Le Moyne College,Le Moyne College,100
+1125,/m/07439d,39.470711,Lebanon Valley College,Lebanon Valley College,100
+1126,/m/03dhkq,28.607103,Lee University,Lee University,100
+1127,/m/0c9xxb,39.277477,Lees-McRae College,Lees-McRae College,100
+1128,/m/02_7bx,39.809914,LeMoyne-Owen College,LeMoyne-Owen College,100
+1129,/m/046l8v,28.850365,Lenoir-Rhyne University,Lenoir-Rhyne College,70
+1130,/m/0986gf,29.105072,Lesley University,Lesley University,100
+1131,/m/01qbqb,29.010338,LeTourneau University,LeTourneau University,100
+1132,/m/01kgkj,38.803516,Lewis & Clark College,Lewis & Clark College,100
+1133,/m/03p311,29.310892,Lewis University,Lewis University,100
+1134,/m/0fxcj,49.442181,Lewis-Clark State College,Lewis-Clark State College,100
+1135,/m/0c7bsd,28.799156,Lexington College,Lexington College,100
+1136,/m/02bpy_,29.364368,Liberty University,Liberty University,100
+1137,/m/07xcwy,38.036144,Life Pacific College,Life Pacific College,100
+1138,/m/06y8vm,29.502073,Life University,Life University,100
+1139,/m/02wcn9x,11.556614,LIM College,Laboratory Institute of Merchandising,18
+1140,/m/06rpg5,28.571613,Limestone College,Limestone College,100
+1141,/m/026m8mg,18.512074,Lincoln Christian University,Lincoln Christian College and Seminary,67
+1142,/m/0ym1n,30.024307,Lincoln College,"Lincoln College, Oxford",100
+1143,/m/04lbmb,38.783325,Lincoln Memorial University,Lincoln Memorial University,100
+1144,/m/03fmff,479.852936,"Lincoln University - Jefferson City, MO",Lincoln University,100
+1145,/m/03fmfs,46.148689,"Lincoln University - Lincoln University, PA",Lincoln University,100
+1146,/m/01z3y8,29.671112,Lindenwood University,Lindenwood University,100
+1147,/m/058nht,38.420174,Lindsey Wilson College,Lindsey Wilson College,100
+1148,/m/03bcdd,22.138998,LIU Post,Long Island University C.W. Post Campus,62
+1149,/m/09j7m9,28.585396,Livingstone College,Livingstone College,100
+1150,/m/02p36y,48.125511,Lock Haven University of Pennsylvania,Lock Haven University of Pennsylvania,100
+1151,/m/056gv2,38.796074,Loma Linda University,Loma Linda University,100
+1152,/m/01yp_k,28.578794,Longwood University,Longwood University,100
+1153,/m/023dhr,30.967793,Loras College,Loras College,100
+1154,/m/09538z,29.063681,Louisiana College,Louisiana College,100
+1155,/m/0cdpf1,63.570534,Louisiana State University Health Sciences Center,Louisiana State University Health Sciences Center Shreveport,100
+1156,/m/0952mf,39.322929,Louisiana State University--Alexandria,Louisiana State University at Alexandria,89
+1157,/m/01_qcn,46.432281,Louisiana State University--Shreveport,Louisiana State University in Shreveport,89
+1158,/m/07yn3x,13.8159,Lourdes University,Lourdes College,60
+1159,/m/01bzw5,39.477989,Loyola Marymount University,Loyola Marymount University,100
+1160,/m/05b66g,38.415546,Lubbock Christian University,Lubbock Christian University,100
+1161,/m/040xhg,29.110912,Lycoming College,Lycoming College,100
+1162,/m/02pjfr2,57.642651,Lyme Academy College of Fine Arts,Lyme Academy College of Fine Arts,100
+1163,/m/049rdj,29.105648,Lynchburg College,Lynchburg College,100
+1164,/m/02m0y5,38.281277,Lyndon State College,Lyndon State College,100
+1165,/m/08_462,28.524454,Lynn University,Lynn University,100
+1166,/m/02zktk,28.696304,Lyon College,Lyon College,100
+1167,/m/08b2fl,28.546383,MacMurray College,MacMurray College,100
+1168,/m/0b7zhc,29.153172,Madonna University,Madonna University,100
+1169,/m/01ny2p,37.808968,Maharishi University of Management,Maharishi University of Management,100
+1170,/m/05qs7g,37.904716,Maine College of Art,Maine College of Art,100
+1171,/m/088x3v,38.239456,Maine Maritime Academy,Maine Maritime Academy,100
+1172,/m/0cfvxn,14.969322,Malone University,Malone College,57
+1173,/m/0lbfv,38.74004,Manchester University,University of Manchester,64
+1174,/m/015q8z,38.61377,Manhattan Christian College,Manhattan Christian College,100
+1175,/m/04ftdq,31.438343,Manhattan College,Manhattan College,100
+1176,/m/04sylm,38.50779,Manhattan School of Music,Manhattan School of Music,100
+1177,/m/037sfm,29.38184,Manhattanville College,Manhattanville College,100
+1178,/m/096dk9,38.197567,Mansfield University of Pennsylvania,Mansfield University of Pennsylvania,100
+1179,/m/02vpf9,47.503033,Maranatha Baptist Bible College,Maranatha Baptist Bible College,100
+1180,/m/03sbhm,7.800035,"Marian University - Indianapolis, IN",Marian University,100
+1181,/m/0f1tk1,17.853218,"Marian University - Fond du Lac, WI",Marian University,100
+1182,/m/07rg6_,28.715023,Marietta College,Marietta College,100
+1183,/m/02zb9f,29.212818,Marist College,Marist College,100
+1184,/m/0jfwq,28.657249,Marlboro College,Marlboro College,100
+1185,/m/07dfv8,20.646324,Mars Hill University,Mars Hill College,64
+1186,/m/05m9d6,38.897423,Martin Luther College,Martin Luther College,100
+1187,/m/042d5c,38.403461,Martin Methodist College,Martin Methodist College,100
+1188,/m/0d9w1b,28.760979,Martin University,Martin University,100
+1189,/m/03m5h6,38.214161,Mary Baldwin College,Mary Baldwin College,100
+1190,/m/05jw19,28.713219,Marygrove College,Marygrove College,100
+1191,/m/05l0ry,28.607977,Marylhurst University,Marylhurst University,100
+1192,/m/060bzn,38.1362,Marymount Manhattan College,Marymount Manhattan College,100
+1193,/m/033s3h,28.945942,Maryville College,Maryville College,100
+1194,/m/0bq1cy,28.637899,Marywood University,Marywood University,100
+1195,/m/0788m6,51.329426,Massachusetts College of Art and Design,Massachusetts College of Art,100
+1196,/m/04vwz2,47.508549,Massachusetts College of Liberal Arts,Massachusetts College of Liberal Arts,100
+1197,/m/0cqj1g,58.129517,Massachusetts College of Pharmacy and Health Sciences,Massachusetts College of Pharmacy and Health Sciences,100
+1198,/m/072g9j,37.962151,Massachusetts Maritime Academy,Massachusetts Maritime Academy,100
+1199,/m/02yrlr,35.665257,Master's College and Seminary,Master's College,100
+1200,/m/04p1g_,38.348701,Mayville State University,Mayville State University,100
+1201,/m/0clvm_w,28.979084,McKendree University,McKendree University,100
+1202,/m/04pkl7,29.088594,McMurry University,McMurry University,100
+1203,/m/02zkz7,39.179649,McNeese State University,McNeese State University,100
+1204,/m/0fqckm,28.977566,McPherson College,McPherson College,100
+1205,/m/02jjrb,29.62351,Medaille College,Medaille College,100
+1206,/m/03gqp5,48.681934,Medical University of South Carolina,Medical University of South Carolina,100
+1207,/m/022jr5,39.109322,Memorial University of Newfoundland,Memorial University of Newfoundland,100
+1208,/m/02ck63,38.099514,Memphis College of Art,Memphis College of Art,100
+1209,/m/084wcs,28.675463,Menlo College,Menlo College,100
+1210,/m/038133,29.715609,Mercy College,Mercy College,100
+1211,/m/0clvnmr,47.383217,Mercy College of Health Sciences,Mercy College of Health Sciences,100
+1212,/m/07ymzn,19.372221,Mercy College of Ohio,Mercy College of Northwest Ohio,85
+1213,/m/04985n,27.903587,Mercyhurst University,Mercyhurst University,100
+1214,/m/03f43j,29.020409,Merrimack College,Merrimack College,100
+1215,/m/021nbr,29.269342,Messiah College,Messiah College,100
+1216,/m/02fgdx,30.330774,Methodist University,Southern Methodist University,100
+1217,/m/0fd6_b,47.876274,Metropolitan College of New York,Metropolitan College of New York,100
+1218,/m/01jlrt,38.273514,Metropolitan State University,Metropolitan State University,100
+1219,/m/02kvm_,26.883261,Metropolitan State University of Denver,Metropolitan State College of Denver,75
+1220,/m/061s54,55.923515,Miami Dade College,Miami Dade College,100
+1221,/m/03mhg2x,59.194458,Miami International University of Art & Design,Miami International University of Art & Design,100
+1222,/m/09813x,24.527008,Mid-America Christian University,Mid-American Christian University,96
+1223,/m/07dhtr,47.559128,Mid-Atlantic Christian University,Mid-Atlantic Christian University,100
+1224,/m/0bv41_,38.616692,Mid-Continent University,Mid-Continent University,100
+1225,/m/025y7d,8.866663,Middle Georgia State College,Middle Georgia College,72
+1226,/m/02zc7f,49.439823,Middle Tennessee State University,Middle Tennessee State University,100
+1227,/m/02qzh8f,29.354485,Midland College,Midland College,100
+1228,/m/046lb6,27.879782,Midland University,Midland University,100
+1229,/m/07k5c65,28.903526,Midstate College,Midstate College,100
+1230,/m/08p7gf,29.037708,Midway College,Midway College,100
+1231,/m/03dywv,38.298561,Midwestern State University,Midwestern State University,100
+1232,/m/071d9q,29.062651,Miles College,Miles College,100
+1233,/m/09l4v4,42.39711,Millersville University of Pennsylvania,Millersville University of Pennsylvania,100
+1234,/m/05cdzm,28.83007,Milligan College,Milligan College,100
+1235,/m/04c969,29.371075,Millikin University,Millikin University,100
+1236,/m/0288zy,28.534157,Mills College,Mills College,100
+1237,/m/0f2lw0,48.626347,Milwaukee Institute of Art and Design,Milwaukee Institute of Art & Design,91
+1238,/m/03nm0d,48.414402,Minneapolis College of Art and Design,Minneapolis College of Art and Design,100
+1239,/m/02xw0n,62.017288,Minnesota State University--Mankato,"Minnesota State University, Mankato",94
+1240,/m/02xw0_,49.864861,Minnesota State University--Moorhead,Minnesota State University Moorhead,94
+1241,/m/027df3,38.44083,Minot State University,Minot State University,100
+1242,/m/08xjzq,28.04034,Misericordia University,Misericordia University,100
+1243,/m/01qfbg,28.990108,Mississippi College,Mississippi College,100
+1244,/m/06kjlb,37.747551,Mississippi University for Women,Mississippi University for Women,100
+1245,/m/0bs3w5,37.702171,Missouri Baptist University,Missouri Baptist University,100
+1246,/m/05kb_g,48.017456,Missouri Southern State University,Missouri Southern State University,100
+1247,/m/019pwv,51.859413,Missouri State University,Missouri State University,100
+1248,/m/025z9kb,39.177711,Missouri Valley College,Missouri Valley College,100
+1249,/m/05kc17,47.984562,Missouri Western State University,Missouri Western State University,100
+1250,/m/02j07k,28.623665,Mitchell College,Mitchell College,100
+1251,/m/06w3d6,28.702145,Molloy College,Molloy College,100
+1252,/m/01605c,29.9515,Monmouth College,Monmouth College,100
+1253,/m/03816s,28.781105,Monroe College,Monroe College,100
+1254,/m/032kcc,74.315445,Montana State University--Billings,Montana State University - Billings,94
+1255,/m/0n6hp,65.636879,Montana State University--Northern,Montana State University - Northern,94
+1256,/m/01vr72,51.252502,Monterrey Institute of Technology and Higher Education--Monterrey,Monterrey Institute of Technology and Higher Education,100
+1257,/m/05tvkg,28.896858,Montreat College,Montreat College,100
+1258,/m/06nzh3,38.89782,Montserrat College of Art,Montserrat College of Art,100
+1259,/m/01flrh,38.642326,Moody Bible Institute,Moody Bible Institute,100
+1260,/m/0919wd,48.340389,Moore College of Art & Design,Moore College of Art and Design,89
+1261,/m/02pf10,29.327015,Moravian College,Moravian College,100
+1262,/m/0sxgh,39.219692,Morgan State University,Morgan State University,100
+1263,/m/0f34v4,28.795094,Morris College,Morris College,100
+1264,/m/02r5r1,19.567175,Morrisville State College,State University of New York at Morrisville,61
+1265,/m/0cbhgq,38.28603,Mount Aloysius College,Mount Aloysius College,100
+1266,/m/0clvtns,35.317226,Mount Angel Seminary,Mount Angel Seminary,100
+1267,/m/0clvt3g,43.886074,Mount Carmel College of Nursing,Mount Carmel College of Nursing,100
+1268,/m/0p7tb,38.651722,Mount Holyoke College,Mount Holyoke College,100
+1269,/m/04cwk0,38.250408,Mount Ida College,Mount Ida College,100
+1270,/m/02qv5c,38.645126,Mount Marty College,Mount Marty College,100
+1271,/m/07v8kl,18.171028,Mount Mary University,Mount Mary College,66
+1272,/m/0616sq,38.245293,Mount Olive College,Mount Olive College,100
+1273,/m/0b5cvt,23.568611,Mount St. Mary College,Mount Saint Mary College,86
+1274,/m/03jsrt,48.860359,Mount St. Mary's College,Mount St. Mary's College,100
+1275,/m/03jjh2,28.34458,Mount St. Mary's University,Mount Saint Mary's University,88
+1276,/m/06j6jn,47.958076,Mount Vernon Nazarene University,Mount Vernon Nazarene University,100
+1277,/m/02qn7vj,19.509302,Mount Washington College,Hesser College,57
+1278,/m/07yyt9,17.099253,Multnomah University,Multnomah Bible College and Biblical Seminary,60
+1279,/m/03ffrk,28.021908,Muskingum University,Muskingum University,100
+1280,/m/035n2s,28.637955,Naropa University,Naropa University,100
+1281,/m/06397b,38.393517,National American University,National American University,100
+1282,/m/0clw50m,52.715519,National Graduate School of Quality Management,National Graduate School of Quality Management,100
+1283,/m/03gxb4,39.159763,National Hispanic University,National Hispanic University,100
+1284,/m/08pz2w,38.660187,National Labor College,National Labor College,100
+1285,/m/05d9y_,40.728287,National University,Kiev University,73
+1286,/m/06lp4j,39.716644,National-Louis University,National-Louis University,100
+1287,/m/08qt8_,38.45504,Nazarene Bible College,Nazarene Bible College,100
+1288,/m/0cwsyt,31.66563,Nazareth College,"Nazareth College, Rochester",100
+1289,/m/0fl8c2,38.839485,Nebraska Methodist College,Nebraska Methodist College,100
+1290,/m/04_xw0,38.400146,Nebraska Wesleyan University,Nebraska Wesleyan University,100
+1291,/m/06vm1s,28.62035,Neumann University,Neumann University,100
+1292,/m/03jpmp,38.341995,Nevada State College,Nevada State College,100
+1293,/m/025r1t,39.270306,New College of Florida,New College of Florida,100
+1294,/m/08sr6c,38.261196,New England College,New England College,100
+1295,/m/031n8c,55.128349,New England Conservatory of Music,New England Conservatory of Music,100
+1296,/m/03d405k,47.992741,New England Institute of Art,New England Institute of Art,100
+1297,/m/0ffkcx,48.221321,New England Institute of Technology,New England Institute of Technology,100
+1298,/m/01r4mx,47.978504,New Jersey City University,New Jersey City University,100
+1299,/m/08y_qb,49.068783,New Mexico Highlands University,New Mexico Highlands University,100
+1300,/m/0225x9,59.021652,New Mexico Institute of Mining and Technology,New Mexico Institute of Mining and Technology,100
+1301,/m/07p7yr,58.424217,New Orleans Baptist Theological Seminary,New Orleans Baptist Theological Seminary,100
+1302,/m/03cfts,57.867287,New York Institute of Technology,New York Institute of Technology,100
+1303,/m/046lfq,29.104172,Newberry College,Newberry College,100
+1304,/m/080b1zm,28.796719,Newbury College,Newbury College,100
+1305,/m/05vbq0,28.675314,Newman University,Newman University,100
+1306,/m/02j4r3,29.277794,Niagara University,Niagara University,100
+1307,/m/02zkw9,38.425385,Nicholls State University,Nicholls State University,100
+1308,/m/0cp41w,29.211683,Nichols College,Nichols College,100
+1309,/m/02z43f,38.458397,Norfolk State University,Norfolk State University,100
+1310,/m/0269kx,61.695572,North Carolina Central University,North Carolina Central University,100
+1311,/m/07nxcp,48.043648,North Carolina Wesleyan College,North Carolina Wesleyan College,100
+1312,/m/0590nq,38.317547,North Central College,North Central College,100
+1313,/m/07wmdl,37.854599,North Central University,North Central University,100
+1314,/m/025xlxk,38.956829,North Greenville University,North Greenville University,100
+1315,/m/02k5n5,38.924145,North Park University,North Park University,100
+1316,/m/02wzfhn,28.712212,Northcentral University,Northcentral University,100
+1317,/m/068q16,38.886768,Northeastern Illinois University,Northeastern Illinois University,100
+1318,/m/03pjnf,39.078587,Northeastern State University,Northeastern State University,100
+1319,/m/03p35n,37.952408,Northern Kentucky University,Northern Kentucky University,100
+1320,/m/05gx7,38.850651,Northern Michigan University,Northern Michigan University,100
+1321,/m/02x4wy4,48.144928,Northern New Mexico College,Northern New Mexico College,100
+1322,/m/05jk4j,38.566662,Northern State University,Northern State University,100
+1323,/m/08qqb8,28.914774,Northland College,Northland College,100
+1324,/m/074lkb,21.15889,Northwest Christian University,Northwest Christian College,77
+1325,/m/04jhhtm,48.742302,Northwest Florida State College,Northwest Florida State College,100
+1326,/m/04g5g8,48.616177,Northwest Missouri State University,Northwest Missouri State University,100
+1327,/m/03wy3k,38.358585,Northwest Nazarene University,Northwest Nazarene University,100
+1328,/m/026p2f,29.331827,Northwest University,Northwest University,100
+1329,/m/027y36f,48.802757,Northwestern Health Sciences University,Northwestern Health Sciences University,100
+1330,/m/05859c,48.169891,Northwestern Oklahoma State University,Northwestern Oklahoma State University,100
+1331,/m/019tfm,47.786507,Northwestern State University of Louisiana,Northwestern State University,100
+1332,/m/04bymm,32.419308,Northwood University,Northwood University,100
+1333,/m/06j6wl,28.835264,Notre Dame College of Ohio,Notre Dame College,100
+1334,/m/092j8p,58.892998,Notre Dame de Namur University,Notre Dame de Namur University,100
+1335,/m/04hybc,27.929762,Notre Dame of Maryland University,College of Notre Dame of Maryland,80
+1336,/m/02x60g,89.732796,Nova Scotia College of Art and Design,Nova Scotia College of Art and Design University,100
+1337,/m/062ns0,28.730804,Nyack College,Nyack College,100
+1338,/m/026tkqd,39.31765,Oakland City University,Oakland City University,100
+1339,/m/02g8jt,33.650356,Oakland University,Oakland University,100
+1340,/m/04cz4r,20.848326,Oakwood University,Oakwood College,60
+1341,/m/0pb5s3f,38.498215,Oglala Lakota College,Oglala Lakota College,100
+1342,/m/015kpp,29.146015,Oglethorpe University,Oglethorpe University,100
+1343,/m/03cjf7t,38.303307,Ohio Christian University,Ohio Christian University,100
+1344,/m/05vq69,38.453617,Ohio Dominican University,Ohio Dominican University,100
+1345,/m/06mwdn,38.253937,Ohio Valley University,Ohio Valley University,100
+1346,/m/03hvk2,38.443687,Ohio Wesleyan University,Ohio Wesleyan University,100
+1347,/m/09qmsn,38.471531,Oklahoma Baptist University,Oklahoma Baptist University,100
+1348,/m/0d5jxq,38.444748,Oklahoma Christian University,Oklahoma Christian University,100
+1349,/m/035wtd,39.486233,Oklahoma City University,Oklahoma City University,100
+1350,/m/02662sv,42.334904,Oklahoma State University Institute of Technology--Okmulgee,Oklahoma State University-Okmulgee,76
+1351,/m/04d_x2,54.026039,Oklahoma State University--Oklahoma City,Oklahoma State University–Oklahoma City,92
+1352,/m/04f0wp,38.25526,Oklahoma Wesleyan University,Oklahoma Wesleyan University,100
+1353,/m/03zz4c,28.695606,Olivet College,Olivet College,100
+1354,/m/0330qx,38.21965,Olivet Nazarene University,Olivet Nazarene University,100
+1355,/m/0799k8,28.809368,Olympic College,Olympic College,100
+1356,/m/02rlrtx,48.551922,Oregon College of Art and Craft,Oregon college of art & craft,79
+1357,/m/05l0dl,66.055832,Oregon Health and Science University,Oregon Health & Science University,91
+1358,/m/05cwl_,48.507355,Otis College of Art and Design,Otis College of Art and Design,100
+1359,/m/03sg1f,29.356361,Ottawa University,Ottawa University,100
+1360,/m/0br4tb,27.999207,Otterbein University,Otterbein University,100
+1361,/m/01t4_8,38.551762,Ouachita Baptist University,Ouachita Baptist University,100
+1362,/m/0ckbml,57.948128,Our Lady of Holy Cross College,Our Lady of Holy Cross College,100
+1363,/m/0ckbw_,47.73407,Our Lady of the Lake College,Our Lady of the Lake College,100
+1364,/m/0ccw5l,47.668789,Our Lady of the Lake University,Our Lady of the Lake University,100
+1365,/m/05zz47,47.652122,Pacific Northwest College of Art,Pacific Northwest College of Art,100
+1366,/m/08n1n8,38.593391,Pacific Oaks College,Pacific Oaks College,100
+1367,/m/035774,37.990917,Pacific Union College,Pacific Union College,100
+1368,/m/0c6sh7,28.720638,Paine College,Paine College,100
+1369,/m/04ctkj,47.838333,Palm Beach Atlantic University,Palm Beach Atlantic University,100
+1370,/m/026dw21,38.772324,Palmer College of Chiropractic,Palmer College of Chiropractic,100
+1371,/m/06wbpt,28.613831,Park University,Park University,100
+1372,/m/080b1cd,27.903677,Parker University,Parker University,100
+1373,/m/02z4y9h,28.760103,Patten University,Patten University,100
+1374,/m/02r5ns,39.720917,Paul Smith's College,Paul Smith's College,100
+1375,/m/0g5_n5,29.043056,Peirce College,Peirce College,100
+1376,/m/088tx8,29.029099,Peninsula College,Peninsula College,100
+1377,/m/06v5pm,48.798222,Pennsylvania College of Art and Design,Pennsylvania College of Art and Design,100
+1378,/m/058f22,38.754017,Pennsylvania College of Technology,Pennsylvania College of Technology,100
+1379,/m/08768q,44.892223,"Pennsylvania State University--Erie, The Behrend College","Penn State Erie, The Behrend College",75
+1380,/m/085w68,10.416602,Pennsylvania State University--Harrisburg,Penn State Harrisburg,57
+1381,/m/0d1rhf,39.081821,Peru State College,Peru State College,100
+1382,/m/06v_pw,28.662107,Pfeiffer University,Pfeiffer University,100
+1383,/m/03c080b,29.141085,Philadelphia University,Philadelphia University,100
+1384,/m/0b4v6_,38.393517,Philander Smith College,Philander Smith College,100
+1385,/m/06xp6f,28.423489,Piedmont College,Piedmont College,100
+1386,/m/04x24m,38.493126,Pine Manor College,Pine Manor College,100
+1387,/m/04kn17,38.999557,Pittsburg State University,Pittsburg State University,100
+1388,/m/02g45h,29.18331,Pitzer College,Pitzer College,100
+1389,/m/02rqrs9,27.679047,Plaza College,Plaza College,100
+1390,/m/077v4q,48.122337,Point Loma Nazarene University,Point Loma Nazarene University,100
+1391,/m/02srbb,38.257355,Point Park University,Point Park University,100
+1392,/m/04ymwf,23.451569,Point University,High Point University,100
+1393,/m/021q2j,64.519058,Polytechnic Institute of New York University,Polytechnic Institute of New York University,100
+1394,/m/0cz61q,57.816006,Pontifical Catholic University of Puerto Rico,Pontifical Catholic University of Puerto Rico,100
+1395,/m/069bq3,39.016449,Pontifical College Josephinum,Pontifical College Josephinum,100
+1396,/m/02hp85,29.19442,Post University,Post University,100
+1397,/m/02x2w7g,28.575727,Potomac College,Potomac College,100
+1398,/m/07f9lq,47.994133,Prairie View A&M University,Prairie View A&M University,100
+1399,/m/03bmmc,49.368965,Pratt Institute,Pratt Institute,100
+1400,/m/06js09,28.734005,Prescott College,Prescott College,100
+1401,/m/0c1wm0,28.614729,Presentation College,Presentation College,100
+1402,/m/04lsvw,28.837648,Principia College,Principia College,100
+1403,/m/02wbfcm,45.729984,Puerto Rico Conservatory of Music,Puerto Rico Conservatory of Music,100
+1404,/m/0234_c,31.072968,Purchase College--SUNY,State University of New York at Purchase,53
+1405,/m/09rppz,39.0382,Purdue University--Calumet,Purdue University Calumet,92
+1406,/m/0bp8yw,47.931564,Purdue University--North Central,Purdue University North Central,93
+1407,/m/08j8x9,39.69836,Queens University of Charlotte,Queens University of Charlotte,100
+1408,/m/03p37s,29.395702,Quincy University,Quincy University,100
+1409,/m/0196sy,29.560278,Radford University,Radford University,100
+1410,/m/0270c84,28.161032,Randolph College,Randolph College,100
+1411,/m/0g_cm6,38.458439,Ranken Technical College,Ranken Technical College,100
+1412,/m/0f7s3z,47.38707,Regent's American College London,Regent's American College London,100
+1413,/m/0bn3hs,29.244621,Regis College,Regis College,100
+1414,/m/08_n4m,14.909458,Reinhardt University,Reinhardt College,64
+1415,/m/0clvqq5,35.056576,Research College of Nursing,Research College of Nursing,100
+1416,/m/0clvn4k,26.487917,Resurrection University,Resurrection University,100
+1417,/m/06q47x,60.466282,Richmond--The American International University in London,Richmond American International University,88
+1418,/m/03ryds,33.243599,Ringling College of Art and Design,Ringling School of Art and Design,84
+1419,/m/0k1k6,29.61993,Roanoke College,Roanoke College,100
+1420,/m/026m0nc,48.624462,Robert B. Miller College,Robert B. Miller College,100
+1421,/m/04510r,24.387733,"Robert Morris University - Chicago, IL",Robert Morris College,71
+1422,/m/04510r,10,"Robert Morris University - Moon Township, PA",Robert Morris College,71
+1423,/m/029wyv,38.317482,Roberts Wesleyan College,Roberts Wesleyan College,100
+1424,/m/036mjy,28.781799,Rochester College,Rochester College,100
+1425,/m/0l0wv,55.824348,Rochester Institute of Technology,Rochester Institute of Technology,100
+1426,/m/05v84x,27.960939,Rockford University,Rockford University,100
+1427,/m/06sgl7,38.295723,Rocky Mountain College,Rocky Mountain College,100
+1428,/m/05j6xb,58.666721,Rocky Mountain College of Art and Design,Rocky Mountain College of Art and Design,100
+1429,/m/04m5kh,39.347027,Roger Williams University,Roger Williams University,100
+1430,/m/05pc4w,38.066147,Rogers State University,Rogers State University,100
+1431,/m/02h659,30.601711,Rollins College,Rollins College,100
+1432,/m/04ztyr,57.398727,Rosalind Franklin University of Medicine and Science,Rosalind Franklin University of Medicine and Science,100
+1433,/m/0fvr_n,28.80798,Rosemont College,Rosemont College,100
+1434,/m/0c0b79,29.181799,Rush University,Rush University,100
+1435,/m/0clf7n,29.23349,Rust College,Rust College,100
+1436,/m/074p4b,55.291008,"Rutgers, the State University of New Jersey--Camden",Rutgers-Camden,71
+1437,/m/0gf14,32.849201,Ryerson University,Ryerson University,100
+1438,/m/03hk0td,48.223522,Sacred Heart Major Seminary,Sacred Heart Major Seminary,100
+1439,/m/04gz95,47.925915,Saginaw Valley State University,Saginaw Valley State University,100
+1440,/m/0252ym,29.303345,Salem College,Salem College,100
+1441,/m/04pvh0,38.478081,Salem International University,Salem International University,100
+1442,/m/0780xj,38.733829,Salem State University,Salem State University,100
+1443,/m/07vv0r,38.668182,Salish Kootenai College,Salish Kootenai College,100
+1444,/m/02qxg5d,19.892199,Samuel Merritt University,Samuel Merritt College,72
+1445,/m/09j1zb,48.385487,San Diego Christian College,San Diego Christian College,100
+1446,/m/01xk7r,49.11274,San Francisco Art Institute,San Francisco Art Institute,100
+1447,/m/057dm9,48.591236,San Francisco Conservatory of Music,San Francisco Conservatory of Music,100
+1448,,,Sanford College of Nursing,No result,37
+1449,/m/027xx3,42.569019,Santa Clara University,Santa Clara University,100
+1450,/m/02ms6l,56.145695,Santa Fe University of Art and Design,Santa Fe University of Art and Design,100
+1451,/m/01rtm4,47.652546,Sarah Lawrence College,Sarah Lawrence College,100
+1452,/m/03jhs7,60.122093,Savannah College of Art and Design,Savannah College of Art and Design,100
+1453,/m/03xnjy,38.245579,Savannah State University,Savannah State University,100
+1454,/m/0bjqh,64.616676,School of the Art Institute of Chicago,School of the Art Institute of Chicago,100
+1455,/m/01hb1t,50.56319,School of Visual Arts,School of Visual Arts,100
+1456,/m/06l6nx,28.719162,Schreiner University,Schreiner University,100
+1457,/m/02dmch,29.513432,Scripps College,Scripps College,100
+1458,/m/01hyks,38.633553,Seton Hill University,Seton Hill University,100
+1459,/m/02w26k,29.151794,Shaw University,Shaw University,100
+1460,/m/035vyj,38.379883,Shawnee State University,Shawnee State University,100
+1461,/m/05mgfj,29.505413,Shenandoah University,Shenandoah University,100
+1462,/m/048lyc,28.6436,Shepherd University,Shepherd University,100
+1463,/m/01jn0v,28.239613,Shimer College,Shimer College,100
+1464,/m/0601rr,38.222034,Shippensburg University of Pennsylvania,Shippensburg University of Pennsylvania,100
+1465,/m/073d6w,28.940796,Shorter University,Shorter University,100
+1466,/m/01pdf0,29.197325,Siena College,Siena College,100
+1467,/m/09v50n,38.429447,Sierra Nevada College,Sierra Nevada College,100
+1468,/m/04xkv6,39.262314,Silver Lake College,Silver Lake College,100
+1469,/m/0h0ly0,32.746243,Simmons College,Simmons College,100
+1470,/m/071_8,54.2117,Simon Fraser University,Simon Fraser University,100
+1471,/m/06d3n0,28.540236,Simpson University,Simpson University,100
+1472,/m/0clvvx3,38.246956,Sinte Gleska University,Sinte Gleska University,100
+1473,/m/077kfc,38.496223,Sitting Bull College,Sitting Bull College,100
+1474,/m/035gt8,29.128643,Skidmore College,Skidmore College,100
+1475,/m/04wgdx,48.111549,Slippery Rock University of Pennsylvania,Slippery Rock University of Pennsylvania,100
+1476,/m/01kvrz,35.528713,Smith College,Smith College,100
+1477,/m/05cz3c,39.70116,Sojourner-Douglass College,Sojourner-Douglass College,100
+1478,/m/025vsqs,38.203999,Soka University of America,Soka University of America,100
+1479,/m/033q4k,38.436874,Sonoma State University,Sonoma State University,100
+1480,/m/0clvvzj,28.490536,South College,South College,100
+1481,/m/02r4cx,47.993412,South Seattle Community College,South Seattle Community College,100
+1482,/m/0h6sy3,38.319305,South Texas College,South Texas College,100
+1483,/m/026blmn,28.839151,South University,South University,100
+1484,/m/02zgk4,49.381142,Southeast Missouri State University,Southeast Missouri State University,100
+1485,/m/07_pb4,47.856792,Southeastern Oklahoma State University,Southeastern Oklahoma State University,100
+1486,/m/03kpzm,29.023991,Southeastern University,Southeastern University,100
+1487,/m/03hhs8,37.839783,Southern Adventist University,Southern Adventist University,100
+1488,/m/07dr45,38.789726,Southern Arkansas University,Southern Arkansas University,100
+1489,/m/06msjp,51.158791,Southern Baptist Theological Seminary,Southern Baptist Theological Seminary,100
+1490,/m/03tmkg,51.692322,Southern California Institute of Architecture,Southern California Institute of Architecture,100
+1491,/m/02f4s3,77.597404,Southern Illinois University--Carbondale,Southern Illinois University Carbondale,94
+1492,/m/04qspr,68.553474,Southern Illinois University--Edwardsville,Southern Illinois University Edwardsville,95
+1493,/m/06hf4j,40.86924,Southern Nazarene University,Southern Nazarene University,100
+1494,/m/01nyq0,47.554211,Southern Polytechnic State University,Southern Polytechnic State University,100
+1495,/m/03x33n,53.725269,Southern University and A&M College,Southern University and A&M College,100
+1496,/m/09j0nm,36.387653,Southern University--New Orleans,Southern University at New Orleans,87
+1497,/m/02m41x,38.472134,Southern Vermont College,Southern Vermont College,100
+1498,/m/0c341_,37.84087,Southern Wesleyan University,Southern Wesleyan University,100
+1499,/m/03gssq,38.485104,Southwest Baptist University,Southwest Baptist University,100
+1500,/m/02xw1b,47.979607,Southwest Minnesota State University,Southwest Minnesota State University,100
+1501,/m/02qdsnc,21.000784,Southwest University of Visual Arts,The Art Center Design College,27
+1502,/m/04nh9x,38.011131,Southwestern Adventist University,Southwestern Adventist University,100
+1503,/m/03zl22,47.698677,Southwestern Assemblies of God University,Southwestern Assemblies of God University,100
+1504,/m/02z8cv,38.668594,Southwestern Christian College,Southwestern Christian College,100
+1505,/m/099dnr,38.342216,Southwestern Christian University,Southwestern Christian University,100
+1506,/m/0dndw2,48.299484,Southwestern Oklahoma State University,Southwestern Oklahoma State University,100
+1507,/m/04gkgm4,28.868006,Southwestern University,Southwestern University,100
+1508,/m/072p91,28.54311,Spalding University,Spalding University,100
+1509,/m/029x7p,38.441124,Spring Arbor University,Spring Arbor University,100
+1510,/m/037p_w,39.469254,Spring Hill College,Spring Hill College,100
+1511,/m/05fs24,34.978535,Springfield College,Springfield College,100
+1512,/m/05c43hs,24.078957,St. Anthony College of Nursing,St. Anthony College,100
+1513,/m/02wzy_n,38.64032,St. Augustine College,St. Augustine College,100
+1514,/m/09w0fj,22.336842,St. Augustine's University,St. Augustine's College,73
+1515,/m/02l1fn,39.067444,St. Bonaventure University,St. Bonaventure University,100
+1516,/m/0bv2wv,21.579359,St. Catharine College,Saint Catharine College,92
+1517,/m/0411n85,38.871735,St. Catherine University,St. Catherine University,100
+1518,/m/05mwtgd,49.196854,St. Charles Borromeo Seminary,St. Charles Borromeo Seminary,100
+1519,/m/02xv_z,48.579849,St. Cloud State University,St. Cloud State University,100
+1520,/m/01x0jp,42.317928,St. Edward's University,St. Edward's University,100
+1521,/m/064dyn,35.637131,St. Francis College,Saint Francis University,63
+1522,,,St. Francis Medical Center College of Nursing,No result,37
+1523,/m/064dyn,23.70116,St. Francis University,Saint Francis University,93
+1524,/m/09yvtz,38.404663,St. Gregory's University,St. Gregory's University,100
+1525,/m/06ykp,42.633324,St. John Fisher College,Saint John Fisher College,93
+1526,/m/02x0s88,31.401306,St. John Vianney College Seminary,Saint John Vianney College Seminary,95
+1527,/m/027h2p,28.190796,"St. John's College - Annapolis, MD","St. John's College, U.S.",79
+1528,/m/027h2p,1021.01178,"St. John's College - Santa Fe, NM","St. John's College, U.S.",83
+1529,/m/0clvn30,233.334335,"St. John's College - Springfield, IL",St Johns College,87
+1530,/m/01g4c1,821.566467,"St. John's University - Collegeville, MN",College of Saint Benedict,39
+1531,/m/01jzyx,29.774433,"St. John's University - Queens, NY",St. John's University,100
+1532,/m/0dpn12,25.855062,St. Joseph Seminary College,Saint Joseph Seminary College,94
+1533,/m/03p1tb,16.035479,"St. Joseph's College - Rensselaer, IN","Saint Joseph's College, Indiana",70
+1534,/m/02bhj4,10,"St. Joseph's College - Standish, ME",Saint Joseph's University,56
+1535,/m/03p1pf,39.92606,St. Joseph's College New York,St. Joseph's College,100
+1536,/m/02bhj4,30.285894,St. Joseph's University,Saint Joseph's University,93
+1537,/m/02q636,39.480331,St. Lawrence University,St. Lawrence University,100
+1538,/m/02ws5h,22.568901,St. Leo University,Saint Leo University,91
+1539,/m/08wtb9,47.715073,St. Louis College of Pharmacy,St. Louis College of Pharmacy,100
+1540,,,St. Luke's College of Health Sciences,No result,33
+1541,/m/0bdfpf,38.171814,St. Martin's University,St. Martin's University,100
+1542,/m/06b12g,49.149662,St. Mary's College,"St. Mary's College, Oscott",100
+1543,/m/01tntf,42.866741,St. Mary's College of California,Saint Mary's College of California,95
+1544,/m/01q9x9,48.407547,St. Mary's College of Maryland,St. Mary's College of Maryland,100
+1545,/m/05t_dp,49.207466,St. Mary's Seminary and University,St. Mary's Seminary and University,100
+1546,/m/04pmt5,32.644894,St. Mary's University of Minnesota,Saint Mary's University of Minnesota,95
+1547,/m/0m2_n,37.879795,St. Mary's University of San Antonio,"St. Mary's University, Texas",82
+1548,/m/08ldcq,41.418861,St. Mary-of-the-Woods College,Saint Mary-of-the-Woods College,94
+1549,/m/01lckm,47.425137,St. Michael's College,University of St. Michael's College,100
+1550,/m/03hf35,39.895775,St. Norbert College,St. Norbert College,100
+1551,/m/06f0mf,38.882446,St. Paul's College,"St. Paul's College, Sydney",100
+1552,/m/01r4jy,22.325909,St. Peter's University,"Saint Peter's College, New Jersey",54
+1553,/m/06t0hd,37.541088,St. Petersburg College,St. Petersburg College,100
+1554,/m/03bcpj,49.099415,St. Thomas Aquinas College,St. Thomas Aquinas College,100
+1555,/m/0l07h,26.000729,St. Vincent College,Saint Vincent College,91
+1556,/m/0460f3,37.915802,St. Xavier University,St. Xavier University,100
+1557,/m/02zkpf,68.216095,Stephen F. Austin State University,Stephen F. Austin State University,100
+1558,/m/058z2d,37.799168,Stephens College,"St. Stephen's College, Delhi",93
+1559,/m/04px0z,36.566216,"Sterling College - Sterling, KS",Sterling College,100
+1560,/m/04px0z,10,"Sterling College - Craftsbury Common, VT",Sterling College,100
+1561,/m/016sd3,29.567913,Stetson University,Stetson University,100
+1562,/m/04hy37,28.293034,Stevenson University,Stevenson University,100
+1563,/m/04k0bn,28.728455,Stillman College,Stillman College,100
+1564,/m/071vbm,28.922352,Stonehill College,Stonehill College,100
+1565,/m/01vrdk,29.207861,Suffolk University,Suffolk University,100
+1566,/m/032c4q,48.979713,Sul Ross State University,Sul Ross State University,100
+1567,/m/042nh2,29.028177,Sullivan University,Sullivan University,100
+1568,/m/02r5qq,31.385611,SUNY College of Agriculture and Technology--Cobleskill,State University of New York at Cobleskill,42
+1569,/m/02np87,7.808238,SUNY College of Technology--Alfred,Alfred State College,45
+1570,/m/02q5v6,6.835848,SUNY College of Technology--Canton,State University of New York at Canton,41
+1571,/m/02r93z,4.885832,SUNY College of Technology--Delhi,State University of New York at Delhi,40
+1572,/m/02m990,29.848122,SUNY College--Old Westbury,State University of New York at Old Westbury,60
+1573,/m/02m94y,20.039253,SUNY College--Potsdam,State University of New York at Potsdam,50
+1574,/m/06_g9g,48.276394,SUNY Downstate Medical Center,SUNY Downstate Medical Center,100
+1575,/m/02m9jp,27.362677,SUNY Empire State College,Empire State College,100
+1576,/m/02qfp1,31.589396,SUNY Institute of Technology--Utica/Rome,State University of New York Institute of Technology,73
+1577,/m/02qf_b,23.21911,SUNY Maritime College,State University of New York Maritime College,85
+1578,/m/0281l_s,32.559937,SUNY Upstate Medical University,State University of New York Upstate Medical University,90
+1579,/m/04m5b5,28.705572,Susquehanna University,Susquehanna University,100
+1580,/m/04sfxg,39.041248,Sweet Briar College,Sweet Briar College,100
+1581,/m/0g5rlck,28.2535,Tabor College,Tabor College,100
+1582,/m/0fl475,29.208658,Talladega College,Talladega College,100
+1583,/m/04907k,37.728687,Tarleton State University,Tarleton State University,100
+1584,/m/02z9p9,39.087822,Tennessee Technological University,Tennessee Technological University,100
+1585,/m/06tsq8,39.219345,Tennessee Wesleyan College,Tennessee Wesleyan College,100
+1586,/m/04c9df,47.031399,Texas A&M International University,Texas A&M International University,100
+1587,/m/04y6rq,59.408173,Texas A&M University--Commerce,Texas A&M University–Commerce,90
+1588,/m/04_f49,71.325699,Texas A&M University--Corpus Christi,Texas A&M University–Corpus Christi,91
+1589,/m/04xn1k,33.770405,Texas A&M University--Galveston,Texas A&M University at Galveston,87
+1590,/m/04_f7r,58.074787,Texas A&M University--Kingsville,Texas A&M University–Kingsville,90
+1591,/m/04_f96,48.651409,Texas A&M University--Texarkana,Texas A&M University-Texarkana,96
+1592,/m/09yl7p,29.249981,Texas College,Texas College,100
+1593,/m/0431vk,38.214252,Texas Lutheran University,Texas Lutheran University,100
+1594,/m/02ngbs,39.418095,Texas Southern University,Texas Southern University,100
+1595,/m/01sj9x,60.141747,Texas State University,Texas State University–San Marcos,100
+1596,/m/07533x,67.490952,Texas Tech University Health Sciences Center,Texas Tech University Health Sciences Center,100
+1597,/m/05g8fn,38.178848,Texas Wesleyan University,Texas Wesleyan University,100
+1598,/m/03bchl,29.061195,The Sage Colleges,The Sage Colleges,100
+1599,/m/03qnnt,28.658129,Thiel College,Thiel College,100
+1600,/m/07b52m,38.456112,Thomas Aquinas College,Thomas Aquinas College,100
+1601,/m/08rgnf,28.799177,Thomas College,Thomas College,100
+1602,/m/01r4ld,48.870438,Thomas Edison State College,Thomas Edison State College,100
+1603,/m/0l4qb,38.228619,Thomas Jefferson University,Thomas Jefferson University,100
+1604,/m/0bsmqw,38.738968,Thomas More College,Thomas More College,100
+1605,/m/0glc5x,57.729408,Thomas More College of Liberal Arts,Thomas More College of Liberal Arts,100
+1606,/m/0dlwdw,28.495924,Thomas University,Thomas University,100
+1607,/m/0971m8,28.708918,Tiffin University,Tiffin University,100
+1608,/m/043bb1,29.634827,Tilburg University,Tilburg University,100
+1609,/m/01ln5m,38.529785,Toccoa Falls College,Toccoa Falls College,100
+1610,/m/075lv_,28.577564,Tougaloo College,Tougaloo College,100
+1611,/m/069xk5,29.641399,Touro College,Touro College,100
+1612,/m/01mvt4,29.258968,Trent University,Trent University,100
+1613,/m/0f9jh4,19.051735,Trident University International,TUI University,78
+1614,/m/052400,28.282614,Trine University,Trine University,100
+1615,/m/04m59d,38.44537,Trinity Christian College,Trinity Christian College,100
+1616,/m/0clvmzj,52.528778,Trinity College of Nursing & Health Sciences,Trinity College of Nursing and Health Sciences,93
+1617,/m/02qv62,39.086872,Trinity Lutheran College,Trinity Lutheran College,100
+1618,/m/04f4tn,31.092859,"Trinity University - Washington, DC",Trinity Washington University,62
+1619,/m/02km0m,988.63916,"Trinity University - San Antonio, TX",Trinity University,100
+1620,/m/03k_7l,39.025253,Trinity Western University,Trinity Western University,100
+1621,/m/027g83d,38.528858,Truett McConnell College,Truett-McConnell College,95
+1622,/m/05cf0c,28.551916,Tusculum College,Tusculum College,100
+1623,/m/035g_2,133.560379,"Union College - Barbourville, KY",Union College,100
+1624,/m/035h0h,9.652184,"Union College - Lincoln, NE",Union College,100
+1625,/m/02ccqg,387.033875,"Union College - Schenectady, NY",Union College,100
+1626,/m/0cn158,38.861195,Union Institute and University,Union Institute & University,89
+1627,/m/0288bq,57.617462,United States Coast Guard Academy,United States Coast Guard Academy,100
+1628,/m/0810kg,37.474987,United States International University--Kenya,Alliant International University,84
+1629,/m/02fr_8,59.9095,United States Merchant Marine Academy,United States Merchant Marine Academy,100
+1630,/m/07x4c,110.802773,United States Military Academy,United States Military Academy,100
+1631,/m/0g8fs,77.604088,United States Naval Academy,United States Naval Academy,100
+1632,/m/025ypcz,49.324585,United States Sports Academy,United States Sports Academy,100
+1633,/m/02qn4t7,29.069092,Unity College,Unity College,100
+1634,/m/043p59,35.982895,Universidad Adventista de las Antillas,Antillean Adventist University,56
+1635,/m/04kn9k,23.286554,Universidad del Este,Eastern University,44
+1636,/m/0cp4h6v,12.989056,Universidad del Turabo,University of Turabo at Barceloneta,72
+1637,/m/0277j73,28.812675,Universidad Metropolitana,Universidad Metropolitana,100
+1638,/m/0h7gg2k,44.772758,Universidad Politecnica De Puerto Rico,Universidad Politecnica de Puerto Rico-Orlando Campus,97
+1639,/m/02cttt,52.483635,University at Buffalo--SUNY,"University at Buffalo, The State University of New York",77
+1640,/m/0bs_4n,38.292072,University of Advancing Technology,University of Advancing Technology,100
+1641,/m/02txdf,28.86042,University of Akron,University of Akron,100
+1642,/m/02wbp_,46.877586,University of Alaska--Anchorage,University of Alaska Anchorage,93
+1643,/m/02vb0r,52.828354,University of Alaska--Fairbanks,University of Alaska Fairbanks,93
+1644,/m/02wbs2,37.890575,University of Alaska--Southeast,University of Alaska Southeast,93
+1645,/m/01k3s2,49.929737,University of Alberta,University of Alberta,100
+1646,/m/05klpt,49.011673,University of Arkansas for Medical Sciences,University of Arkansas for Medical Sciences,100
+1647,/m/04b70f,54.384388,University of Arkansas--Fort Smith,University of Arkansas - Fort Smith,94
+1648,/m/07dtym,48.578545,University of Arkansas--Little Rock,University of Arkansas at Little Rock,88
+1649,/m/07bmxx,45.678307,University of Arkansas--Monticello,University of Arkansas at Monticello,88
+1650,/m/02j2n3,30.301411,University of Baltimore,University of Baltimore,100
+1651,/m/017cy9,62.922947,University of British Columbia,University of British Columbia,100
+1652,/m/0mbwf,42.200794,University of Calgary,University of Calgary,100
+1653,/m/04964m,38.726189,University of Central Arkansas,University of Central Arkansas,100
+1654,/m/03cy9t,38.552036,University of Central Missouri,University of Central Missouri,100
+1655,/m/03csbd,38.579128,University of Central Oklahoma,University of Central Oklahoma,100
+1656,/m/04l6rp,28.727089,University of Charleston,University of Charleston,100
+1657,/m/0clvsvy,10.992304,University of Cincinnati--UC Blue Ash College,UC Blue Ash,100
+1658,/m/08wscd,29.444073,University of Findlay,University of Findlay,100
+1659,/m/06_y75,38.230373,University of Great Falls,University of Great Falls,100
+1660,/m/02srpb,29.022949,University of Guam,University of Guam,100
+1661,/m/01y9qr,30.281321,University of Guelph,University of Guelph,100
+1662,/m/0308mr,28.5242,University of Hawaii--Hilo,University of Hawaii at Hilo,84
+1663,/m/03b1pl,47.157253,University of Hawaii--Maui College,University of Hawaii Maui College,93
+1664,/m/039swh,48.441891,University of Hawaii--West Oahu,University of Hawaii-West Oahu,96
+1665,/m/04_7mq,49.758476,University of Houston--Clear Lake,University of Houston–Clear Lake,90
+1666,/m/046099,39.22665,University of Houston--Downtown,University of Houston–Downtown,90
+1667,/m/06gh57,39.418056,University of Houston--Victoria,University of Houston–Victoria,90
+1668,/m/024818,44.524731,University of Illinois--Springfield,University of Illinois at Springfield,88
+1669,/m/02fszn,39.355507,University of Indianapolis,Indiana University-Purdue University Indianapolis,88
+1670,/m/04b_hp,14.986402,University of Jamestown,Jamestown College,69
+1671,/m/015q1n,62.098213,University of Kansas,University of Kansas,100
+1672,/m/0dvzs8,20.260323,University of Maine--Augusta,University of Maine at Augusta,85
+1673,/m/04n258,19.369432,University of Maine--Farmington,University of Maine at Farmington,87
+1674,/m/0df8v8,33.323189,University of Maine--Fort Kent,University of Maine at Fort Kent,86
+1675,/m/08fg2y,18.491653,University of Maine--Machias,University of Maine at Machias,85
+1676,/m/020ddc,35.576653,University of Maine--Presque Isle,University of Maine,100
+1677,/m/04p2gq,28.656885,University of Mary,University of Mary,100
+1678,/m/06l8bg,49.603996,University of Mary Hardin-Baylor,University of Mary Hardin-Baylor,100
+1679,/m/02htx3,49.411934,University of Maryland--Eastern Shore,University of Maryland Eastern Shore,94
+1680,/m/02mw1g,56.238102,University of Maryland--University College,University of Maryland University College,95
+1681,/m/023zrb,56.028412,University of Massachusetts--Dartmouth,University of Massachusetts Dartmouth,94
+1682,/m/02lqqd,57.327301,University of Medicine and Dentistry of New Jersey,University of Medicine and Dentistry of New Jersey,100
+1683,/m/029_ch,44.821178,University of Michigan--Flint,University of Michigan-Flint,96
+1684,/m/06bz73,39.422485,University of Minnesota--Crookston,University of Minnesota Crookston,93
+1685,/m/02qc_4,57.00771,University of Minnesota--Duluth,University of Minnesota Duluth,93
+1686,/m/02xw63,39.225475,University of Minnesota--Morris,"University of Minnesota, Morris",93
+1687,/m/01qfbt,47.620331,University of Mississippi Medical Center,University of Mississippi Medical Center,100
+1688,/m/0187m6,83.533386,University of Missouri--St. Louis,University of Missouri–St. Louis,90
+1689,/m/02hp7c,28.887646,University of Mobile,University of Mobile,100
+1690,/m/02_dpx,26.220097,University of Mount Union,Mount Union College,73
+1691,/m/0d1rzh,49.392532,University of Nebraska Medical Center,University of Nebraska Medical Center,100
+1692,/m/05jnnd,37.913475,University of Nebraska--Kearney,University of Nebraska at Kearney,87
+1693,/m/05h3ds,54.593521,University of Nebraska--Omaha,University of Nebraska at Omaha,86
+1694,/m/07wkd,55.821098,University of New Brunswick,University of New Brunswick,100
+1695,/m/02ldmw,44.855965,University of North Carolina School of the Arts,North Carolina School of the Arts,100
+1696,/m/024gyr,44.7421,University of North Carolina--Pembroke,University of North Carolina at Pembroke,89
+1697,/m/0jt5nm8,46.722294,University of North Georgia,University of North Georgia,100
+1698,/m/02x430q,38.206604,University of Northwestern Ohio,University of Northwestern Ohio,100
+1699,/m/01qx6_,55.741405,University of Northwestern--St. Paul,Northwestern College,65
+1700,/m/011kn2,28.720036,University of Ottawa,University of Ottawa,100
+1701,/m/0g56864,17.231657,University of Pikeville,University of Pikeville Kentucky College of Osteopathic Medicine,100
+1702,/m/07wl2,47.407158,University of Prince Edward Island,University of Prince Edward Island,100
+1703,/m/0clvxmk,37.090504,University of Puerto Rico--Aguadilla,Inter American University of Puerto Rico-Aguadilla,98
+1704,/m/0clvxp2,37.090504,University of Puerto Rico--Arecibo,Inter American University of Puerto Rico-Arecibo,98
+1705,/m/0cnf_8p,40.062328,University of Puerto Rico--Bayamon,American University of Puerto Rico-Bayamon,98
+1706,/m/03kpt9,24.687496,University of Puerto Rico--Cayey,University of Puerto Rico at Cayey,87
+1707,/m/03kq52,24.512686,University of Puerto Rico--Humacao,University of Puerto Rico at Humacao,88
+1708,/m/02bfj8,82.540016,University of Puerto Rico--Mayaguez,University of Puerto Rico at Mayagüez,85
+1709,/m/03kqgb,68.077576,University of Puerto Rico--Medical Sciences Campus,"University of Puerto Rico, Medical Sciences Campus",96
+1710,/m/0clvxqd,40.628803,University of Puerto Rico--Ponce,Inter American University of Puerto Rico-Ponce,98
+1711,/m/03kpl7,97.00779,University of Puerto Rico--Rio Piedras,"University of Puerto Rico, Rio Piedras Campus",94
+1712,/m/01rs7r,29.228519,University of Redlands,University of Redlands,100
+1713,/m/0280gx,33.083622,University of Regina,University of Regina,100
+1714,/m/0bhv_l,37.963417,University of Rio Grande,University of Rio Grande,100
+1715,/m/05gm16l,33.217899,University of Saskatchewan,University of Saskatchewan,100
+1716,/m/05pbwh,48.778114,University of Science and Arts of Oklahoma,University of Science and Arts of Oklahoma,100
+1717,/m/015bjw,30.676205,University of Scranton,University of Scranton,100
+1718,/m/0cysf_,38.967682,University of Sioux Falls,University of Sioux Falls,100
+1719,/m/01cx7g,49.980225,University of South Carolina--Aiken,University of South Carolina Aiken,94
+1720,/m/0clvvt1,53.960541,University of South Carolina--Beaufort,University of South Carolina-Beaufort,97
+1721,/m/03fr0y,50.606396,University of South Carolina--Upstate,University of South Carolina Upstate,94
+1722,/m/0207yx,58.435059,University of South Florida--St. Petersburg,University of South Florida St. Petersburg,95
+1723,/m/01n0s7,38.43856,University of Southern Indiana,University of Southern Indiana,100
+1724,/m/05bf4q,102.012108,"University of St. Francis - Joliet, IL",University of Saint Francis,88
+1725,/m/07r6ml,10,"University of St. Francis - Fort Wayne, IN",University of Saint Francis,88
+1726,/m/026f8mb,31.23016,University of St. Joseph,Université Saint-Joseph,75
+1727,/m/05h5r4,22.817465,University of St. Mary,University of Saint Mary of the Lake,86
+1728,/m/02tcv_,28.405125,"University of St. Thomas - St. Paul, MN",University of St. Thomas,100
+1729,/m/02qd1f,17.671207,"University of St. Thomas - Houston, TX",University of St. Thomas,100
+1730,/m/03sfp8,36.773197,University of Tampa,University of Tampa,100
+1731,/m/03xnv5,53.198284,University of Tennessee--Chattanooga,University of Tennessee at Chattanooga,88
+1732,/m/02zg4q,49.985565,University of Tennessee--Martin,University of Tennessee at Martin,87
+1733,/m/050vcv,61.753601,University of Texas Health Science Center--Houston,The University of Texas Health Science Center at Houston,92
+1734,/m/025rxdy,79.178284,University of Texas Health Science Center--San Antonio,University of Texas Health Science Center at San Antonio,92
+1735,/m/02lr9z,37.94743,University of Texas Medical Branch--Galveston,University of Texas Medical Branch,100
+1736,/m/04__wj,48.109066,University of Texas of the Permian Basin,University of Texas of the Permian Basin,100
+1737,/m/04cd4c,10.504725,University of Texas--Brownsville,University of Texas at Brownsville and Texas Southmost College,87
+1738,/m/037k8z,74.840851,University of Texas--Pan American,University of Texas–Pan American,90
+1739,/m/03szws,63.011429,University of Texas--San Antonio,University of Texas at San Antonio,87
+1740,/m/05rm__,32.965004,University of Texas--Tyler,University of Texas at Tyler,84
+1741,/m/02dnrn,47.360123,University of the Arts,University of the Arts,100
+1742,/m/01gyr7,28.026804,University of the Cumberlands,University of the Cumberlands,100
+1743,/m/037qq_,38.35281,University of the District of Columbia,University of the District of Columbia,100
+1744,/m/097byf,37.805138,University of the Incarnate Word,University of the Incarnate Word,100
+1745,/m/05pz_j,28.595791,University of the Ozarks,University of the Ozarks,100
+1746,/m/05h693,38.787556,University of the Sacred Heart,University of the Sacred Heart,100
+1747,/m/01pwvp,23.836227,University of the Sciences,University of the Sciences in Philadelphia,100
+1748,/m/089ykd,28.121853,University of the Southwest,University of the Southwest,100
+1749,/m/0909wd,38.517059,University of the Virgin Islands,University of the Virgin Islands,100
+1750,/m/04chyn,41.095974,University of the West,University of the West Indies,100
+1751,/m/02klny,36.736858,University of Toledo,University of Toledo,100
+1752,/m/07wjk,63.639488,University of Toronto,University of Toronto,100
+1753,/m/07wlt,38.034904,University of Victoria,University of Victoria,100
+1754,/m/025sr8x,20.84553,University of Virginia--Wise,The University of Virginia's College at Wise,82
+1755,/m/0jpkw,33.241024,University of Waterloo,University of Waterloo,100
+1756,/m/07c5fv,38.746296,University of West Alabama,University of West Alabama,100
+1757,/m/01y9pk,33.220985,University of Windsor,University of Windsor,100
+1758,/m/02st53,29.418133,University of Winnipeg,University of Winnipeg,100
+1759,/m/02hg14,50.482094,University of Wisconsin--Superior,University of Wisconsin-Superior,96
+1760,/m/02k4vl,48.994122,University of Wisconsin--Whitewater,University of Wisconsin-Whitewater,97
+1761,/m/0220q6,29.543531,Urbana University,University of Illinois at Urbana-Champaign,58
+1762,/m/0c59s8,28.852062,Ursuline College,Ursuline College,100
+1763,/m/03dzn_,38.578144,Utah Valley University,Utah Valley University,100
+1764,/m/0285cw0,29.584211,Utica College,Utica College,100
+1765,/m/032371,38.222603,Valdosta State University,Valdosta State University,100
+1766,/m/02t9nq,48.161049,Valley City State University,Valley City State University,100
+1767,/m/026z5rs,47.894924,Valley Forge Christian College,Valley Forge Christian College,100
+1768,/m/0bz10v,38.938385,VanderCook College of Music,Vandercook College of Music,96
+1769,/m/04qxpz,48.596806,Vanguard University of Southern California,Vanguard University of Southern California,100
+1770,/m/037sk9,48.85104,Vaughn College of Aeronautics and Technology,Vaughn College of Aeronautics and Technology,100
+1771,/m/02jjtg,38.50309,Vermont Technical College,Vermont Technical College,100
+1772,/m/05cj63,16.222511,Victory University,Crichton College,37
+1773,/m/031gq7,33.368546,Vincennes University,Vincennes University,100
+1774,/m/02xhkt,38.389572,Virginia Intermont College,Virginia Intermont College,100
+1775,/m/02zr0z,39.273735,Virginia Union University,Virginia Union University,100
+1776,/m/03v2q1,38.467682,Virginia Wesleyan College,Virginia Wesleyan College,100
+1777,/m/04h7tn,28.707714,Viterbo University,Viterbo University,100
+1778,/m/0df64c,28.821466,Voorhees College,Voorhees College,100
+1779,/m/083ls,29.233936,Wabash College,Wabash College,100
+1780,/m/046lgs,29.268837,Wagner College,Wagner College,100
+1781,/m/01jq4b,45.706348,Wake Forest University,Wake Forest University,100
+1782,/m/06832q,29.205088,Walden University,Walden University,100
+1783,/m/045s_6,28.789988,Waldorf College,Waldorf College,100
+1784,/m/015r27,28.684595,Walla Walla University,Walla Walla University,100
+1785,/m/03cdxy2,37.958042,Walsh College of Accountancy and Business Administration,Walsh College of Accountancy and Business,100
+1786,/m/07lwfc,29.173609,Walsh University,Walsh University,100
+1787,/m/05l0hv,38.604214,Warner Pacific College,Warner Pacific College,100
+1788,/m/02pjdm,28.475521,Warner University,Warner University,100
+1789,/m/03ysv6,38.677467,Warren Wilson College,Warren Wilson College,100
+1790,/m/027vj2,33.942215,Washburn University,Washburn University,100
+1791,/m/01n46p,38.314133,Washington Adventist University,Washington Adventist University,100
+1792,/m/037s9x,46.590622,Washington and Jefferson College,Washington & Jefferson College,90
+1793,/m/07wywq,56.059227,"Watkins College of Art, Design & Film","Watkins College of Art, Design & Film",100
+1794,/m/0b0p9p,38.379524,Wayland Baptist University,Wayland Baptist University,100
+1795,/m/065n9c,38.729683,Wayne State College,Wayne State College,100
+1796,/m/01s0_f,45.098042,Wayne State University,Wayne State University,100
+1797,/m/02z0y2f,29.271847,Waynesburg University,Waynesburg University,100
+1798,/m/035gx8,29.45517,Webb Institute,Webb Institute,100
+1799,/m/027_j2p,38.393898,Webber International University,Webber International University,100
+1800,/m/02zcz3,39.542149,Weber State University,Weber State University,100
+1801,/m/05chjq,27.764771,Welch College,Welch College,100
+1802,/m/02l8lt,29.206787,Wells College,Wells College,100
+1803,/m/066823,37.976311,Wentworth Institute of Technology,Wentworth Institute of Technology,100
+1804,/m/0dc83z,28.937571,Wesley College,Wesley College,100
+1805,/m/04hb0l,29.124275,Wesleyan College,Wesleyan College,100
+1806,/m/04wgfy,47.947102,West Chester University of Pennsylvania,West Chester University of Pennsylvania,100
+1807,/m/04lbv7,37.158077,West Liberty University,West Liberty University,100
+1808,/m/029fvh,47.290627,West Texas A&M University,West Texas A&M University,100
+1809,/m/04lr53,47.65596,West Virginia State University,West Virginia State University,100
+1810,/m/04lb1v,58.282356,West Virginia University Institute of Technology,West Virginia University Institute of Technology,100
+1811,/m/04lbnf,32.565468,West Virginia University--Parkersburg,West Virginia University at Parkersburg,89
+1812,/m/04pvqq,47.885014,West Virginia Wesleyan College,West Virginia Wesleyan College,100
+1813,/m/01chgb,38.439266,Western Carolina University,Western Carolina University,100
+1814,/m/07wn1b,38.228062,Western Governors University,Western Governors University,100
+1815,/m/02zd2b,41.777328,Western Illinois University,Western Illinois University,100
+1816,/m/04jsz5,38.867935,Western International University,Western International University,100
+1817,/m/015fs3,45.52906,Western Michigan University,Western Michigan University,100
+1818,/m/0gy4yw,37.655373,Western Nevada College,Western Nevada College,100
+1819,/m/07pbmr,46.627071,Western New England University,Western New England University,100
+1820,/m/08y_cl,49.869556,Western New Mexico University,Western New Mexico University,100
+1821,/m/01jssp,30.181438,Western University,University of Pittsburgh,55
+1822,/m/08p_p3,21.775547,Westfield State University,Westfield State College,73
+1823,/m/077m01,12.425445,"Westminster College - Fulton, MO","Westminster College, Missouri",68
+1824,/m/03f9l,27.003239,"Westminster College - New Wilmington, PA",Geneva College,64
+1825,/m/04s9mk,29.154007,Westmont College,Westmont College,100
+1826,/m/041g_4,14.053879,"Wheaton College - Norton, MA",Wheaton College,100
+1827,/m/027s3j,38.921356,Wheeling Jesuit University,Wheeling Jesuit University,100
+1828,/m/0737yn,29.235296,Wheelock College,Wheelock College,100
+1829,/m/024n53,28.651876,Whittier College,Whittier College,100
+1830,/m/02qn_z,28.187656,Whitworth University,Whitworth University,100
+1831,/m/01kkph,28.672569,Wilberforce University,Wilberforce University,100
+1832,/m/01lqg1,28.634726,Wiley College,Wiley College,100
+1833,/m/02t20y,29.414272,Wilkes University,Wilkes University,100
+1834,/m/05lkx8,22.290567,William Carey University,William Carey College,71
+1835,/m/0bwkpz,38.456059,William Jessup University,William Jessup University,100
+1836,/m/09w02c,21.450857,William Peace University,Peace College,53
+1837,/m/05xb9z,38.336166,William Penn University,William Penn University,100
+1838,/m/0bh0b7,38.003433,William Woods University,William Woods University,100
+1839,/m/03_4zv,38.606827,Williams Baptist College,Williams Baptist College,100
+1840,/m/02595g,29.287453,Wilmington College,Wilmington College,100
+1841,/m/027wdzx,28.280045,Wilmington University,Wilmington University,100
+1842,/m/07z3d0,29.360821,Wilson College,Wilson College,100
+1843,/m/06rpwt,29.268002,Wingate University,Wingate University,100
+1844,/m/02xw2f,38.629955,Winona State University,Winona State University,100
+1845,/m/02ldlt,49.633442,Winston-Salem State University,Winston-Salem State University,100
+1846,/m/0bry04,39.022427,Wisconsin Lutheran College,Wisconsin Lutheran College,100
+1847,/m/035yzw,41.274826,Wittenberg University,Martin Luther University of Halle-Wittenberg,71
+1848,/m/09r9c_,28.596518,Woodbury University,Woodbury University,100
+1849,/m/01q96q,39.065975,Worcester Polytechnic Institute,Worcester Polytechnic Institute,100
+1850,/m/038jyb,37.451927,Worcester State University,Worcester State University,100
+1851,/m/02bjh4,38.883881,Wright State University,Wright State University,100
+1852,/m/05cfh4,35.333347,York College,"York College, City University of New York",100
+1853,/m/04q8yl,37.913143,York College of Pennsylvania,York College of Pennsylvania,100
+1854,/m/0bwfn,48.506115,York University,New York University,100
+1855,/m/02m4sc,38.760674,Youngstown State University,Youngstown State University,100
+1856,/m/0clvlpg,0.03975,BMG,Yeshiva Toras Chaim Talmudical Seminary,0
+1857,/m/01f1r4,1.366957,UCSB,"University of California, Santa Barbara",25
+1859,/m/04zjf0,38.338711,Augusta State University,Augusta State University,100
+1860,/m/033w82,15.767849,CSU Channel Islands,"California State University, Channel Islands",84
+1861,,,Leadership Institute of Seattle Saybrook University,No result,44
+1862,/m/04xf0n,38.334648,El Camino College,El Camino College,100
+1863,/m/023bxm,1.730518,CUNY,CUNY Graduate Center,100
+1864,/m/02pptm,10,California State University- Sacremento,"California State University, Fresno",85
+1865,/m/07f5b8,39.141178,American Intercontinental University,American InterContinental University,97
+1866,/m/04118cq,3.978852,"Saitama University, JAPAN",Saitama Prefectural University,55
+1867,,,Al Mustansiriyah Uni.,No result,33
+1868,/m/052p70,28.803469,Vesalius College,Vesalius College,100
+1869,/m/0279l1,47.951012,elizabeth city state university,Elizabeth City State University,87
+1870,/m/07ccs,74.349487,Texas A&M University--College Station,Texas A&M University,100
+1871,/m/0vb3ly0,6.299999,Hanoi University of Law,Hanoi Law University,80
+1872,/m/027jlk1,28.796532,Skyline College,Skyline College,100
+1873,/m/02dq8f,29.84811,SUNY Albany,"University at Albany, The State University of New York",63
+1874,/m/02nwb7,35.184689,Chulalongkorn University,Chulalongkorn University,100
+1875,/m/02ldkf,47.106888,North Carolina a&t state university,North Carolina Agricultural and Technical State University,57
+1876,/m/01t0dy,50.354973,Queens College,"Queens College, City University of New York",100
+1877,/m/04vz9r,49.212204,Indiana University (South Bend),Indiana University South Bend,96
+1878,/m/02gnjf,25.983572,DeVry Institute of Technology,DeVry University,62
+1879,/m/0pz6q,65.178329,Albert-Ludwigs-Universität Freiburg im Breisgau,Albert Ludwigs University of Freiburg,83
+1880,,,"Univeristy of California, Merced",No result,33
+1881,/m/08rk9b,15.96521,Atlantic Cape CC,Atlantic Cape Community College,93
+1882,/m/02g0gf,44.91655,Baruch College,Baruch College,100
+1883,/m/01wv24,60.309006,Ateneo De Manila University,Ateneo de Manila University,96
+1884,,,New York University Gallatin,No result,33
+1885,/m/02gnjf,29.764732,Devry University,DeVry University,93
+1886,/m/03bcdd,59.563789,long Island University,Long Island University C.W. Post Campus,95
+1887,/m/06hnmh,0.990861,MGIMO,Moscow State Institute of International Relations,20
+1888,,,National College of Midwifery,No result,33
+1889,/m/01x3x1,55.349182,embry riddle aeronautical,Embry-Riddle Aeronautical University,84
+1890,/m/04hgpt,71.648491,Pennsylvania State University ,Pennsylvania State University,100
+1891,/m/06t0hd,20.057194,Saint Petersburg College,St. Petersburg College,93
+1892,/m/03kygh,22.976748,"University of Pune, India",University of Pune,100
+1893,/m/02d_zc,64.989899,Colorado state university,Colorado State University,92
+1894,/m/03m3d1,47.703262,Polytechnic University of Puerto Rico,Polytechnic University of Puerto Rico,100
+1895,/m/0clw9pr,26.487917,Wolford College,Wolford College,100
+1896,/m/01x0jp,11.703466,St.Edwards University,St. Edward's University,90
+1897,/m/0bx8bl,36.594723,American Military University,American Military University,100
+1898,/m/02r2wpr,28.071648,Ashworth College,Ashworth College,100
+1899,/m/02zd2b,35.495838,Western Illinois ,Western Illinois University,100
+1900,/m/01y20v,42.577839,Wheaton College,Wheaton College,100
+1901,,,"JKUAT, Kenya",No result,23
+1902,/m/0lyjf,57.852516,University of miami,University of Miami,94
+1903,/m/02gnjf,2.594658,DeVry,DeVry University,100
+1904,/m/052nd,38.868721,mcgill university,McGill University,82
+1905,/m/02jyr8,1.858862,UAB,University of Alabama at Birmingham,33
+1906,/m/0cfv1,38.681404,Michigan technological university,Michigan Technological University,93
+1907,/m/04lbnf,48.159374,West Virginia University at Parkersburg,West Virginia University at Parkersburg,100
+1908,/m/04rwx,93.187256,Massachusetts Institute of Technology ,Massachusetts Institute of Technology,100
+1909,/m/02hg14,50.482094,University of wisconsin-Superior,University of Wisconsin-Superior,96
+1910,/m/0vkl2,79.459557,School of Oriental and African Studies - University of London,"SOAS, University of London",80
+1911,,,Keller Scholl of management,No result,22
+1912,/m/02gnjf,2.594658,Devry,DeVry University,80
+1913,,,West wood college,No result,33
+1914,/m/0c_5g9,38.962112,COLORADO TECHNICAL UNIVERSITY,Colorado Technical University,17
+1915,/m/03kygh,29.169754,University of Pune,University of Pune,100
+1916,/m/0gn9_3,48.845329,Chicago School of Professional Psychology,Chicago School of Professional Psychology,100
+1917,/m/025v3k,68.091599, university of Minnesota,University of Minnesota,95
+1918,/m/045hc2,41.38538, Gustavus Adolphus College,Gustavus Adolphus College,100
+1919,/m/03mbw11,58.056328,Arizona School of Dentistry and Oral Health,Arizona School of Dentistry and Oral Health,100
+1920,/m/03gsyj,56.316067,University of Michigan--Dearborn,University of Michigan-Dearborn,96
+1921,/m/02hwww,23.273418,Mumbai University,University of Mumbai,58
+1922,/m/01g6l8,12.508293,"University of Helsinki, Finland",University of Helsinki,100
+1923,/m/05mxkp,29.22595,Bryant university ,Bryant University,94
+1924,/m/0bx8pn,78.695183,University of North Carolina,University of North Carolina at Chapel Hill,100
+1925,/m/0gl5_,51.358891,Boston university,Boston University,94
+1926,/m/09shcp,32.606537,Eastern Florida State,Eastern Florida State College,100
+1927,/m/024818,44.524731,University of Illinois-Springfield,University of Illinois at Springfield,88
+1928,/m/03nsp_5,48.767723,Saint Anthony College of Nursing ,Saint Anthony College of Nursing,100
+1929,/m/061s54,55.923515,Miami dade college,Miami Dade College,88
+1930,/m/03np_7,56.101994,University of Texas at Arlington,University of Texas at Arlington,100
+1931,/m/02htx3,49.411934,university of maryland eastern shore,University of Maryland Eastern Shore,88
+1932,,,Some Shit School,No result,33
+1933,/m/03csvtg,47.546791,University of Leeds Business School,University of Leeds Business School,100
+1934,/m/05rm__,39.120617,University of Texas at Tyler,University of Texas at Tyler,100
+1935,/m/0dz693,28.701506,Cleary University ,Cleary University,100
+1936,/m/04my63,10.974238,Université Panthéon-Assas (Paris II),Pantheon-Assas University,64
+1937,/m/07vhb,37.68961,UC Santa Cruz,"University of California, Santa Cruz",84
+1938,/m/01xvlc,30.344261,Loughborough University,Loughborough University,100
+1939,/m/0hsb3,22.085049,The London School of Economics & Science,London School of Economics and Political Science,72
+1940,/m/0hsb3,78.65519,The London School of Economics & Political Science,London School of Economics and Political Science,95
+1941,/m/01ny2p,19.451582,Maharishi International University,Maharishi University of Management,58
+1942,/m/02q8_2v,13.312832,"National Institute of Technology, Trichy, India",NIT Trichy,70
+1943,,,University of Masschusetts Amherst,No result,44
+1944,/m/0clvlzg,37.994747,Full Sail University,Full Sail University,100
+1945,/m/046vm,29.634836,Jadavpur University,Jadavpur University,100
+1946,/m/0trv,69.636246,Arizona state university,Arizona State University,91
+1947,/m/04chyn,66.59462,University of the West Indies,University of the West Indies,100
+1948,/m/01pj48,32.834663,University of Auckland,University of Auckland,100
+1949,/m/022lly,39.371414,ball state university,Ball State University,85
+1950,/m/03kwls,38.085484,Yonsei University,Yonsei University,100
+1951,/m/024818,44.524731,University of Illinois-- Springfield,University of Illinois at Springfield,91
+1952,/m/02f4s3,77.597404,Southern Illinois University carbondale,Southern Illinois University Carbondale,97
+1953,/m/02hwww,29.137318,University of Mumbai,University of Mumbai,100
+1954,/m/0cnnk1,4.21768,"Monash University, Melbourne - Australia",Monash University Law Faculty,65
+1955,,,"KBP Satara,India",No result,22
+1956,/m/02h659,30.601711,Rollins college,Rollins College,93
+1957,/m/02hwww,29.137318,University Of Mumbai,University of Mumbai,95
+1958,/m/0bjqh,0.713303,saic,School of the Art Institute of Chicago,50
+1959,/m/01yx1b,100.442383,University of Wisconsin - Madison,University of Wisconsin-Madison,93
+1960,/m/050xpd,26.317558,Delhi University,University of Delhi,62
+1961,/m/0187n1,48.392784,Missouri university of science and technology,Missouri University of Science and Technology,93
+1962,/m/06v_pw,2.261179,PFeiffer,Pfeiffer University,87
+1963,/m/01x0jp,42.317928,St. Edwards University,St. Edward's University,95
+1964,,,Keller Grad School of Management,No result,22
+1965,,,Academy of Economic Studies Romania,No result,22
+1966,/m/01p896,35.914375,Binghamton University,Binghamton University,100
+1967,/m/01ptt7,50.324795,University of kentucky,University of Kentucky,95
+1968,/m/01ptt7,50.324795,University of Kentucky,University of Kentucky,100
+1969,/m/015q1n,62.098213,university of kansas,University of Kansas,90
+1970,/m/026m3y,50.325092,Queen Mary University of London,"Queen Mary, University of London",96
+1971,/m/016c9h,63.805771,Indian Institute of Technology Bombay,Indian Institute of Technology Bombay,100
+1972,/m/02p9xn,28.170666,Montana Tech,Montana Tech of The University of Montana,100
+1973,/m/0c4wbc,5.455215,Roseman Health Sciences,Roseman University of Health Sciences,73
+1974,/m/07vk2,39.143612,University of Sydney,University of Sydney,100
+1975,/m/04hgpt,52.919392,Penn state,Pennsylvania State University,60
+1976,/m/03ww_5,38.374504,Diablo Valley College,Diablo Valley College,100
+1977,/m/01xk7r,38.958363,Art Institute of San Francisco,San Francisco Art Institute,65
+1978,/m/013807,47.22818,San Francisco state,San Francisco State University,94
+1979,/m/01wdj_,41.787842,Auburn university ,Auburn University,94
+1980,/m/016c9h,1.961017,IIT,Indian Institute of Technology Bombay,33
+1981,/m/01yqqv,31.80715,Bradley university,Bradley University,94
+1982,/m/02vpg0,37.193676,Northland International University,Northland International University,100
+1983,/m/03v6t,59.259712,Iowa state university,Iowa State University,90
+1984,/m/04x8mj,59.224892,Pennsylvania Academy of Fine Arts,Pennsylvania Academy of the Fine Arts,87
+1985,,,Saginaw Valley State Univesity,No result,44
+1986,/m/04gz95,0.562938,SVSU,Saginaw Valley State University,25
+1987,/m/0ks67,62.114006,Rutgers University,Rutgers University,100
+1988,/m/025v3k,68.091599,University of Minnesota,University of Minnesota,100
+1989,/m/02nf69,74.953667,BRIGHAM YOUNG UNIVERSITY (IDAHO),Brigham Young University-Idaho,20
+1990,/m/01hb1t,50.56319,School of visual arts,School of Visual Arts,90
+1991,/m/08rk9b,48.38203,Atlantic Cape Community College,Atlantic Cape Community College,100
+1992,/m/0388r7,29.940962,University of St. Gallen (Switzerland),University of St. Gallen,100
+1993,/m/02bfj8,82.540016,University of Puerto Rico-Mayaguez,University of Puerto Rico at Mayagüez,88
+1994,/m/0bjqh,58.699745,School of Art Institute of Chicago,School of the Art Institute of Chicago,88
+1995,/m/02bfj8,82.540016,University of Puerto Rico - Mayaguez,University of Puerto Rico at Mayagüez,88
+1996,/m/03d405k,23.882145,The New England Institute of Art,New England Institute of Art,100
+1997,/m/0jksm,30.086365,Tsinghua University,Tsinghua University,100
+1998,/m/09c0ln,48.858856,"The Illinois Institute of Art, Chicago",The Illinois Institute of Art - Chicago,94
+1999,/m/07my0b,20.298923,Pontificia Universidad Javeriana,Pontifical Xavierian University,61
+2000,/m/075z01,32.522453,carey school of business,W. P. Carey School of Business,87
+2001,,,"Edinburgh University or similar in that area, applying for 2015",No result,44
+2002,/m/07vhb,83.542397,University of California Santa Cruz,"University of California, Santa Cruz",97
+2003,/m/01qrb2,76.863922,Indiana University - Bloomington,Indiana University Bloomington,93
+2004,/m/0438f,0.924959,JMU,James Madison University,33
+2005,/m/02qvmtf,39.123669,Carey Business School,Carey Business School,100
+2006,/m/06g9gh,28.31057,University of Lagos,University of Lagos,100
+2007,,,Art Institute of Phildelphia,No result,33
+2008,/m/08zq_c,48.31662,University of Maine at Presque Isle,University of Maine at Presque Isle,100
+2009,/m/014jyk,36.799793,University of Liverpool,University of Liverpool,100
+2010,,,Northeastern University & Eastern Nazarene College,No result,66
+2011,,,asdasd,No result,18
+2012,,,American Univ. of Dubai,No result,35
+2013,/m/029fvh,35.433174,West Texas A & M,West Texas A&M University,81
+2014,/m/08815,5.682084,Yale,Yale University,100
+2015,/m/02lvvt,19.712133,SUNY Oswego,State University of New York at Oswego,63
+2016,/m/02m9jp,27.362677,SUNY - Empire State College,Empire State College,100
+2017,/m/0344bc,2.427002,Derby,University of Derby,100
