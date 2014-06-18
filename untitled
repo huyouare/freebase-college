@@ -1,0 +1,23 @@
+import csv
+
+# Master
+master_ipeds = set()
+master_ipeds_dict = dict()
+
+with open('master-matching.csv', 'rU') as csvfile:
+  reader = csv.reader(csvfile)
+  next(reader, None)
+  for row in reader:
+    master_ipeds.add(row[0])
+    master_ipeds_dict.add(row)
+
+outfile = open('final-output-vs-master-matching.csv', 'w')
+
+# vs output-final
+accred_colleges = set()
+accred_rows = dict()
+
+with open('accredidation-ipeds.csv', 'rU') as csvfile:
+  reader = csv.reader(csvfile)
+  for row in reader:
+    
