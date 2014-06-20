@@ -4,7 +4,7 @@ import csv
 ipeds_colleges = set()
 ipeds_dict = dict()
 
-with open('ipeds-2012-b.csv', 'rU') as csvfile:
+with open('ipeds-2012-c.csv', 'rU') as csvfile:
   reader = csv.reader(csvfile)
   next(reader, None)
   for row in reader:
@@ -18,7 +18,7 @@ writer = csv.writer(outfile)
 with open('master-matching.csv', 'rU') as csvfile:
   reader = csv.reader(csvfile)
   row = next(reader)
-  writer.writerow( row + ['SAT CR 25th', 'SAT CR 75th', 'SAT M 25th', 'SAT M 75th', 'SAT W 25th', 'SAT W 75th', 'ACT Composite 25th', 'ACT Composite 75th', 'Graduation Rate', 'Retention Rate'])
+  writer.writerow( row + ['Percent Submitting SAT', 'Percet Submitting ACT', 'SAT CR 25th', 'SAT CR 75th', 'SAT M 25th', 'SAT M 75th', 'SAT W 25th', 'SAT W 75th', 'ACT Composite 25th', 'ACT Composite 75th', 'Graduation Rate', 'Retention Rate'])
   for row in reader:
     new_row = row
     if (row[0] != '') and (int(row[0]) in ipeds_colleges):
